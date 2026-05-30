@@ -1,4 +1,4 @@
-export { AppButton } from './button/button';
-export { IngredientsList } from './ingredients-list/ingredients-list';
-export { Pill } from './pill/pill';
-export { RecipeCard } from './recipe-card/recipe-card';
+export { default as AppButton } from './button/button';
+export { default as IngredientsList } from './ingredients-list/ingredients-list';
+export { default as Pill } from './pill/pill';
+export { default as RecipeCard } from './recipe-card/recipe-card';

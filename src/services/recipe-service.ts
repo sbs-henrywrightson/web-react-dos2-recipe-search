@@ -1,4 +1,4 @@
-import type { Recipe } from '../types/recipe';
+import type { Recipe } from '@types';
 
 class RecipeService {
   private cache: Recipe[] | null = null;

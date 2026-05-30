@@ -1,4 +1,4 @@
-import { AppButton } from '../button/button';
+import { AppButton } from '@components';
 
 type Props = {
   value: string;
@@ -7,7 +7,7 @@ type Props = {
   onPillClick: (value: string) => void;
 };
 
-export function Pill({ value, highlight, className, onPillClick }: Props) {
+export default function Pill({ value, highlight, className, onPillClick }: Props) {
   const handleClick = () => {
     onPillClick(value);
   };

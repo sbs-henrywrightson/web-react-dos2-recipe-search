@@ -1,5 +1,5 @@
-import type { Recipe } from '../../types';
-import { IngredientsList } from '../ingredients-list/ingredients-list';
+import { IngredientsList } from '@components';
+import type { Recipe } from '@types';
 
 type RecipeCardProps = {
   recipe: Recipe;
@@ -7,7 +7,7 @@ type RecipeCardProps = {
   onIngredientClick: (ingredient: string) => void;
 };
 
-export function RecipeCard({ recipe, query, onIngredientClick }: RecipeCardProps) {
+export default function RecipeCard({ recipe, query, onIngredientClick }: RecipeCardProps) {
   return (
     <div className='rounded-md border border-gray-500 bg-surface p-1.5 hover:shadow-md transition'>
       <div className='flex items-center justify-between'>

@@ -1,5 +1,5 @@
-import type { Recipe } from '../../types';
-import { Pill } from '../pill/pill';
+import { Pill } from '@components';
+import type { Recipe } from '@types';
 
 type Props = {
   recipe: Recipe;
@@ -7,7 +7,7 @@ type Props = {
   onPillClick: (value: string) => void;
 };
 
-export function IngredientsList({ recipe, query, onPillClick }: Props) {
+export default function IngredientsList({ recipe, query, onPillClick }: Props) {
   return (
     <div className='flex flex-wrap gap-1 mt-1'>
       {recipe.tool && (

@@ -1,9 +1,9 @@
+import { RecipeCard } from '@components';
+import { recipeService } from '@services';
+import type { Recipe, RecipeGroup } from '@types';
 import { useEffect, useMemo, useState } from 'react';
-import { RecipeCard } from './components';
-import { recipeService } from './services';
-import type { Recipe, RecipeGroup } from './types';
 
-export default function CraftingSearchPage() {
+export default function SearchPage() {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [loading, setLoading] = useState(true);
 
