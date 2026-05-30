@@ -1,4 +1,4 @@
-import { IngredientsList } from '@components';
+import { AppButton, IngredientsList } from '@components';
 import type { Recipe } from '@types';
 
 type RecipeCardProps = {
@@ -11,7 +11,13 @@ export default function RecipeCard({ recipe, query, onIngredientClick }: RecipeC
   return (
     <div className='rounded-md border border-gray-500 bg-surface p-1.5 hover:shadow-md transition'>
       <div className='flex items-center justify-between'>
-        <h3 className='font-semibold mb-1'>{recipe.result}</h3>
+        <AppButton
+          buttonType='plain'
+          className='text-xl font-semibold px-1 rounded hover:bg-recipe-type-hover'
+          onClick={() => onIngredientClick(recipe.result.toLowerCase())}
+        >
+          {recipe.result}
+        </AppButton>
         {recipe.subtype && <p className='text-xs'>({recipe.subtype})</p>}
       </div>
 

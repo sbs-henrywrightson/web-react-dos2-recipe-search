@@ -35,6 +35,7 @@
 
   --color-recipe-type-background: var(--color-recipe-type-background);
   --color-recipe-type: var(--color-recipe-type);
+  --color-recipe-type-hover: var(--color-recipe-type-hover);
   --color-recipe-type-muted: var(--color-recipe-type-muted);
 
   --font-size-lg: var(--font-size-lg);
@@ -77,6 +78,7 @@
 
   --color-recipe-type-background: hsl(0, 0%, 91%);
   --color-recipe-type: hsl(104, 100%, 38%);
+  --color-recipe-type-hover: hsl(116, 100%, 10%);
   --color-recipe-type-muted: hsl(0, 0%, 78%);
 
   --font-size-lg: 12pt;
@@ -102,6 +104,7 @@
 
     --color-recipe-type-background: hsl(116, 100%, 3%);
     --color-recipe-type: hsl(105, 100%, 34%);
+    --color-recipe-type-hover: hsl(116, 100%, 10%);
     --color-recipe-type-muted: hsl(0, 0%, 30%);
 
     --color-form-field-background: hsl(0, 0%, 0%);

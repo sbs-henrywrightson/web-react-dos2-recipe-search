@@ -1,4 +1,4 @@
-import { RecipeCard } from '@components';
+import { AppButton, RecipeCard } from '@components';
 import { recipeService } from '@services';
 import type { Recipe, RecipeGroup } from '@types';
 import { useEffect, useMemo, useState } from 'react';
@@ -73,12 +73,17 @@ export default function SearchPage() {
     setCollapsedGroups(reset);
   }, [filteredRecipes]);
 
-  function toggleGroup(type: string) {
+  const toggleGroup = (type: string) => {
+    console.log('toggle');
     setCollapsedGroups((prev) => ({
       ...prev,
       [type]: !prev[type],
     }));
-  }
+  };
+
+  const handleIngredientClick = (ingredient: string) => {
+    setQuery(ingredient.toLowerCase());
+  };
 
   if (loading) {
     return (
@@ -88,8 +93,9 @@ export default function SearchPage() {
     );
   }
 
-  const handleIngredientClick = (ingredient: string) => {
-    setQuery(ingredient.toLowerCase());
+  const handleGroupClick = (e: React.MouseEvent, recipeType: string) => {
+    e.stopPropagation();
+    setQuery(recipeType.toLowerCase());
   };
 
   return (
@@ -117,13 +123,19 @@ export default function SearchPage() {
               <div
                 className={[
                   hasRecipes
-                    ? 'flex items-center justify-between px-2 pt-2 text-recipe-type'
-                    : 'flex items-center justify-between text-recipe-type-muted',
+                    ? 'flex items-center justify-between px-2 pt-2 text-recipe-type cursor-pointer'
+                    : 'text-recipe-type-muted w-max',
                   collapsed && hasRecipes ? 'pb-3' : '',
                 ].join(' ')}
                 onClick={() => toggleGroup(group.type)}
               >
-                <h2 className='text-xl font-semibold'>{group.type}</h2>
+                <AppButton
+                  buttonType='plain'
+                  className='text-xl font-semibold px-1 rounded hover:bg-recipe-type-hover'
+                  onClick={(e: React.MouseEvent) => handleGroupClick(e, group.type)}
+                >
+                  {group.type}
+                </AppButton>
 
                 {hasRecipes && <p className='text-sm'>{collapsed ? 'Show' : 'Hide'}</p>}
               </div>
