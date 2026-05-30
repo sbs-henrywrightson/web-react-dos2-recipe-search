@@ -1,0 +1,22 @@
+@import './button.css';
+
+@layer components {
+  .outline-button {
+    @apply base-button;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: theme(--color-button-outline-border);
+    color: theme(--color-button-outline-foreground);
+
+    &:hover:not(:disabled) {
+      background-color: theme(--color-button-outline-hover);
+    }
+
+    &:disabled {
+      background-color: theme(--color-button-disabled);
+      border-color: theme(--color-button-disabled);
+      color: theme(--color-form-field-text-disabled);
+    }
+  }
+}

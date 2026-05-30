@@ -1,0 +1,17 @@
+@utility base-button {
+  appearance: none;
+  text-decoration: none;
+  display: inline-grid;
+  font-weight: 600;
+  text-align: center;
+  font-size: theme(--font-size-lg);
+  line-height: 1;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+
+  &:active:not(:disabled) {
+    @apply translate-x-px translate-y-px;
+  }
+}

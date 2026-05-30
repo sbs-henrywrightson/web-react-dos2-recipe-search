@@ -1,0 +1,131 @@
+@import 'tailwindcss';
+@import './styles/button/filled-button.css';
+@import './styles/button/outline-button.css';
+@import './styles/button/plain-button.css';
+
+@theme {
+  --color-background: var(--color-background);
+  --color-foreground: var(--color-foreground);
+
+  --color-button-disabled: var(--color-button-disabled);
+
+  --color-button-filled-background: var(--color-button-filled-background);
+  --color-button-filled-foreground: var(--color-button-filled-foreground);
+  --color-button-filled-border: var(--color-button-filled-border);
+  --color-button-filled-hover: var(--color-button-filled-hover);
+  --color-button-filled-active: var(--color-button-filled-active);
+
+  --color-button-outline-background: var(--color-button-outline-background);
+  --color-button-outline-foreground: var(--color-button-outline-foreground);
+  --color-button-outline-border: var(--color-button-outline-border);
+  --color-button-outline-hover: var(--color-button-outline-hover);
+  --color-button-outline-active: var(--color-button-outline-active);
+
+  --color-button-plain-foreground: var(--color-button-plain-foreground);
+  --color-button-plain-hover: var(--color-button-plain-hover);
+  --color-button-plain-active: var(--color-button-plain-active);
+
+  --color-button-tool-background: var(--color-button-tool-background);
+  --color-button-tool-border: var(--color-button-tool-border);
+  --color-button-tool-hover: var(--color-button-tool-hover);
+
+  --color-form-field-background: var(--color-form-field-background);
+  --color-form-field-text-disabled: var(--color-form-field-text-disabled);
+  --color-form-field-border: var(--color-form-field-border);
+
+  --color-recipe-type-background: var(--color-recipe-type-background);
+  --color-recipe-type: var(--color-recipe-type);
+  --color-recipe-type-muted: var(--color-recipe-type-muted);
+
+  --font-size-lg: var(--font-size-lg);
+}
+
+:root {
+  --color-background: hsl(0, 0%, 100%);
+  --color-foreground: hsl(0, 0%, 0%);
+
+  --color-button-disabled: hsl(0, 0%, 45%);
+
+  /* FILLED BUTTON */
+  --color-button-filled-background: hsl(34, 78%, 20%);
+  --color-button-filled-border: hsl(34, 78%, 20%);
+  --color-button-filled-foreground: hsl(0, 0%, 100%);
+  --color-button-filled-hover: hsl(0, 0%, 39%);
+  --color-button-filled-active: hsl(0, 0%, 29%);
+
+  /* OUTLINE BUTTON */
+  --color-button-outline-background: hsl(34, 78%, 20%);
+  --color-button-outline-foreground: hsl(0, 0%, 100%);
+  --color-button-outline-border: hsl(0, 0%, 0%);
+  --color-button-outline-hover: hsl(0, 0%, 39%);
+  --color-button-outline-active: hsl(0, 0%, 29%);
+
+  /* PLAIN BUTTON */
+  --color-button-plain-foreground: hsl(0, 0%, 0%);
+  --color-button-plain-hover: hsl(0, 0%, 39%);
+  --color-button-plain-active: hsl(0, 0%, 29%);
+
+  /* TOOL BUTTON */
+  --color-button-tool-background: hsl(34, 62%, 30%);
+  --color-button-tool-border: hsl(34, 78%, 20%);
+  --color-button-tool-hover: hsl(34, 91%, 39%);
+  --color-button-tool-active: hsl(0, 0%, 29%);
+
+  --color-form-field-background: hsl(0, 0%, 21%);
+  --color-form-field-text-disabled: hsl(0, 0%, 65%);
+  --color-form-field-border: hsl(0, 0%, 84%);
+
+  --color-recipe-type-background: hsl(0, 0%, 91%);
+  --color-recipe-type: hsl(104, 100%, 38%);
+  --color-recipe-type-muted: hsl(0, 0%, 78%);
+
+  --font-size-lg: 12pt;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: hsl(0, 0%, 2%);
+    --color-foreground: hsl(0, 0%, 100%);
+
+    --color-button-filled-background: hsl(34, 62%, 20%);
+    --color-button-filled-border: hsl(34, 62%, 50%);
+    --color-button-filled-hover: hsl(34, 62%, 40%);
+    --color-button-filled-active: hsl(0, 0%, 29%);
+
+    --color-button-plain-foreground: hsl(0, 0%, 100%);
+    --color-button-plain-hover: hsl(0, 0%, 25%);
+    --color-button-plain-active: hsl(0, 0%, 90%);
+
+    --color-button-tool-background: hsl(242, 100%, 20%);
+    --color-button-tool-border: hsl(242, 100%, 50%);
+    --color-button-tool-hover: hsl(242, 100%, 40%);
+
+    --color-recipe-type-background: hsl(116, 100%, 3%);
+    --color-recipe-type: hsl(105, 100%, 34%);
+    --color-recipe-type-muted: hsl(0, 0%, 30%);
+
+    --color-form-field-background: hsl(0, 0%, 0%);
+
+    --color-button-outline-border: hsl(0, 0%, 100%);
+  }
+}
+
+body {
+  @apply bg-background text-foreground;
+}
+
+h1 {
+  @apply text-4xl font-bold tracking-tight;
+}
+
+h2 {
+  @apply text-2xl font-semibold tracking-tight;
+}
+
+h3 {
+  @apply text-lg font-medium leading-4;
+}
+
+p {
+  @apply leading-4;
+}

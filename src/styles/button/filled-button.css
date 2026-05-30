@@ -1,0 +1,24 @@
+@import './button.css';
+
+@layer components {
+  .filled-button {
+    @apply base-button;
+
+    background-color: theme(--color-button-filled-background);
+    color: theme(--color-button-filled-foreground);
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: theme(--color-button-filled-border);
+
+    &:hover:not(:disabled) {
+      background-color: theme(--color-button-filled-hover);
+    }
+
+    &:disabled {
+      background-color: theme(--color-button-disabled);
+      border-color: theme(--color-button-disabled);
+      color: theme(--color-form-field-text-disabled);
+    }
+  }
+}

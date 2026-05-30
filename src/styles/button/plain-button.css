@@ -1,0 +1,22 @@
+@import './button.css';
+
+@layer components {
+  .plain-button {
+    @apply base-button;
+
+    color: theme(--color-button-plain-foreground);
+
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: transparent; */
+
+    &:hover:not(:disabled) {
+      background-color: theme(--color-button-plain-hover);
+    }
+
+    &:disabled {
+      background-color: theme(--color-button-disabled);
+      color: theme(--color-form-field-text-disabled);
+    }
+  }
+}
