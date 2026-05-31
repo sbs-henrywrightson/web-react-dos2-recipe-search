@@ -85,14 +85,6 @@ export default function SearchPage() {
     setQuery(ingredient.toLowerCase());
   };
 
-  if (loading) {
-    return (
-      <main className='mx-auto max-w-7xl px-4 py-8'>
-        <p>Loading recipes…</p>
-      </main>
-    );
-  }
-
   const handleGroupClick = (e: React.MouseEvent, recipeType: string) => {
     e.stopPropagation();
     setQuery(recipeType.toLowerCase());
@@ -110,61 +102,64 @@ export default function SearchPage() {
           type='search'
           value={query}
           onChange={(e) => setQuery(e.target.value.toLowerCase())}
-          placeholder={`Search ${recipes.length} recipes...`}
+          placeholder={loading ? 'Loading recipes...' : `Search ${recipes.length} recipes...`}
           className='w-full rounded-lg border bg-form-field-background border-form-field-border px-4 py-3'
+          disabled={loading}
         />
       </header>
 
-      <div>
-        {groupedRecipes.map((group) => {
-          const hasRecipes = group.recipes.length > 0;
-          const collapsed = collapsedGroups[group.type] ?? !hasRecipes;
+      {!loading && (
+        <div>
+          {groupedRecipes.map((group) => {
+            const hasRecipes = group.recipes.length > 0;
+            const collapsed = collapsedGroups[group.type] ?? !hasRecipes;
 
-          return (
-            <section
-              key={group.type}
-              className={
-                hasRecipes
-                  ? 'my-6 rounded-lg border border-[hsl(0,0%,60%)] dark:border-[hsl(116,50%,20%)] bg-recipe-type-background'
-                  : ''
-              }
-            >
-              <div
-                className={[
+            return (
+              <section
+                key={group.type}
+                className={
                   hasRecipes
-                    ? 'flex items-center justify-between px-2 pt-2 text-recipe-type cursor-pointer'
-                    : 'text-recipe-type-muted w-max',
-                  collapsed && hasRecipes ? 'pb-3' : '',
-                ].join(' ')}
-                onClick={() => toggleGroup(group.type)}
+                    ? 'my-6 rounded-lg border border-[hsl(0,0%,60%)] dark:border-[hsl(116,50%,20%)] bg-recipe-type-background'
+                    : ''
+                }
               >
-                <AppButton
-                  buttonType='plain'
-                  className={`text-xl font-semibold ${!hasRecipes ? 'text-recipe-type-muted' : ''} px-1 rounded hover:bg-recipe-type-hover`}
-                  onClick={(e: React.MouseEvent) => handleGroupClick(e, group.type)}
+                <div
+                  className={[
+                    hasRecipes
+                      ? 'flex items-center justify-between px-2 pt-2 text-recipe-type cursor-pointer'
+                      : 'text-recipe-type-muted w-max',
+                    collapsed && hasRecipes ? 'pb-3' : '',
+                  ].join(' ')}
+                  onClick={() => toggleGroup(group.type)}
                 >
-                  {group.type}
-                </AppButton>
+                  <AppButton
+                    buttonType='plain'
+                    className={`text-xl font-semibold ${!hasRecipes ? 'text-recipe-type-muted' : ''} px-1 rounded hover:bg-recipe-type-hover`}
+                    onClick={(e: React.MouseEvent) => handleGroupClick(e, group.type)}
+                  >
+                    {group.type}
+                  </AppButton>
 
-                {hasRecipes && <p className='text-sm'>{collapsed ? 'Show' : 'Hide'}</p>}
-              </div>
-
-              {!collapsed && hasRecipes && (
-                <div className='grid grid-cols-1 gap-2 p-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4'>
-                  {group.recipes.map((recipe) => (
-                    <RecipeCard
-                      key={recipe.id}
-                      recipe={recipe}
-                      query={query}
-                      onIngredientClick={handleIngredientClick}
-                    />
-                  ))}
+                  {hasRecipes && <p className='text-sm'>{collapsed ? 'Show' : 'Hide'}</p>}
                 </div>
-              )}
-            </section>
-          );
-        })}
-      </div>
+
+                {!collapsed && hasRecipes && (
+                  <div className='grid grid-cols-1 gap-2 p-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4'>
+                    {group.recipes.map((recipe) => (
+                      <RecipeCard
+                        key={recipe.id}
+                        recipe={recipe}
+                        query={query}
+                        onIngredientClick={handleIngredientClick}
+                      />
+                    ))}
+                  </div>
+                )}
+              </section>
+            );
+          })}
+        </div>
+      )}
     </main>
   );
 }
