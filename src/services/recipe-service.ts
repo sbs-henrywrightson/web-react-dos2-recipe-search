@@ -9,7 +9,8 @@ class RecipeService {
       return this.cache;
     }
 
-    const res = await fetch('/dos2-recipes.json');
+    console.log(import.meta.env.BASE_URL);
+    const res = await fetch(`${import.meta.env.BASE_URL}dos2-recipes.json`);
 
     if (!res.ok) {
       throw new Error('Failed to load recipes');
