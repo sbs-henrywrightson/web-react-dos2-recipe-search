@@ -33,7 +33,7 @@ export default function SearchPage() {
   // found recipes
   const filteredRecipes = useMemo(() => {
     const query = debouncedQuery.trim();
-    if (!query || query.length <= 3) {
+    if (!query || query.length < 3) {
       return [];
     }
 

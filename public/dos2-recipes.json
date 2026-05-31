@@ -64,12 +64,12 @@
     "type": "Containers",
     "subtype": null,
     "tool": "Crafter's Hammer",
-    "result": "Mini Chest (Lockbox)",
+    "result": "Mini Chest (lockbox)",
     "ingredients": [
       "Nails",
       "Wood Chips"
     ],
-    "searchTerms": "containers crafter's hammer mini chest lockbox nails wood chips"
+    "searchTerms": "containers crafter's hammer mini chest (lockbox) nails wood chips"
   },
   {
     "id": 7,
@@ -280,12 +280,12 @@
     "type": "Containers",
     "subtype": null,
     "tool": "Crafter's Hammer",
-    "result": "Skillbook Scroll Bag",
+    "result": "Skillbook & Scroll Bag",
     "ingredients": [
       "Resurrect Scroll",
       "Scraps Leather"
     ],
-    "searchTerms": "containers crafter's hammer resurrect scroll scraps leather skillbook  scroll bag"
+    "searchTerms": "containers crafter's hammer resurrect scroll scraps leather skillbook & scroll bag"
   },
   {
     "id": 25,
@@ -1033,13 +1033,13 @@
     "id": 88,
     "type": "Items",
     "subtype": null,
-    "tool": "Mortar Pestle",
+    "tool": "Mortar & Pestle",
     "result": "Bowl",
     "ingredients": [
       "Crafter's Hammer",
       "Sharp Rock"
     ],
-    "searchTerms": "bowl crafter's hammer items mortar  pestle sharp rock"
+    "searchTerms": "bowl crafter's hammer items mortar & pestle sharp rock"
   },
   {
     "id": 89,
@@ -1144,12 +1144,12 @@
     "type": "Items",
     "subtype": null,
     "tool": null,
-    "result": "Magic Thread Needle",
+    "result": "Magic Thread & Needle",
     "ingredients": [
       "Pixie Dust",
-      "Thread Needle"
+      "Thread & Needle"
     ],
-    "searchTerms": "items magic thread  needle pixie dust thread needle"
+    "searchTerms": "items magic thread & needle pixie dust"
   },
   {
     "id": 98,
@@ -1158,10 +1158,10 @@
     "tool": "Anvil",
     "result": "Gold Bar",
     "ingredients": [
-      "Any Gold Object (Plate Knife Cup Spoon)",
+      "Any Gold Object (plate, Knife, Cup, Spoon..)",
       "Crafter's Hammer"
     ],
-    "searchTerms": "anvil any gold object plate knife cup spoon crafter's hammer gold bar items"
+    "searchTerms": "anvil any gold object (plate, knife, cup, spoon..) crafter's hammer gold bar items"
   },
   {
     "id": 99,
@@ -1203,24 +1203,24 @@
     "type": "Items",
     "subtype": null,
     "tool": null,
-    "result": "Inkpot Quill",
+    "result": "Inkpot & Quill",
     "ingredients": [
       "Inkpot",
       "Quill"
     ],
-    "searchTerms": "inkpot  quill items"
+    "searchTerms": "inkpot & quill items"
   },
   {
     "id": 103,
     "type": "Items",
     "subtype": null,
     "tool": null,
-    "result": "Magical Inkpot Quill",
+    "result": "Magical Inkpot & Quill",
     "ingredients": [
-      "Inkpot Quill",
+      "Inkpot & Quill",
       "Pixie Dust"
     ],
-    "searchTerms": "inkpot quill items magical inkpot  quill pixie dust"
+    "searchTerms": "items magical inkpot & quill pixie dust"
   },
   {
     "id": 104,
@@ -1467,86 +1467,86 @@
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Mask Of The Shapeshifter Shapeshifter Mask Human",
+    "result": "Mask Of The Shapeshifter = Shapeshifter Mask Human",
     "ingredients": [
       "Shapeshifter Mask Dwarf",
       "Shapeshifter Mask Elf",
       "Shapeshifter Mask Lizard",
       "Source Orb"
     ],
-    "searchTerms": "armour mask of the shapeshifter  shapeshifter mask human shapeshifter mask dwarf shapeshifter mask elf shapeshifter mask lizard source orb"
+    "searchTerms": "armour mask of the shapeshifter = shapeshifter mask human shapeshifter mask dwarf shapeshifter mask elf shapeshifter mask lizard source orb"
   },
   {
     "id": 125,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Xx Elemental Resistance Xx Max Physical Armour",
+    "result": "+xx% Elemental Resistance / +xx% Max Physical Armour",
     "ingredients": [
       "Any Armour With Empty Rune Socket",
       "Rune"
     ],
-    "searchTerms": "xx elemental resistance  xx max physical armour any armour with empty rune socket"
+    "searchTerms": "+xx% elemental resistance / +xx% max physical armour any armour with empty rune socket"
   },
   {
     "id": 126,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "X Combat Ability Constitution",
+    "result": "+x Combat Ability/constitution",
     "ingredients": [
       "Any Armour With Empty Rune Socket",
       "Mystical Rune"
     ],
-    "searchTerms": "x combat abilityconstitution any armour with empty rune socket mystical rune"
+    "searchTerms": "+x combat ability/constitution any armour with empty rune socket mystical rune"
   },
   {
     "id": 127,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "X Attribute",
+    "result": "+x Attribute",
     "ingredients": [
       "Any Armour With Empty Rune Socket",
       "Rune Of Power"
     ],
-    "searchTerms": "x attribute any armour with empty rune socket rune of power"
+    "searchTerms": "+x attribute any armour with empty rune socket rune of power"
   },
   {
     "id": 128,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Xx Dodging Max Vitality Max Magical Armour Crit Chance Initiative Accuracy",
+    "result": "+xx Dodging / Max Vitality / Max Magical Armour / Crit.chance / Initiative / Accuracy",
     "ingredients": [
       "Any Trinket With Empty Rune Socket",
       "Rune"
     ],
-    "searchTerms": "xx dodging  max vitality  max magical armour  critchance  initiative  accuracy any trinket with empty rune socket"
+    "searchTerms": "+xx dodging / max vitality / max magical armour / crit.chance / initiative / accuracy any trinket with empty rune socket"
   },
   {
     "id": 129,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "X Aerotheurge Memory Geomancer Hydrosophist Pyrocinetic Necromancer",
+    "result": "+x Aerotheurge / Memory / Geomancer / Hydrosophist / Pyrocinetic / Necromancer",
     "ingredients": [
       "Any Trinket With Empty Rune Socket",
       "Mystical Rune"
     ],
-    "searchTerms": "x aerotheurge  memory  geomancer  hydrosophist  pyrocinetic  necromancer any trinket with empty rune socket armour mystical rune"
+    "searchTerms": "+x aerotheurge / memory / geomancer / hydrosophist / pyrocinetic / necromancer any trinket with empty rune socket armour mystical rune"
   },
   {
     "id": 130,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "X Finesse Strength Intelligence",
+    "result": "+x Finesse/strength/intelligence",
     "ingredients": [
       "Any Trinket With Empty Rune Socket",
       "Rune Of Power"
     ],
-    "searchTerms": "x finessestrengthintelligence any trinket with empty rune socket armour rune of power"
+    "searchTerms": "+x finesse/strength/intelligence any trinket with empty rune socket armour rune of power"
   },
   {
     "id": 131,
@@ -1592,9 +1592,9 @@
     "result": "Boots Crafting Special Ataraxian",
     "ingredients": [
       "Eternal Artefact",
-      "Shoes Boots"
+      "Shoes/boots"
     ],
-    "searchTerms": "armour boots crafting special ataraxian eternal artefact shoes boots"
+    "searchTerms": "armour boots crafting special ataraxian eternal artefact shoes/boots"
   },
   {
     "id": 135,
@@ -1661,32 +1661,32 @@
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 10)",
+    "result": "Physical Armour Boost (up To 10)",
     "ingredients": [
       "Armour Belt",
       "Scraps Leather"
     ],
-    "searchTerms": "armour belt physical armour boost up to 10 scraps leather"
+    "searchTerms": "armour belt physical armour boost (up to 10) scraps leather"
   },
   {
     "id": 141,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 20)",
+    "result": "Physical Armour Boost (up To 20)",
     "ingredients": [
       "Armour Belt",
       "Scraps Leather",
       "Scraps Leather"
     ],
-    "searchTerms": "armour belt physical armour boost up to 20 scraps leather"
+    "searchTerms": "armour belt physical armour boost (up to 20) scraps leather"
   },
   {
     "id": 142,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 30)",
+    "result": "Physical Armour Boost (up To 30)",
     "ingredients": [
       "Armour Belt",
       "Scraps Leather",
@@ -1694,239 +1694,239 @@
       "Scraps Leather",
       "Scraps Leather"
     ],
-    "searchTerms": "armour belt physical armour boost up to 30 scraps leather"
+    "searchTerms": "armour belt physical armour boost (up to 30) scraps leather"
   },
   {
     "id": 143,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 10)",
+    "result": "Physical Armour Boost (up To 10)",
     "ingredients": [
-      "Leather Upperbody Gloves Boots Helmet Pants",
+      "Leather Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Leather"
     ],
-    "searchTerms": "leather upperbody gloves boots helmet pants physical armour boost up to 10 scraps leather"
+    "searchTerms": "leather upperbody, gloves, boots, helmet, pants physical armour boost (up to 10) scraps leather"
   },
   {
     "id": 144,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 20)",
+    "result": "Physical Armour Boost (up To 20)",
     "ingredients": [
-      "Leather Upperbody Gloves Boots Helmet Pants",
+      "Leather Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Leather",
       "Scraps Leather"
     ],
-    "searchTerms": "leather upperbody gloves boots helmet pants physical armour boost up to 20 scraps leather"
+    "searchTerms": "leather upperbody, gloves, boots, helmet, pants physical armour boost (up to 20) scraps leather"
   },
   {
     "id": 145,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 30)",
+    "result": "Physical Armour Boost (up To 30)",
     "ingredients": [
-      "Leather Upperbody Gloves Boots Helmet Pants",
+      "Leather Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Leather",
       "Scraps Leather",
       "Scraps Leather",
       "Scraps Leather"
     ],
-    "searchTerms": "leather upperbody gloves boots helmet pants physical armour boost up to 30 scraps leather"
+    "searchTerms": "leather upperbody, gloves, boots, helmet, pants physical armour boost (up to 30) scraps leather"
   },
   {
     "id": 146,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 10)",
+    "result": "Physical Armour Boost (up To 10)",
     "ingredients": [
-      "Mage Upperbody Gloves Boots Helmet Pants",
+      "Mage Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Cloth"
     ],
-    "searchTerms": "mage upperbody gloves boots helmet pants physical armour boost up to 10 scraps cloth"
+    "searchTerms": "mage upperbody, gloves, boots, helmet, pants physical armour boost (up to 10) scraps cloth"
   },
   {
     "id": 147,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 20)",
+    "result": "Physical Armour Boost (up To 20)",
     "ingredients": [
-      "Mage Upperbody Gloves Boots Helmet Pants",
+      "Mage Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Cloth",
       "Scraps Cloth"
     ],
-    "searchTerms": "mage upperbody gloves boots helmet pants physical armour boost up to 20 scraps cloth"
+    "searchTerms": "mage upperbody, gloves, boots, helmet, pants physical armour boost (up to 20) scraps cloth"
   },
   {
     "id": 148,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 30)",
+    "result": "Physical Armour Boost (up To 30)",
     "ingredients": [
-      "Mage Upperbody Gloves Boots Helmet Pants",
+      "Mage Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Cloth",
       "Scraps Cloth",
       "Scraps Cloth",
       "Scraps Cloth"
     ],
-    "searchTerms": "mage upperbody gloves boots helmet pants physical armour boost up to 30 scraps cloth"
+    "searchTerms": "mage upperbody, gloves, boots, helmet, pants physical armour boost (up to 30) scraps cloth"
   },
   {
     "id": 149,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 10)",
+    "result": "Physical Armour Boost (up To 10)",
     "ingredients": [
-      "Cloth Upperbody Gloves Boots Helmet Pants",
+      "Cloth Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Cloth"
     ],
-    "searchTerms": "cloth upperbody gloves boots helmet pants physical armour boost up to 10 scraps cloth"
+    "searchTerms": "cloth upperbody, gloves, boots, helmet, pants physical armour boost (up to 10) scraps cloth"
   },
   {
     "id": 150,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 20)",
+    "result": "Physical Armour Boost (up To 20)",
     "ingredients": [
-      "Cloth Upperbody Gloves Boots Helmet Pants",
+      "Cloth Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Cloth",
       "Scraps Cloth"
     ],
-    "searchTerms": "cloth upperbody gloves boots helmet pants physical armour boost up to 20 scraps cloth"
+    "searchTerms": "cloth upperbody, gloves, boots, helmet, pants physical armour boost (up to 20) scraps cloth"
   },
   {
     "id": 151,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 30)",
+    "result": "Physical Armour Boost (up To 30)",
     "ingredients": [
-      "Cloth Upperbody Gloves Boots Helmet Pants",
+      "Cloth Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Cloth",
       "Scraps Cloth",
       "Scraps Cloth",
       "Scraps Cloth"
     ],
-    "searchTerms": "cloth upperbody gloves boots helmet pants physical armour boost up to 30 scraps cloth"
+    "searchTerms": "cloth upperbody, gloves, boots, helmet, pants physical armour boost (up to 30) scraps cloth"
   },
   {
     "id": 152,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 10)",
+    "result": "Physical Armour Boost (up To 10)",
     "ingredients": [
       "Scraps Metal",
-      "Warrior Upperbody Gloves Boots Helmet Pants"
+      "Warrior Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "physical armour boost up to 10 scraps metal warrior upperbody gloves boots helmet pants"
+    "searchTerms": "physical armour boost (up to 10) scraps metal warrior upperbody, gloves, boots, helmet, pants"
   },
   {
     "id": 153,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 20)",
+    "result": "Physical Armour Boost (up To 20)",
     "ingredients": [
       "Scraps Metal",
       "Scraps Metal",
-      "Warrior Upperbody Gloves Boots Helmet Pants"
+      "Warrior Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "physical armour boost up to 20 scraps metal warrior upperbody gloves boots helmet pants"
+    "searchTerms": "physical armour boost (up to 20) scraps metal warrior upperbody, gloves, boots, helmet, pants"
   },
   {
     "id": 154,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 30)",
+    "result": "Physical Armour Boost (up To 30)",
     "ingredients": [
       "Scraps Metal",
       "Scraps Metal",
       "Scraps Metal",
       "Scraps Metal",
-      "Warrior Upperbody Gloves Boots Helmet Pants"
+      "Warrior Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "physical armour boost up to 30 scraps metal warrior upperbody gloves boots helmet pants"
+    "searchTerms": "physical armour boost (up to 30) scraps metal warrior upperbody, gloves, boots, helmet, pants"
   },
   {
     "id": 155,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 10)",
+    "result": "Physical Armour Boost (up To 10)",
     "ingredients": [
-      "Plate Upperbody Gloves Boots Helmet Pants",
+      "Plate Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Plate"
     ],
-    "searchTerms": "physical armour boost up to 10 plate upperbody gloves boots helmet pants scraps plate"
+    "searchTerms": "physical armour boost (up to 10) plate upperbody, gloves, boots, helmet, pants scraps plate"
   },
   {
     "id": 156,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 20)",
+    "result": "Physical Armour Boost (up To 20)",
     "ingredients": [
-      "Plate Upperbody Gloves Boots Helmet Pants",
+      "Plate Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Plate",
       "Scraps Plate"
     ],
-    "searchTerms": "physical armour boost up to 20 plate upperbody gloves boots helmet pants scraps plate"
+    "searchTerms": "physical armour boost (up to 20) plate upperbody, gloves, boots, helmet, pants scraps plate"
   },
   {
     "id": 157,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 30)",
+    "result": "Physical Armour Boost (up To 30)",
     "ingredients": [
-      "Plate Upperbody Gloves Boots Helmet Pants",
+      "Plate Upperbody, Gloves, Boots, Helmet, Pants",
       "Scraps Plate",
       "Scraps Plate",
       "Scraps Plate",
       "Scraps Plate"
     ],
-    "searchTerms": "physical armour boost up to 30 plate upperbody gloves boots helmet pants scraps plate"
+    "searchTerms": "physical armour boost (up to 30) plate upperbody, gloves, boots, helmet, pants scraps plate"
   },
   {
     "id": 158,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 10)",
+    "result": "Physical Armour Boost (up To 10)",
     "ingredients": [
       "Scraps Metal",
       "Shield"
     ],
-    "searchTerms": "physical armour boost up to 10 scraps metal shield"
+    "searchTerms": "physical armour boost (up to 10) scraps metal shield"
   },
   {
     "id": 159,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 20)",
+    "result": "Physical Armour Boost (up To 20)",
     "ingredients": [
       "Scraps Metal",
       "Scraps Metal",
       "Shield"
     ],
-    "searchTerms": "physical armour boost up to 20 scraps metal shield"
+    "searchTerms": "physical armour boost (up to 20) scraps metal shield"
   },
   {
     "id": 160,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 30)",
+    "result": "Physical Armour Boost (up To 30)",
     "ingredients": [
       "Scraps Metal",
       "Scraps Metal",
@@ -1934,47 +1934,47 @@
       "Scraps Metal",
       "Shield"
     ],
-    "searchTerms": "physical armour boost up to 30 scraps metal shield"
+    "searchTerms": "physical armour boost (up to 30) scraps metal shield"
   },
   {
     "id": 161,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 10)",
+    "result": "Physical Armour Boost (up To 10)",
     "ingredients": [
       "Scraps Plate",
-      "Vanilla Unique Upperbody Gloves Boots Helmet Pants"
+      "Vanilla Unique Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "physical armour boost up to 10 scraps plate vanilla unique upperbody gloves boots helmet pants"
+    "searchTerms": "physical armour boost (up to 10) scraps plate vanilla unique upperbody, gloves, boots, helmet, pants"
   },
   {
     "id": 162,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 20)",
+    "result": "Physical Armour Boost (up To 20)",
     "ingredients": [
       "Scraps Plate",
       "Scraps Plate",
-      "Vanilla Unique Upperbody Gloves Boots Helmet Pants"
+      "Vanilla Unique Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "physical armour boost up to 20 scraps plate vanilla unique upperbody gloves boots helmet pants"
+    "searchTerms": "physical armour boost (up to 20) scraps plate vanilla unique upperbody, gloves, boots, helmet, pants"
   },
   {
     "id": 163,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Physical Armour Boost (Up To 30)",
+    "result": "Physical Armour Boost (up To 30)",
     "ingredients": [
       "Scraps Plate",
       "Scraps Plate",
       "Scraps Plate",
       "Scraps Plate",
-      "Vanilla Unique Upperbody Gloves Boots Helmet Pants"
+      "Vanilla Unique Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "physical armour boost up to 30 scraps plate vanilla unique upperbody gloves boots helmet pants"
+    "searchTerms": "physical armour boost (up to 30) scraps plate vanilla unique upperbody, gloves, boots, helmet, pants"
   },
   {
     "id": 164,
@@ -2049,10 +2049,10 @@
     "result": "Mage Gloves",
     "ingredients": [
       "Crafter's Hammer",
-      "Needle Thread",
+      "Needle&thread",
       "Scraps Cloth"
     ],
-    "searchTerms": "anvil armour crafter's hammer mage gloves needle thread scraps cloth"
+    "searchTerms": "anvil armour crafter's hammer mage gloves needle&thread scraps cloth"
   },
   {
     "id": 170,
@@ -3235,207 +3235,207 @@
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "10 Fire Resistance",
+    "result": "%10 Fire Resistance",
     "ingredients": [
       "Essence Fire",
       "Gold Bar",
       "Shield"
     ],
-    "searchTerms": "10 fire resistance armour essence fire gold bar magic altar shield"
+    "searchTerms": "%10 fire resistance armour essence fire gold bar magic altar shield"
   },
   {
     "id": 253,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "10 Water Resistance",
+    "result": "%10 Water Resistance",
     "ingredients": [
       "Essence Water",
       "Gold Bar",
       "Shield"
     ],
-    "searchTerms": "10 water resistance armour essence water gold bar magic altar shield"
+    "searchTerms": "%10 water resistance armour essence water gold bar magic altar shield"
   },
   {
     "id": 254,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "10 Earth Resistance",
+    "result": "%10 Earth Resistance",
     "ingredients": [
       "Essence Earth",
       "Gold Bar",
       "Shield"
     ],
-    "searchTerms": "10 earth resistance armour essence earth gold bar magic altar shield"
+    "searchTerms": "%10 earth resistance armour essence earth gold bar magic altar shield"
   },
   {
     "id": 255,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "10 Air Resistance",
+    "result": "%10 Air Resistance",
     "ingredients": [
       "Air Essence",
       "Gold Bar",
       "Shield"
     ],
-    "searchTerms": "10 air resistance air essence armour gold bar magic altar shield"
+    "searchTerms": "%10 air resistance air essence armour gold bar magic altar shield"
   },
   {
     "id": 256,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Shield (5) Block Chance",
+    "result": "Boosted Shield (+%5) Block Chance",
     "ingredients": [
       "Bone",
       "Gold Bar",
       "Shield"
     ],
-    "searchTerms": "armour bone boosted shield 5 block chance gold bar magic altar"
+    "searchTerms": "armour bone boosted shield (+%5) block chance gold bar magic altar"
   },
   {
     "id": 257,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Shield (1) Preseverance",
+    "result": "Boosted Shield (+1) Preseverance",
     "ingredients": [
       "Gold Bar",
       "Rat Tail",
       "Shield"
     ],
-    "searchTerms": "armour boosted shield 1 preseverance gold bar magic altar rat tail"
+    "searchTerms": "armour boosted shield (+1) preseverance gold bar magic altar rat tail"
   },
   {
     "id": 258,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Shield (1) Pain Reflection",
+    "result": "Boosted Shield (+1) Pain Reflection",
     "ingredients": [
       "Gold Bar",
       "Shield",
       "Tusk"
     ],
-    "searchTerms": "armour boosted shield 1 pain reflection gold bar magic altar tusk"
+    "searchTerms": "armour boosted shield (+1) pain reflection gold bar magic altar tusk"
   },
   {
     "id": 259,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Shield (Bouncing Shield Skill)",
+    "result": "Boosted Shield (+ Bouncing Shield Skill)",
     "ingredients": [
       "Rune Of Skills",
       "Shield"
     ],
-    "searchTerms": "armour boosted shield  bouncing shield skill magic altar rune of skills"
+    "searchTerms": "armour boosted shield (+ bouncing shield skill) magic altar rune of skills"
   },
   {
     "id": 260,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Armour (1) Finesse",
+    "result": "Boosted Armour (+1) Finesse",
     "ingredients": [
       "Feather",
       "Finesse Based Armour",
       "Gold Bar"
     ],
-    "searchTerms": "boosted armour 1 finesse feather finesse based armour gold bar magic altar"
+    "searchTerms": "boosted armour (+1) finesse feather finesse based armour gold bar magic altar"
   },
   {
     "id": 261,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Armour (1) Strength",
+    "result": "Boosted Armour (+1) Strength",
     "ingredients": [
       "Gold Bar",
       "Sharp Rock",
       "Strength Based Armour"
     ],
-    "searchTerms": "boosted armour 1 strength gold bar magic altar sharp rock strength based armour"
+    "searchTerms": "boosted armour (+1) strength gold bar magic altar sharp rock strength based armour"
   },
   {
     "id": 262,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Armour (1) Intelligence",
+    "result": "Boosted Armour (+1) Intelligence",
     "ingredients": [
       "Gold Bar",
       "Intelligence Based Armour",
       "Sheet Of Paper"
     ],
-    "searchTerms": "boosted armour 1 intelligence gold bar intelligence based armour magic altar sheet of paper"
+    "searchTerms": "boosted armour (+1) intelligence gold bar intelligence based armour magic altar sheet of paper"
   },
   {
     "id": 263,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Helmet (5) Accuracy Chance",
+    "result": "Boosted Helmet (+%5) Accuracy Chance",
     "ingredients": [
       "Any Helmet Armour",
       "Fangs",
       "Gold Bar"
     ],
-    "searchTerms": "any helmet armour boosted helmet 5 accuracy chance fangs gold bar magic altar"
+    "searchTerms": "any helmet armour boosted helmet (+%5) accuracy chance fangs gold bar magic altar"
   },
   {
     "id": 264,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Boots (5) Dodge Chance",
+    "result": "Boosted Boots (+%5) Dodge Chance",
     "ingredients": [
       "Any Boot Armour",
       "Gold Bar",
       "Soap"
     ],
-    "searchTerms": "any boot armour boosted boots 5 dodge chance gold bar magic altar soap"
+    "searchTerms": "any boot armour boosted boots (+%5) dodge chance gold bar magic altar soap"
   },
   {
     "id": 265,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Gloves (5) Critical Chance",
+    "result": "Boosted Gloves (+%5) Critical Chance",
     "ingredients": [
       "Any Glove Armour",
       "Broken Bottle",
       "Gold Bar"
     ],
-    "searchTerms": "any glove armour boosted gloves 5 critical chance broken bottle gold bar magic altar"
+    "searchTerms": "any glove armour boosted gloves (+%5) critical chance broken bottle gold bar magic altar"
   },
   {
     "id": 266,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Upperbody (5) Vitality",
+    "result": "Boosted Upperbody (+%5) Vitality",
     "ingredients": [
       "Any Upperbody Armour",
       "Gold Bar",
       "Slime"
     ],
-    "searchTerms": "any upperbody armour boosted upperbody 5 vitality gold bar magic altar slime"
+    "searchTerms": "any upperbody armour boosted upperbody (+%5) vitality gold bar magic altar slime"
   },
   {
     "id": 267,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Pants (1) Initative",
+    "result": "Boosted Pants (+1) Initative",
     "ingredients": [
       "Any Lowerbody Armour",
       "Clay",
       "Gold Bar"
     ],
-    "searchTerms": "any lowerbody armour boosted pants 1 initative clay gold bar magic altar"
+    "searchTerms": "any lowerbody armour boosted pants (+1) initative clay gold bar magic altar"
   },
   {
     "id": 268,
@@ -3622,192 +3622,192 @@
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Helmet (Mend Metal Skill)",
+    "result": "Boosted Helmet (+ Mend Metal Skill)",
     "ingredients": [
       "Rune Of Skills",
       "Warrior Helmet"
     ],
-    "searchTerms": "armour boosted helmet  mend metal skill magic altar rune of skills warrior helmet"
+    "searchTerms": "armour boosted helmet (+ mend metal skill) magic altar rune of skills warrior helmet"
   },
   {
     "id": 284,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Helmet (Breathing Bubble Skill)",
+    "result": "Boosted Helmet (+ Breathing Bubble Skill)",
     "ingredients": [
       "Mage Helmet",
       "Rune Of Skills"
     ],
-    "searchTerms": "armour boosted helmet  breathing bubble skill mage helmet magic altar rune of skills"
+    "searchTerms": "armour boosted helmet (+ breathing bubble skill) mage helmet magic altar rune of skills"
   },
   {
     "id": 285,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Helmet (Peace Of Mind Skill)",
+    "result": "Boosted Helmet (+ Peace Of Mind Skill)",
     "ingredients": [
       "Light Helmet",
       "Rune Of Skills"
     ],
-    "searchTerms": "armour boosted helmet  peace of mind skill light helmet magic altar rune of skills"
+    "searchTerms": "armour boosted helmet (+ peace of mind skill) light helmet magic altar rune of skills"
   },
   {
     "id": 286,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Boots (Phoenix Dive Skill)",
+    "result": "Boosted Boots (+ Phoenix Dive Skill)",
     "ingredients": [
       "Rune Of Skills",
       "Warrior Boots"
     ],
-    "searchTerms": "armour boosted boots  phoenix dive skill magic altar rune of skills warrior boots"
+    "searchTerms": "armour boosted boots (+ phoenix dive skill) magic altar rune of skills warrior boots"
   },
   {
     "id": 287,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Boots (Haste Skill)",
+    "result": "Boosted Boots (+ Haste Skill)",
     "ingredients": [
       "Mage Boots",
       "Rune Of Skills"
     ],
-    "searchTerms": "armour boosted boots  haste skill mage boots magic altar rune of skills"
+    "searchTerms": "armour boosted boots (+ haste skill) mage boots magic altar rune of skills"
   },
   {
     "id": 288,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Boots (Tactical Retreat Skill)",
+    "result": "Boosted Boots (+ Tactical Retreat Skill)",
     "ingredients": [
       "Light Boots",
       "Rune Of Skills"
     ],
-    "searchTerms": "armour boosted boots  tactical retreat skill light boots magic altar rune of skills"
+    "searchTerms": "armour boosted boots (+ tactical retreat skill) light boots magic altar rune of skills"
   },
   {
     "id": 289,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Gloves (Provoke Skill)",
+    "result": "Boosted Gloves (+ Provoke Skill)",
     "ingredients": [
       "Rune Of Skills",
       "Warrior Gloves"
     ],
-    "searchTerms": "armour boosted gloves  provoke skill magic altar rune of skills warrior gloves"
+    "searchTerms": "armour boosted gloves (+ provoke skill) magic altar rune of skills warrior gloves"
   },
   {
     "id": 290,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Gloves (Teleportation Skill)",
+    "result": "Boosted Gloves (+ Teleportation Skill)",
     "ingredients": [
       "Mage Gloves",
       "Rune Of Skills"
     ],
-    "searchTerms": "armour boosted gloves  teleportation skill mage gloves magic altar rune of skills"
+    "searchTerms": "armour boosted gloves (+ teleportation skill) mage gloves magic altar rune of skills"
   },
   {
     "id": 291,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Gloves (First Aid Skill)",
+    "result": "Boosted Gloves (+ First Aid Skill)",
     "ingredients": [
       "Light Gloves",
       "Rune Of Skills"
     ],
-    "searchTerms": "armour boosted gloves  first aid skill light gloves magic altar rune of skills"
+    "searchTerms": "armour boosted gloves (+ first aid skill) light gloves magic altar rune of skills"
   },
   {
     "id": 292,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Pants (Fortify Skill)",
+    "result": "Boosted Pants (+ Fortify Skill)",
     "ingredients": [
       "Rune Of Skills",
       "Warrior Pants"
     ],
-    "searchTerms": "armour boosted pants  fortify skill magic altar rune of skills warrior pants"
+    "searchTerms": "armour boosted pants (+ fortify skill) magic altar rune of skills warrior pants"
   },
   {
     "id": 293,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Pants (Soothing Cold Skill)",
+    "result": "Boosted Pants (+ Soothing Cold Skill)",
     "ingredients": [
       "Mage Pants",
       "Rune Of Skills"
     ],
-    "searchTerms": "armour boosted pants  soothing cold skill mage pants magic altar rune of skills"
+    "searchTerms": "armour boosted pants (+ soothing cold skill) mage pants magic altar rune of skills"
   },
   {
     "id": 294,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Pants (Adrenaline Skill)",
+    "result": "Boosted Pants (+ Adrenaline Skill)",
     "ingredients": [
       "Light Pants",
       "Rune Of Skills"
     ],
-    "searchTerms": "armour boosted pants  adrenaline skill light pants magic altar rune of skills"
+    "searchTerms": "armour boosted pants (+ adrenaline skill) light pants magic altar rune of skills"
   },
   {
     "id": 295,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Body Armour (Reactive Armour Skill)",
+    "result": "Boosted Body Armour (+ Reactive Armour Skill)",
     "ingredients": [
       "Rune Of Skills",
       "Warrior Body Armour"
     ],
-    "searchTerms": "boosted body armour  reactive armour skill magic altar rune of skills warrior body armour"
+    "searchTerms": "boosted body armour (+ reactive armour skill) magic altar rune of skills warrior body armour"
   },
   {
     "id": 296,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Body Armour (Armour Of Frost Skill)",
+    "result": "Boosted Body Armour (+ Armour Of Frost Skill)",
     "ingredients": [
       "Mage Body Armour",
       "Rune Of Skills"
     ],
-    "searchTerms": "boosted body armour  armour of frost skill mage body armour magic altar rune of skills"
+    "searchTerms": "boosted body armour (+ armour of frost skill) mage body armour magic altar rune of skills"
   },
   {
     "id": 297,
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Body Armour (Chameleon Cloak Skill)",
+    "result": "Boosted Body Armour (+ Chameleon Cloak Skill)",
     "ingredients": [
       "Light Body Armour",
       "Rune Of Skill"
     ],
-    "searchTerms": "boosted body armour  chameleon cloak skill light body armour magic altar rune of skill"
+    "searchTerms": "boosted body armour (+ chameleon cloak skill) light body armour magic altar rune of skill"
   },
   {
     "id": 298,
     "type": "Armour",
     "subtype": null,
     "tool": null,
-    "result": "Boost (Poison Resistance)",
+    "result": "Boost (+poison Resistance)",
     "ingredients": [
       "Any Armour",
       "Voidling Guts"
     ],
-    "searchTerms": "any armour boost poison resistance voidling guts"
+    "searchTerms": "any armour boost (+poison resistance) voidling guts"
   },
   {
     "id": 299,
@@ -4109,7 +4109,7 @@
     "ingredients": [
       "Barrel"
     ],
-    "searchTerms": "halloween craft station"
+    "searchTerms": "barrel armour halloween craft station"
   },
   {
     "id": 323,
@@ -4169,6 +4169,110 @@
   },
   {
     "id": 328,
+    "type": "Armour",
+    "subtype": null,
+    "tool": "Anvil",
+    "result": "Shield",
+    "ingredients": [
+      "Crafter's Hammer",
+      "Rope",
+      "Scraps Metal",
+      "Scraps Metal"
+    ],
+    "searchTerms": "anvil armour crafter's hammer rope scraps metal shield"
+  },
+  {
+    "id": 329,
+    "type": "Armour",
+    "subtype": null,
+    "tool": "Anvil",
+    "result": "Blackring Rectangular Shield",
+    "ingredients": [
+      "Crafter's Hammer",
+      "Rope",
+      "Rune Of Uniqueness",
+      "Scraps Metal",
+      "Scraps Metal"
+    ],
+    "searchTerms": "anvil armour blackring rectangular shield crafter's hammer rope rune of uniqueness scraps metal"
+  },
+  {
+    "id": 330,
+    "type": "Armour",
+    "subtype": null,
+    "tool": "Anvil",
+    "result": "Blackring Round Shield",
+    "ingredients": [
+      "Crafter's Hammer",
+      "Rope",
+      "Rune Of Uniqueness",
+      "Scraps Leather",
+      "Scraps Metal"
+    ],
+    "searchTerms": "anvil armour blackring round shield crafter's hammer rope rune of uniqueness scraps leather scraps metal"
+  },
+  {
+    "id": 331,
+    "type": "Armour",
+    "subtype": null,
+    "tool": "Anvil",
+    "result": "Braccus Teardrop Shield",
+    "ingredients": [
+      "Crafter's Hammer",
+      "Rope",
+      "Rune Of Uniqueness",
+      "Scraps Metal",
+      "Scraps Scale"
+    ],
+    "searchTerms": "anvil armour braccus teardrop shield crafter's hammer rope rune of uniqueness scraps metal scraps scale"
+  },
+  {
+    "id": 332,
+    "type": "Armour",
+    "subtype": null,
+    "tool": "Anvil",
+    "result": "Divine Order Shield",
+    "ingredients": [
+      "Crafter's Hammer",
+      "Rope",
+      "Rune Of Uniqueness",
+      "Scraps Cloth",
+      "Scraps Metal"
+    ],
+    "searchTerms": "anvil armour crafter's hammer divine order shield rope rune of uniqueness scraps cloth scraps metal"
+  },
+  {
+    "id": 333,
+    "type": "Armour",
+    "subtype": null,
+    "tool": "Anvil",
+    "result": "Paladin Shield",
+    "ingredients": [
+      "Crafter's Hammer",
+      "Rope",
+      "Rune Of Uniqueness",
+      "Scraps Metal",
+      "Scraps Plate"
+    ],
+    "searchTerms": "anvil armour crafter's hammer paladin shield rope rune of uniqueness scraps metal scraps plate"
+  },
+  {
+    "id": 334,
+    "type": "Armour",
+    "subtype": null,
+    "tool": "Anvil",
+    "result": "Ghost Shield",
+    "ingredients": [
+      "Crafter's Hammer",
+      "Livewood Log",
+      "Rope",
+      "Rune Of Uniqueness",
+      "Scraps Metal"
+    ],
+    "searchTerms": "anvil armour crafter's hammer ghost shield livewood log rope rune of uniqueness scraps metal"
+  },
+  {
+    "id": 335,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4181,7 +4285,7 @@
     "searchTerms": "cutting tool rabbit meat sharp rock sinew weapons"
   },
   {
-    "id": 329,
+    "id": 336,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4194,7 +4298,7 @@
     "searchTerms": "cuttingtool rat's tail sinew weapons"
   },
   {
-    "id": 330,
+    "id": 337,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4206,7 +4310,7 @@
     "searchTerms": "bowstring sinew weapons"
   },
   {
-    "id": 331,
+    "id": 338,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4219,7 +4323,7 @@
     "searchTerms": "bowstring needle weapons yarn"
   },
   {
-    "id": 332,
+    "id": 339,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4231,7 +4335,7 @@
     "searchTerms": "rope weapons yarn wool"
   },
   {
-    "id": 333,
+    "id": 340,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4243,7 +4347,7 @@
     "searchTerms": "bed linen cloth scraps cutting tool weapons"
   },
   {
-    "id": 334,
+    "id": 341,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4255,7 +4359,7 @@
     "searchTerms": "big tongs roped together cloth scraps weapons"
   },
   {
-    "id": 335,
+    "id": 342,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4267,7 +4371,7 @@
     "searchTerms": "big tongs roped together leather scraps weapons"
   },
   {
-    "id": 336,
+    "id": 343,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4279,7 +4383,7 @@
     "searchTerms": "crossbow without bowstring weapons"
   },
   {
-    "id": 337,
+    "id": 344,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4291,7 +4395,7 @@
     "searchTerms": "anvil hammer handmade sword metal scraps weapons"
   },
   {
-    "id": 338,
+    "id": 345,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4302,7 +4406,7 @@
     "searchTerms": "improvised wand short stick skull bird weapons"
   },
   {
-    "id": 339,
+    "id": 346,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4313,7 +4417,7 @@
     "searchTerms": "improvised wand short stick skull human ancient weapons"
   },
   {
-    "id": 340,
+    "id": 347,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4324,7 +4428,7 @@
     "searchTerms": "improvised wand short stick skull human weapons"
   },
   {
-    "id": 341,
+    "id": 348,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4336,7 +4440,7 @@
     "searchTerms": "improvised staff long branch shell weapons"
   },
   {
-    "id": 342,
+    "id": 349,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4349,7 +4453,7 @@
     "searchTerms": "dagger knife on a stick rope short stick weapons"
   },
   {
-    "id": 343,
+    "id": 350,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4362,7 +4466,7 @@
     "searchTerms": "knife on a stick rope short stick weapons"
   },
   {
-    "id": 344,
+    "id": 351,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4374,7 +4478,7 @@
     "searchTerms": "cloth scraps long branch makeshift club weapons"
   },
   {
-    "id": 345,
+    "id": 352,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4386,7 +4490,7 @@
     "searchTerms": "leather scraps long branch makeshift club weapons"
   },
   {
-    "id": 346,
+    "id": 353,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4400,7 +4504,7 @@
     "searchTerms": "long branch makeshift club sharp rock weapons"
   },
   {
-    "id": 347,
+    "id": 354,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4412,7 +4516,7 @@
     "searchTerms": "arrowhead long branch primitive harpoon weapons"
   },
   {
-    "id": 348,
+    "id": 355,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4425,7 +4529,7 @@
     "searchTerms": "dagger long branch primitive harpoon rope weapons"
   },
   {
-    "id": 349,
+    "id": 356,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4438,7 +4542,7 @@
     "searchTerms": "knife long branch primitive harpoon rope weapons"
   },
   {
-    "id": 350,
+    "id": 357,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4450,7 +4554,7 @@
     "searchTerms": "long branch primitive harpoon sharp piece of metal weapons"
   },
   {
-    "id": 351,
+    "id": 358,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4462,7 +4566,7 @@
     "searchTerms": "long branch pieceofrock sharp stone on a big branch weapons"
   },
   {
-    "id": 352,
+    "id": 359,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4474,7 +4578,7 @@
     "searchTerms": "pieceofrock sharp stone on a stick short stick weapons"
   },
   {
-    "id": 353,
+    "id": 360,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4486,7 +4590,7 @@
     "searchTerms": "cloth scraps sharp piece of metal shiv weapons"
   },
   {
-    "id": 354,
+    "id": 361,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4498,7 +4602,7 @@
     "searchTerms": "anvil hammer sharp piece of metal shiv weapons"
   },
   {
-    "id": 355,
+    "id": 362,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4510,7 +4614,7 @@
     "searchTerms": "handkerchief sharp piece of metal shiv weapons"
   },
   {
-    "id": 356,
+    "id": 363,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4522,7 +4626,7 @@
     "searchTerms": "leather scraps sharp piece of metal shiv weapons"
   },
   {
-    "id": 357,
+    "id": 364,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4534,7 +4638,7 @@
     "searchTerms": "long branch short stick toy crossbow weapons"
   },
   {
-    "id": 358,
+    "id": 365,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4546,43 +4650,43 @@
     "searchTerms": "bowstring short stick twig with a string weapons"
   },
   {
-    "id": 359,
+    "id": 366,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
-    "result": "Xx Element Damage",
+    "result": "+xx% Element Damage",
     "ingredients": [
       "Any Weapon With Empty Rune Socket",
       "Rune"
     ],
-    "searchTerms": "xx element damage any weapon with empty rune socket weapons"
+    "searchTerms": "+xx% element damage any weapon with empty rune socket weapons"
   },
   {
-    "id": 360,
+    "id": 367,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
-    "result": "X Combat Ability Wits",
+    "result": "+x Combat Ability/wits",
     "ingredients": [
       "Any Weapon With Empty Rune Socket",
       "Mystical Rune"
     ],
-    "searchTerms": "x combat abilitywits any weapon with empty rune socket mystical rune weapons"
+    "searchTerms": "+x combat ability/wits any weapon with empty rune socket mystical rune weapons"
   },
   {
-    "id": 361,
+    "id": 368,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
-    "result": "X Finesse Strength Intelligence",
+    "result": "+x Finesse/strength/intelligence/",
     "ingredients": [
       "Any Weapon With Empty Rune Socket",
       "Rune Of Power"
     ],
-    "searchTerms": "x finessestrengthintelligence any weapon with empty rune socket rune of power weapons"
+    "searchTerms": "+x finesse/strength/intelligence/ any weapon with empty rune socket rune of power weapons"
   },
   {
-    "id": 362,
+    "id": 369,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4594,154 +4698,154 @@
     "searchTerms": "poisoned weapon weapons"
   },
   {
-    "id": 363,
+    "id": 370,
     "type": "Weapons",
     "subtype": null,
-    "tool": "Cooking Station (Source Of Fire)",
+    "tool": "Cooking Station (source Of Fire)",
     "result": "Fire Enchanted Weapon",
     "ingredients": [
       "Oil Source",
       "Weapon"
     ],
-    "searchTerms": "cooking station source of fire fire enchanted weapon oil source weapons"
+    "searchTerms": "cooking station (source of fire) fire enchanted weapon oil source weapons"
   },
   {
-    "id": 364,
+    "id": 371,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
     "result": "Buffed Weapon",
     "ingredients": [
       "Eternal Artefact",
-      "Weapon (Except Of Wands And Staves)"
+      "Weapon (except Of Wands And Staves)"
     ],
-    "searchTerms": "buffed weapon eternal artefact weapon except of wands and staves weapons"
-  },
-  {
-    "id": 365,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Knife (Up To 10)",
-    "ingredients": [
-      "Any Knife"
-    ],
-    "searchTerms": "any knife crafter's whetstone physical damage boost knife up to 10 weapons"
-  },
-  {
-    "id": 366,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Dagger (Up To 10)",
-    "ingredients": [
-      "Any Dagger"
-    ],
-    "searchTerms": "any dagger crafter's whetstone physical damage boost dagger up to 10 weapons"
-  },
-  {
-    "id": 367,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Spear (Up To 10)",
-    "ingredients": [
-      "Any Spear"
-    ],
-    "searchTerms": "any spear crafter's whetstone physical damage boost spear up to 10 weapons"
-  },
-  {
-    "id": 368,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Sword (Up To 10)",
-    "ingredients": [
-      "Any Sword"
-    ],
-    "searchTerms": "any sword crafter's whetstone physical damage boost sword up to 10 weapons"
-  },
-  {
-    "id": 369,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Axe (Up To 10)",
-    "ingredients": [
-      "Any Axe"
-    ],
-    "searchTerms": "any axe crafter's whetstone physical damage boost axe up to 10 weapons"
-  },
-  {
-    "id": 370,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Mace (Up To 10)",
-    "ingredients": [
-      "Any Mace"
-    ],
-    "searchTerms": "any mace crafter's whetstone physical damage boost mace up to 10 weapons"
-  },
-  {
-    "id": 371,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Two Handed Axe (Up To 10)",
-    "ingredients": [
-      "Any Two Handed Axe"
-    ],
-    "searchTerms": "any two handed axe crafter's whetstone physical damage boost two handed axe up to 10 weapons"
+    "searchTerms": "buffed weapon eternal artefact weapon (except of wands and staves) weapons"
   },
   {
     "id": 372,
     "type": "Weapons",
     "subtype": null,
     "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Two Handed Mace (Up To 10)",
+    "result": "Physical Damage Boost Knife (up To 10)",
     "ingredients": [
-      "Any Two Handed Mace"
+      "Any Knife"
     ],
-    "searchTerms": "any two handed mace crafter's whetstone physical damage boost two handed mace up to 10 weapons"
+    "searchTerms": "any knife crafter's whetstone physical damage boost knife (up to 10) weapons"
   },
   {
     "id": 373,
     "type": "Weapons",
     "subtype": null,
     "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Two Handed Sword (Up To 10)",
+    "result": "Physical Damage Boost Dagger (up To 10)",
     "ingredients": [
-      "Any Two Handed Sword"
+      "Any Dagger"
     ],
-    "searchTerms": "any two handed sword crafter's whetstone physical damage boost two handed sword up to 10 weapons"
+    "searchTerms": "any dagger crafter's whetstone physical damage boost dagger (up to 10) weapons"
   },
   {
     "id": 374,
     "type": "Weapons",
     "subtype": null,
     "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Bow (Up To 10)",
+    "result": "Physical Damage Boost Spear (up To 10)",
     "ingredients": [
-      "Any Bow",
-      "Sinew"
+      "Any Spear"
     ],
-    "searchTerms": "any bow crafter's whetstone physical damage boost bow up to 10 sinew weapons"
+    "searchTerms": "any spear crafter's whetstone physical damage boost spear (up to 10) weapons"
   },
   {
     "id": 375,
     "type": "Weapons",
     "subtype": null,
     "tool": "Crafter's Whetstone",
-    "result": "Physical Damage Boost Crossbow (Up To 10)",
+    "result": "Physical Damage Boost Sword (up To 10)",
+    "ingredients": [
+      "Any Sword"
+    ],
+    "searchTerms": "any sword crafter's whetstone physical damage boost sword (up to 10) weapons"
+  },
+  {
+    "id": 376,
+    "type": "Weapons",
+    "subtype": null,
+    "tool": "Crafter's Whetstone",
+    "result": "Physical Damage Boost Axe (up To 10)",
+    "ingredients": [
+      "Any Axe"
+    ],
+    "searchTerms": "any axe crafter's whetstone physical damage boost axe (up to 10) weapons"
+  },
+  {
+    "id": 377,
+    "type": "Weapons",
+    "subtype": null,
+    "tool": "Crafter's Whetstone",
+    "result": "Physical Damage Boost Mace (up To 10)",
+    "ingredients": [
+      "Any Mace"
+    ],
+    "searchTerms": "any mace crafter's whetstone physical damage boost mace (up to 10) weapons"
+  },
+  {
+    "id": 378,
+    "type": "Weapons",
+    "subtype": null,
+    "tool": "Crafter's Whetstone",
+    "result": "Physical Damage Boost Two Handed Axe (up To 10)",
+    "ingredients": [
+      "Any Two Handed Axe"
+    ],
+    "searchTerms": "any two handed axe crafter's whetstone physical damage boost two handed axe (up to 10) weapons"
+  },
+  {
+    "id": 379,
+    "type": "Weapons",
+    "subtype": null,
+    "tool": "Crafter's Whetstone",
+    "result": "Physical Damage Boost Two Handed Mace (up To 10)",
+    "ingredients": [
+      "Any Two Handed Mace"
+    ],
+    "searchTerms": "any two handed mace crafter's whetstone physical damage boost two handed mace (up to 10) weapons"
+  },
+  {
+    "id": 380,
+    "type": "Weapons",
+    "subtype": null,
+    "tool": "Crafter's Whetstone",
+    "result": "Physical Damage Boost Two Handed Sword (up To 10)",
+    "ingredients": [
+      "Any Two Handed Sword"
+    ],
+    "searchTerms": "any two handed sword crafter's whetstone physical damage boost two handed sword (up to 10) weapons"
+  },
+  {
+    "id": 381,
+    "type": "Weapons",
+    "subtype": null,
+    "tool": "Crafter's Whetstone",
+    "result": "Physical Damage Boost Bow (up To 10)",
+    "ingredients": [
+      "Any Bow",
+      "Sinew"
+    ],
+    "searchTerms": "any bow crafter's whetstone physical damage boost bow (up to 10) sinew weapons"
+  },
+  {
+    "id": 382,
+    "type": "Weapons",
+    "subtype": null,
+    "tool": "Crafter's Whetstone",
+    "result": "Physical Damage Boost Crossbow (up To 10)",
     "ingredients": [
       "Any Crossbow",
       "Strong Sinew"
     ],
-    "searchTerms": "any crossbow crafter's whetstone physical damage boost crossbow up to 10 strong sinew weapons"
+    "searchTerms": "any crossbow crafter's whetstone physical damage boost crossbow (up to 10) strong sinew weapons"
   },
   {
-    "id": 376,
+    "id": 383,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4754,7 +4858,7 @@
     "searchTerms": "anvil crafter's hammer dagger scraps leather sharp piece of metal weapons"
   },
   {
-    "id": 377,
+    "id": 384,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4767,7 +4871,7 @@
     "searchTerms": "anvil crafter's hammer long branch sharp piece of metal spear weapons"
   },
   {
-    "id": 378,
+    "id": 385,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4780,7 +4884,7 @@
     "searchTerms": "anvil crafter's hammer scraps metal short stick sword weapons"
   },
   {
-    "id": 379,
+    "id": 386,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4793,7 +4897,7 @@
     "searchTerms": "anvil axe crafter's hammer scraps scale short stick weapons"
   },
   {
-    "id": 380,
+    "id": 387,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4807,7 +4911,7 @@
     "searchTerms": "anvil crafter's hammer mace scraps metal sharp rock short stick weapons"
   },
   {
-    "id": 381,
+    "id": 388,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4821,7 +4925,7 @@
     "searchTerms": "anvil crafter's hammer long branch scraps metal two handed sword weapons"
   },
   {
-    "id": 382,
+    "id": 389,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4835,7 +4939,7 @@
     "searchTerms": "anvil crafter's hammer long branch scraps metal scraps scale two handed axe weapons"
   },
   {
-    "id": 383,
+    "id": 390,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4849,7 +4953,7 @@
     "searchTerms": "anvil crafter's hammer long branch scraps metal sharp rock two handed mace weapons"
   },
   {
-    "id": 384,
+    "id": 391,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -4861,21 +4965,7 @@
     "searchTerms": "bowstring long branch weapons"
   },
   {
-    "id": 385,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Anvil",
-    "result": "Shield",
-    "ingredients": [
-      "Crafter's Hammer",
-      "Rope",
-      "Scraps Metal",
-      "Scraps Metal"
-    ],
-    "searchTerms": "anvil crafter's hammer rope scraps metal shield weapons"
-  },
-  {
-    "id": 386,
+    "id": 392,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4888,7 +4978,7 @@
     "searchTerms": "anvil crafter's hammer scraps plate short stick sickle weapons"
   },
   {
-    "id": 387,
+    "id": 393,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4902,7 +4992,7 @@
     "searchTerms": "anvil crafter's hammer long branch scraps metal scraps plate scythe weapons"
   },
   {
-    "id": 388,
+    "id": 394,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4916,7 +5006,7 @@
     "searchTerms": "anvil bowstring crafter's hammer crossbow without string long branch new world crossbow weapons"
   },
   {
-    "id": 389,
+    "id": 395,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4930,7 +5020,7 @@
     "searchTerms": "anvil crafter's hammer ghost mace livewood log long branch scraps plate weapons"
   },
   {
-    "id": 390,
+    "id": 396,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4944,7 +5034,7 @@
     "searchTerms": "anvil bifurcated spear crafter's hammer long branch sharp piece of metal weapons"
   },
   {
-    "id": 391,
+    "id": 397,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4958,7 +5048,7 @@
     "searchTerms": "anvil crafter's hammer estoc long branch scraps plate sharp piece of metal weapons"
   },
   {
-    "id": 392,
+    "id": 398,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4972,7 +5062,7 @@
     "searchTerms": "anvil crafter's hammer rapier scraps plate sharp piece of metal short stick weapons"
   },
   {
-    "id": 393,
+    "id": 399,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -4986,7 +5076,7 @@
     "searchTerms": "anvil crafter's hammer ice sword long branch scraps plate water essence weapons"
   },
   {
-    "id": 394,
+    "id": 400,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -5000,7 +5090,7 @@
     "searchTerms": "anvil ascraps plate crafter's hammer fire essence long branch red star staff weapons"
   },
   {
-    "id": 395,
+    "id": 401,
     "type": "Weapons",
     "subtype": null,
     "tool": "Anvil",
@@ -5014,7 +5104,7 @@
     "searchTerms": "air essence anvil crafter's hammer long branch scraps plate weapons white star staff"
   },
   {
-    "id": 396,
+    "id": 402,
     "type": "Weapons",
     "subtype": null,
     "tool": null,
@@ -5024,96 +5114,6 @@
       "Wand"
     ],
     "searchTerms": "poison source poisoned wand weapons"
-  },
-  {
-    "id": 397,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Anvil",
-    "result": "Blackring Rectangular Shield",
-    "ingredients": [
-      "Crafter's Hammer",
-      "Rope",
-      "Rune Of Uniqueness",
-      "Scraps Metal",
-      "Scraps Metal"
-    ],
-    "searchTerms": "anvil blackring rectangular shield crafter's hammer rope rune of uniqueness scraps metal weapons"
-  },
-  {
-    "id": 398,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Anvil",
-    "result": "Blackring Round Shield",
-    "ingredients": [
-      "Crafter's Hammer",
-      "Rope",
-      "Rune Of Uniqueness",
-      "Scraps Leather",
-      "Scraps Metal"
-    ],
-    "searchTerms": "anvil blackring round shield crafter's hammer rope rune of uniqueness scraps leather scraps metal weapons"
-  },
-  {
-    "id": 399,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Anvil",
-    "result": "Braccus Teardrop Shield",
-    "ingredients": [
-      "Crafter's Hammer",
-      "Rope",
-      "Rune Of Uniqueness",
-      "Scraps Metal",
-      "Scraps Scale"
-    ],
-    "searchTerms": "anvil braccus teardrop shield crafter's hammer rope rune of uniqueness scraps metal scraps scale weapons"
-  },
-  {
-    "id": 400,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Anvil",
-    "result": "Divine Order Shield",
-    "ingredients": [
-      "Crafter's Hammer",
-      "Rope",
-      "Rune Of Uniqueness",
-      "Scraps Cloth",
-      "Scraps Metal"
-    ],
-    "searchTerms": "anvil crafter's hammer divine order shield rope rune of uniqueness scraps cloth scraps metal weapons"
-  },
-  {
-    "id": 401,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Anvil",
-    "result": "Paladin Shield",
-    "ingredients": [
-      "Crafter's Hammer",
-      "Rope",
-      "Rune Of Uniqueness",
-      "Scraps Metal",
-      "Scraps Plate"
-    ],
-    "searchTerms": "anvil crafter's hammer paladin shield rope rune of uniqueness scraps metal scraps plate weapons"
-  },
-  {
-    "id": 402,
-    "type": "Weapons",
-    "subtype": null,
-    "tool": "Anvil",
-    "result": "Ghost Shield",
-    "ingredients": [
-      "Crafter's Hammer",
-      "Livewood Log",
-      "Rope",
-      "Rune Of Uniqueness",
-      "Scraps Metal"
-    ],
-    "searchTerms": "anvil crafter's hammer ghost shield livewood log rope rune of uniqueness scraps metal weapons"
   },
   {
     "id": 403,
@@ -6545,546 +6545,546 @@
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Dagger (1) Finesse",
+    "result": "Boosted Dagger (+1) Finesse",
     "ingredients": [
       "Dagger",
       "Feather",
       "Gold Bar"
     ],
-    "searchTerms": "boosted dagger 1 finesse feather gold bar magic altar weapons"
+    "searchTerms": "boosted dagger (+1) finesse feather gold bar magic altar weapons"
   },
   {
     "id": 510,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Knife (1) Finesse",
+    "result": "Boosted Knife (+1) Finesse",
     "ingredients": [
       "Feather",
       "Gold Bar",
       "Knife"
     ],
-    "searchTerms": "boosted knife 1 finesse feather gold bar magic altar weapons"
+    "searchTerms": "boosted knife (+1) finesse feather gold bar magic altar weapons"
   },
   {
     "id": 511,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Bow (1) Finesse",
+    "result": "Boosted Bow (+1) Finesse",
     "ingredients": [
       "Bow",
       "Feather",
       "Gold Bar"
     ],
-    "searchTerms": "boosted bow 1 finesse feather gold bar magic altar weapons"
+    "searchTerms": "boosted bow (+1) finesse feather gold bar magic altar weapons"
   },
   {
     "id": 512,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Crossbow (1) Finesse",
+    "result": "Boosted Crossbow (+1) Finesse",
     "ingredients": [
       "Crossbow",
       "Feather",
       "Gold Bar"
     ],
-    "searchTerms": "boosted crossbow 1 finesse feather gold bar magic altar weapons"
+    "searchTerms": "boosted crossbow (+1) finesse feather gold bar magic altar weapons"
   },
   {
     "id": 513,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Sword (1) Strength",
+    "result": "Boosted Sword (+1) Strength",
     "ingredients": [
       "Gold Bar",
       "Sharp Rock",
       "Sword"
     ],
-    "searchTerms": "boosted sword 1 strength gold bar magic altar sharp rock weapons"
+    "searchTerms": "boosted sword (+1) strength gold bar magic altar sharp rock weapons"
   },
   {
     "id": 514,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Axe (1) Strength",
+    "result": "Boosted Axe (+1) Strength",
     "ingredients": [
       "Axe",
       "Gold Bar",
       "Sharp Rock"
     ],
-    "searchTerms": "boosted axe 1 strength gold bar magic altar sharp rock weapons"
+    "searchTerms": "boosted axe (+1) strength gold bar magic altar sharp rock weapons"
   },
   {
     "id": 515,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Mace (1) Strength",
+    "result": "Boosted Mace (+1) Strength",
     "ingredients": [
       "Gold Bar",
       "Mace",
       "Sharp Rock"
     ],
-    "searchTerms": "boosted mace 1 strength gold bar magic altar sharp rock weapons"
+    "searchTerms": "boosted mace (+1) strength gold bar magic altar sharp rock weapons"
   },
   {
     "id": 516,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Spear (1) Finesse",
+    "result": "Boosted Spear (+1) Finesse",
     "ingredients": [
       "Feather",
       "Gold Bar",
       "Spear"
     ],
-    "searchTerms": "boosted spear 1 finesse feather gold bar magic altar weapons"
+    "searchTerms": "boosted spear (+1) finesse feather gold bar magic altar weapons"
   },
   {
     "id": 517,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Axe (1) Strength",
+    "result": "Boosted Two Handed Axe (+1) Strength",
     "ingredients": [
       "Gold Bar",
       "Sharp Rock",
       "Two Handed Axe"
     ],
-    "searchTerms": "boosted two handed axe 1 strength gold bar magic altar sharp rock weapons"
+    "searchTerms": "boosted two handed axe (+1) strength gold bar magic altar sharp rock weapons"
   },
   {
     "id": 518,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Mace (1) Strength",
+    "result": "Boosted Two Handed Mace (+1) Strength",
     "ingredients": [
       "Gold Bar",
       "Sharp Rock",
       "Two Handed Mace"
     ],
-    "searchTerms": "boosted two handed mace 1 strength gold bar magic altar sharp rock weapons"
+    "searchTerms": "boosted two handed mace (+1) strength gold bar magic altar sharp rock weapons"
   },
   {
     "id": 519,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Sword (1) Strength",
+    "result": "Boosted Two Handed Sword (+1) Strength",
     "ingredients": [
       "Gold Bar",
       "Sharp Rock",
       "Two Handed Sword"
     ],
-    "searchTerms": "boosted two handed sword 1 strength gold bar magic altar sharp rock weapons"
+    "searchTerms": "boosted two handed sword (+1) strength gold bar magic altar sharp rock weapons"
   },
   {
     "id": 520,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Staff (1) Intelligence",
+    "result": "Boosted Staff (+1) Intelligence",
     "ingredients": [
       "Gold Bar",
       "Sheet Of Paper",
       "Staff"
     ],
-    "searchTerms": "boosted staff 1 intelligence gold bar magic altar sheet of paper weapons"
+    "searchTerms": "boosted staff (+1) intelligence gold bar magic altar sheet of paper weapons"
   },
   {
     "id": 521,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Wand (1) Intelligence",
+    "result": "Boosted Wand (+1) Intelligence",
     "ingredients": [
       "Gold Bar",
       "Sheet Of Paper",
       "Wand"
     ],
-    "searchTerms": "boosted wand 1 intelligence gold bar magic altar sheet of paper weapons"
+    "searchTerms": "boosted wand (+1) intelligence gold bar magic altar sheet of paper weapons"
   },
   {
     "id": 522,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Sword (Crippling Blow Skill)",
+    "result": "Boosted Sword (+ Crippling Blow Skill)",
     "ingredients": [
       "Claw",
       "Gold Bar",
       "Two Handed Sword"
     ],
-    "searchTerms": "boosted sword  crippling blow skill claw gold bar magic altar two handed sword weapons"
+    "searchTerms": "boosted sword (+ crippling blow skill) claw gold bar magic altar two handed sword weapons"
   },
   {
     "id": 523,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Sword (Whirlwind Skill)",
+    "result": "Boosted Two Handed Sword (+ Whirlwind Skill)",
     "ingredients": [
       "Chicken Foot",
       "Gold Bar",
       "Two Handed Sword"
     ],
-    "searchTerms": "boosted two handed sword  whirlwind skill chicken foot gold bar magic altar weapons"
+    "searchTerms": "boosted two handed sword (+ whirlwind skill) chicken foot gold bar magic altar weapons"
   },
   {
     "id": 524,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Mace (Battle Stomp Skill)",
+    "result": "Boosted Mace (+ Battle Stomp Skill)",
     "ingredients": [
       "Antler",
       "Gold Bar",
       "Mace"
     ],
-    "searchTerms": "antler boosted mace  battle stomp skill gold bar magic altar weapons"
+    "searchTerms": "antler boosted mace (+ battle stomp skill) gold bar magic altar weapons"
   },
   {
     "id": 525,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Mace (Battle Stomp Skill)",
+    "result": "Boosted Two Handed Mace (+ Battle Stomp Skill)",
     "ingredients": [
       "Antler",
       "Gold Bar",
       "Two Handed Mace"
     ],
-    "searchTerms": "antler boosted two handed mace  battle stomp skill gold bar magic altar weapons"
+    "searchTerms": "antler boosted two handed mace (+ battle stomp skill) gold bar magic altar weapons"
   },
   {
     "id": 526,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Axe (Blitz Attack Skill)",
+    "result": "Boosted Axe (+ Blitz Attack Skill)",
     "ingredients": [
       "Axe",
       "Gold Bar",
       "Tooth"
     ],
-    "searchTerms": "boosted axe  blitz attack skill gold bar magic altar tooth weapons"
+    "searchTerms": "boosted axe (+ blitz attack skill) gold bar magic altar tooth weapons"
   },
   {
     "id": 527,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Axe (Blitz Attack Skill)",
+    "result": "Boosted Two Handed Axe (+ Blitz Attack Skill)",
     "ingredients": [
       "Gold Bar",
       "Tooth",
       "Two Handed Axe"
     ],
-    "searchTerms": "boosted two handed axe  blitz attack skill gold bar magic altar tooth weapons"
+    "searchTerms": "boosted two handed axe (+ blitz attack skill) gold bar magic altar tooth weapons"
   },
   {
     "id": 528,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Spear (Whirlwind Skill)",
+    "result": "Boosted Spear (+ Whirlwind Skill)",
     "ingredients": [
       "Chicken Foot",
       "Gold Bar",
       "Spear"
     ],
-    "searchTerms": "boosted spear  whirlwind skill chicken foot gold bar magic altar weapons"
+    "searchTerms": "boosted spear (+ whirlwind skill) chicken foot gold bar magic altar weapons"
   },
   {
     "id": 529,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Staff (Dimensional Bolt Skill)",
+    "result": "Boosted Staff (+ Dimensional Bolt Skill)",
     "ingredients": [
       "Gold Bar",
       "Rabid Paw",
       "Staff"
     ],
-    "searchTerms": "boosted staff  dimensional bolt skill gold bar magic altar rabid paw weapons"
+    "searchTerms": "boosted staff (+ dimensional bolt skill) gold bar magic altar rabid paw weapons"
   },
   {
     "id": 530,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Wand (Silencing Stare Skill)",
+    "result": "Boosted Wand (+ Silencing Stare Skill)",
     "ingredients": [
       "Eye",
       "Gold Bar",
       "Wand"
     ],
-    "searchTerms": "boosted wand  silencing stare skill eye gold bar magic altar weapons"
+    "searchTerms": "boosted wand (+ silencing stare skill) eye gold bar magic altar weapons"
   },
   {
     "id": 531,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Dagger (Sawtooth Knife Skill)",
+    "result": "Boosted Dagger (+ Sawtooth Knife Skill)",
     "ingredients": [
       "Dagger",
       "Gold Bar",
       "Sharp Piece Of Metal"
     ],
-    "searchTerms": "boosted dagger  sawtooth knife skill gold bar magic altar sharp piece of metal weapons"
+    "searchTerms": "boosted dagger (+ sawtooth knife skill) gold bar magic altar sharp piece of metal weapons"
   },
   {
     "id": 532,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Bow (Assassinate Skill)",
+    "result": "Boosted Bow (+ Assassinate Skill)",
     "ingredients": [
       "Bow",
       "Gold Bar",
       "Scope Lens"
     ],
-    "searchTerms": "boosted bow  assassinate skill gold bar magic altar scope lens weapons"
+    "searchTerms": "boosted bow (+ assassinate skill) gold bar magic altar scope lens weapons"
   },
   {
     "id": 533,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Crossbow (Assassinate Skill)",
+    "result": "Boosted Crossbow (+ Assassinate Skill)",
     "ingredients": [
       "Crossbow",
       "Gold Bar",
       "Scope Lens"
     ],
-    "searchTerms": "boosted crossbow  assassinate skill gold bar magic altar scope lens weapons"
+    "searchTerms": "boosted crossbow (+ assassinate skill) gold bar magic altar scope lens weapons"
   },
   {
     "id": 534,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Axe (1) One Handed",
+    "result": "Boosted Axe (+1) One Handed",
     "ingredients": [
       "Gold Bar",
       "Sword",
       "Tormented Soul"
     ],
-    "searchTerms": "boosted axe 1 one handed gold bar magic altar sword tormented soul weapons"
+    "searchTerms": "boosted axe (+1) one handed gold bar magic altar sword tormented soul weapons"
   },
   {
     "id": 535,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Mace (1) One Handed",
+    "result": "Boosted Mace (+1) One Handed",
     "ingredients": [
       "Axe",
       "Gold Bar",
       "Tormented Soul"
     ],
-    "searchTerms": "axe boosted mace 1 one handed gold bar magic altar tormented soul weapons"
+    "searchTerms": "axe boosted mace (+1) one handed gold bar magic altar tormented soul weapons"
   },
   {
     "id": 536,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Sword (1) One Handed",
+    "result": "Boosted Sword (+1) One Handed",
     "ingredients": [
       "Gold Bar",
       "Mace",
       "Tormented Soul"
     ],
-    "searchTerms": "boosted sword 1 one handed gold bar mace magic altar tormented soul weapons"
+    "searchTerms": "boosted sword (+1) one handed gold bar mace magic altar tormented soul weapons"
   },
   {
     "id": 537,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Spear (1) Two Handed",
+    "result": "Boosted Spear (+1) Two Handed",
     "ingredients": [
       "Gold Bar",
       "Spear",
       "Tormented Soul"
     ],
-    "searchTerms": "boosted spear 1 two handed gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted spear (+1) two handed gold bar magic altar tormented soul weapons"
   },
   {
     "id": 538,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Axe (1) Two Handed",
+    "result": "Boosted Two Handed Axe (+1) Two Handed",
     "ingredients": [
       "Gold Bar",
       "Tormented Soul",
       "Two Handed Axe"
     ],
-    "searchTerms": "boosted two handed axe 1 two handed gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted two handed axe (+1) two handed gold bar magic altar tormented soul weapons"
   },
   {
     "id": 539,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Mace (1) Two Handed",
+    "result": "Boosted Two Handed Mace (+1) Two Handed",
     "ingredients": [
       "Gold Bar",
       "Tormented Soul",
       "Two Handed Mace"
     ],
-    "searchTerms": "boosted two handed mace 1 two handed gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted two handed mace (+1) two handed gold bar magic altar tormented soul weapons"
   },
   {
     "id": 540,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Two Handed Sword (1) Two Handed",
+    "result": "Boosted Two Handed Sword (+1) Two Handed",
     "ingredients": [
       "Gold Bar",
       "Tormented Soul",
       "Two Handed Sword"
     ],
-    "searchTerms": "boosted two handed sword 1 two handed gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted two handed sword (+1) two handed gold bar magic altar tormented soul weapons"
   },
   {
     "id": 541,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Staff (1) Two Handed",
+    "result": "Boosted Staff (+1) Two Handed",
     "ingredients": [
       "Gold Bar",
       "Staff",
       "Tormented Soul"
     ],
-    "searchTerms": "boosted staff 1 two handed gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted staff (+1) two handed gold bar magic altar tormented soul weapons"
   },
   {
     "id": 542,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Dagger (1) Dual Wielding",
+    "result": "Boosted Dagger (+1) Dual Wielding",
     "ingredients": [
       "Dagger",
       "Gold Bar",
       "Tormented Soul"
     ],
-    "searchTerms": "boosted dagger 1 dual wielding gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted dagger (+1) dual wielding gold bar magic altar tormented soul weapons"
   },
   {
     "id": 543,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Knife (1) Dual Wielding",
+    "result": "Boosted Knife (+1) Dual Wielding",
     "ingredients": [
       "Gold Bar",
       "Knife",
       "Tormented Soul"
     ],
-    "searchTerms": "boosted knife 1 dual wielding gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted knife (+1) dual wielding gold bar magic altar tormented soul weapons"
   },
   {
     "id": 544,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Wand (1) Dual Wielding",
+    "result": "Boosted Wand (+1) Dual Wielding",
     "ingredients": [
       "Gold Bar",
       "Tormented Soul",
       "Wand"
     ],
-    "searchTerms": "boosted wand 1 dual wielding gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted wand (+1) dual wielding gold bar magic altar tormented soul weapons"
   },
   {
     "id": 545,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Bow (1) Ranged",
+    "result": "Boosted Bow (+1) Ranged",
     "ingredients": [
       "Bow",
       "Gold Bar",
       "Tormented Soul"
     ],
-    "searchTerms": "boosted bow 1 ranged gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted bow (+1) ranged gold bar magic altar tormented soul weapons"
   },
   {
     "id": 546,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Crossbow (1) Ranged",
+    "result": "Boosted Crossbow (+1) Ranged",
     "ingredients": [
       "Crossbow",
       "Gold Bar",
       "Tormented Soul"
     ],
-    "searchTerms": "boosted crossbow 1 ranged gold bar magic altar tormented soul weapons"
+    "searchTerms": "boosted crossbow (+1) ranged gold bar magic altar tormented soul weapons"
   },
   {
     "id": 547,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Elemental Boosted Weapon (Fire Damage)",
+    "result": "Elemental Boosted Weapon (+ Fire Damage)",
     "ingredients": [
       "Any Weapon",
       "Essence Fire",
       "Gold Bar"
     ],
-    "searchTerms": "any weapon elemental boosted weapon  fire damage essence fire gold bar magic altar weapons"
+    "searchTerms": "any weapon elemental boosted weapon (+ fire damage) essence fire gold bar magic altar weapons"
   },
   {
     "id": 548,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Elemental Boosted Weapon (Earth Damage)",
+    "result": "Elemental Boosted Weapon (+ Earth Damage)",
     "ingredients": [
       "Any Weapon",
       "Essence Earth",
       "Gold Bar"
     ],
-    "searchTerms": "any weapon elemental boosted weapon  earth damage essence earth gold bar magic altar weapons"
+    "searchTerms": "any weapon elemental boosted weapon (+ earth damage) essence earth gold bar magic altar weapons"
   },
   {
     "id": 549,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Elemental Boosted Weapon (Air Damage)",
+    "result": "Elemental Boosted Weapon (+ Air Damage)",
     "ingredients": [
       "Any Weapon",
       "Essence Air",
       "Gold Bar"
     ],
-    "searchTerms": "any weapon elemental boosted weapon  air damage essence air gold bar magic altar weapons"
+    "searchTerms": "any weapon elemental boosted weapon (+ air damage) essence air gold bar magic altar weapons"
   },
   {
     "id": 550,
     "type": "Weapons",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Elemental Boosted Weapon (Water Damage)",
+    "result": "Elemental Boosted Weapon (+ Water Damage)",
     "ingredients": [
       "Any Weapon",
       "Essence Water",
       "Gold Bar"
     ],
-    "searchTerms": "any weapon elemental boosted weapon  water damage essence water gold bar magic altar weapons"
+    "searchTerms": "any weapon elemental boosted weapon (+ water damage) essence water gold bar magic altar weapons"
   },
   {
     "id": 551,
@@ -7256,39 +7256,39 @@
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Giant Rune",
+    "result": "Giant % Rune",
     "ingredients": [
-      "Large Rune",
-      "Large Rune",
+      "Large % Rune",
+      "Large % Rune",
       "Pouch Of Superior Pixie Dust"
     ],
-    "searchTerms": "giant  rune large rune pouch of superior pixie dust runes"
+    "searchTerms": "giant % rune large % rune pouch of superior pixie dust runes"
   },
   {
     "id": 565,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Large Rune",
+    "result": "Large % Rune",
     "ingredients": [
-      "Medium Rune",
-      "Medium Rune",
+      "Medium % Rune",
+      "Medium % Rune",
       "Pixie Dust"
     ],
-    "searchTerms": "large  rune medium rune pixie dust runes"
+    "searchTerms": "large % rune medium % rune pixie dust runes"
   },
   {
     "id": 566,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Medium Rune",
+    "result": "Medium % Rune",
     "ingredients": [
       "Pixie Dust",
-      "Small Rune",
-      "Small Rune"
+      "Small % Rune",
+      "Small % Rune"
     ],
-    "searchTerms": "medium  rune pixie dust runes small rune"
+    "searchTerms": "medium % rune pixie dust runes small % rune"
   },
   {
     "id": 567,
@@ -7373,109 +7373,109 @@
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Giant Rune Of Power",
+    "result": "Giant % Rune Of Power",
     "ingredients": [
-      "Giant Rune",
+      "Giant % Rune",
       "Rune Frame Of Power"
     ],
-    "searchTerms": "giant  rune of power giant rune rune frame of power runes"
+    "searchTerms": "giant % rune of power rune frame of power runes"
   },
   {
     "id": 574,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Large Rune Of Power",
+    "result": "Large % Rune Of Power",
     "ingredients": [
-      "Large Rune",
+      "Large % Rune",
       "Rune Frame Of Power"
     ],
-    "searchTerms": "large  rune of power large rune rune frame of power runes"
+    "searchTerms": "large % rune of power rune frame of power runes"
   },
   {
     "id": 575,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Medium Rune Of Power",
+    "result": "Medium % Rune Of Power",
     "ingredients": [
-      "Medium Rune",
+      "Medium % Rune",
       "Rune Frame Of Power"
     ],
-    "searchTerms": "medium  rune of power medium rune rune frame of power runes"
+    "searchTerms": "medium % rune of power rune frame of power runes"
   },
   {
     "id": 576,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Small Rune Of Power",
+    "result": "Small % Rune Of Power",
     "ingredients": [
       "Rune Frame Of Power",
-      "Small Rune"
+      "Small % Rune"
     ],
-    "searchTerms": "rune frame of power runes small  rune of power small rune"
+    "searchTerms": "rune frame of power runes small % rune of power"
   },
   {
     "id": 577,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Mystical Giant Rune",
+    "result": "Mystical Giant % Rune",
     "ingredients": [
-      "Giant Rune",
+      "Giant % Rune",
       "Mystical Rune Frame"
     ],
-    "searchTerms": "giant rune mystical giant  rune mystical rune frame runes"
+    "searchTerms": "mystical giant % rune mystical rune frame runes"
   },
   {
     "id": 578,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Mystical Large Rune",
+    "result": "Mystical Large % Rune",
     "ingredients": [
-      "Large Rune",
+      "Large % Rune",
       "Mystical Rune Frame"
     ],
-    "searchTerms": "large rune mystical large  rune mystical rune frame runes"
+    "searchTerms": "mystical large % rune mystical rune frame runes"
   },
   {
     "id": 579,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Mystical Medium Rune",
+    "result": "Mystical Medium % Rune",
     "ingredients": [
-      "Medium Rune",
+      "Medium % Rune",
       "Mystical Rune Frame"
     ],
-    "searchTerms": "medium rune mystical medium  rune mystical rune frame runes"
+    "searchTerms": "mystical medium % rune mystical rune frame runes"
   },
   {
     "id": 580,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Mystical Small Rune",
+    "result": "Mystical Small % Rune",
     "ingredients": [
       "Mystical Rune Frame",
-      "Small Rune"
+      "Small % Rune"
     ],
-    "searchTerms": "mystical rune frame mystical small  rune runes small rune"
+    "searchTerms": "mystical rune frame mystical small % rune runes"
   },
   {
     "id": 581,
     "type": "Runes",
     "subtype": null,
     "tool": null,
-    "result": "Base Rune Frame",
+    "result": "Base Rune, Frame",
     "ingredients": [
       "Accessory Kit",
       "Framed Rune",
       "Gold Bar"
     ],
-    "searchTerms": "accessory kit base rune frame framed rune gold bar runes"
+    "searchTerms": "accessory kit base rune, frame framed rune gold bar runes"
   },
   {
     "id": 582,
@@ -7629,7 +7629,7 @@
     "ingredients": [
       "Arrowhead"
     ],
-    "searchTerms": "arrowheads campfire"
+    "searchTerms": "arrowheads campfire fire arrowhead"
   },
   {
     "id": 595,
@@ -7786,12 +7786,12 @@
     "type": "Arrowheads",
     "subtype": null,
     "tool": null,
-    "result": "Static Cloud Arrowhead",
+    "result": "*static Cloud Arrowhead",
     "ingredients": [
       "Stunning Arrowhead",
       "Water Essence"
     ],
-    "searchTerms": "static cloud arrowhead arrowheads stunning arrowhead water essence"
+    "searchTerms": "*static cloud arrowhead arrowheads stunning arrowhead water essence"
   },
   {
     "id": 609,
@@ -8174,12 +8174,12 @@
     "type": "Arrows",
     "subtype": null,
     "tool": null,
-    "result": "Static Cloud Arrow",
+    "result": "*static Cloud Arrow",
     "ingredients": [
       "Stunning Arrow",
       "Water Essence"
     ],
-    "searchTerms": "static cloud arrow arrows stunning arrow water essence"
+    "searchTerms": "*static cloud arrow arrows stunning arrow water essence"
   },
   {
     "id": 642,
@@ -8215,7 +8215,7 @@
       "Arrow",
       "Water"
     ],
-    "searchTerms": "arrows water arrow"
+    "searchTerms": "arrows"
   },
   {
     "id": 645,
@@ -8224,9 +8224,9 @@
     "tool": "Oven",
     "result": "Silver Ore",
     "ingredients": [
-      "Silver Cup Plate Glass"
+      "Silver Cup, Plate, Glass"
     ],
-    "searchTerms": "arrows oven silver cup plate glass silver ore"
+    "searchTerms": "arrows oven silver cup, plate, glass silver ore"
   },
   {
     "id": 646,
@@ -8414,10 +8414,10 @@
     "tool": "Blessed Water Barrel",
     "result": "Blessed Smokescreen Arrow",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Smokescreen Arrow"
     ],
-    "searchTerms": "arrows blessed smokescreen arrow blessed water barrel rune of boon banes"
+    "searchTerms": "arrows blessed smokescreen arrow blessed water barrel rune of boon & banes"
   },
   {
     "id": 662,
@@ -8427,9 +8427,9 @@
     "result": "Blessed Blood Arrow",
     "ingredients": [
       "Bleeding Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows bleeding arrow blessed blood arrow blessed water barrel rune of boon banes"
+    "searchTerms": "arrows bleeding arrow blessed blood arrow blessed water barrel rune of boon & banes"
   },
   {
     "id": 663,
@@ -8439,9 +8439,9 @@
     "result": "Blessed Charming Arrow",
     "ingredients": [
       "Charming Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows blessed charming arrow blessed water barrel rune of boon banes"
+    "searchTerms": "arrows blessed charming arrow blessed water barrel rune of boon & banes"
   },
   {
     "id": 664,
@@ -8451,9 +8451,9 @@
     "result": "Blessed Fire Arrow",
     "ingredients": [
       "Fire Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows blessed fire arrow blessed water barrel rune of boon banes"
+    "searchTerms": "arrows blessed fire arrow blessed water barrel rune of boon & banes"
   },
   {
     "id": 665,
@@ -8462,10 +8462,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Slowdown Arrow",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Slowdown Arrow"
     ],
-    "searchTerms": "arrows cursed oil barrel cursed slowdown arrow rune of boon banes"
+    "searchTerms": "arrows cursed oil barrel cursed slowdown arrow rune of boon & banes"
   },
   {
     "id": 666,
@@ -8474,10 +8474,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Water Arrow",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Water Arrow"
     ],
-    "searchTerms": "arrows cursed oil barrel cursed water arrow rune of boon banes"
+    "searchTerms": "arrows cursed oil barrel cursed water arrow rune of boon & banes"
   },
   {
     "id": 667,
@@ -8486,10 +8486,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Steam Cloud Arrow",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Steam Cloud Arrow"
     ],
-    "searchTerms": "arrows cursed oil barrel cursed steam cloud arrow rune of boon banes"
+    "searchTerms": "arrows cursed oil barrel cursed steam cloud arrow rune of boon & banes"
   },
   {
     "id": 668,
@@ -8499,9 +8499,9 @@
     "result": "Cursed Freezing Arrow",
     "ingredients": [
       "Freezing Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows cursed freezing arrow cursed oil barrel rune of boon banes"
+    "searchTerms": "arrows cursed freezing arrow cursed oil barrel rune of boon & banes"
   },
   {
     "id": 669,
@@ -8511,9 +8511,9 @@
     "result": "Cursed Knockdown Arrow",
     "ingredients": [
       "Knockdown Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows cursed knockdown arrow cursed oil barrel rune of boon banes"
+    "searchTerms": "arrows cursed knockdown arrow cursed oil barrel rune of boon & banes"
   },
   {
     "id": 670,
@@ -8523,9 +8523,9 @@
     "result": "Cursed Poison Arrow",
     "ingredients": [
       "Poison Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows cursed oil barrel cursed poison arrow rune of boon banes"
+    "searchTerms": "arrows cursed oil barrel cursed poison arrow rune of boon & banes"
   },
   {
     "id": 671,
@@ -8535,9 +8535,9 @@
     "result": "Cursed Poison Cloud Arrow",
     "ingredients": [
       "Poison Cloud Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows cursed oil barrel cursed poison cloud arrow rune of boon banes"
+    "searchTerms": "arrows cursed oil barrel cursed poison cloud arrow rune of boon & banes"
   },
   {
     "id": 672,
@@ -8547,9 +8547,9 @@
     "result": "Cursed Explosive Arrow",
     "ingredients": [
       "Explosive Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows cursed explosive arrow cursed oil barrel rune of boon banes"
+    "searchTerms": "arrows cursed explosive arrow cursed oil barrel rune of boon & banes"
   },
   {
     "id": 673,
@@ -8558,10 +8558,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Stunning Arrow",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Stunning Arrow"
     ],
-    "searchTerms": "arrows cursed oil barrel cursed stunning arrow rune of boon banes"
+    "searchTerms": "arrows cursed oil barrel cursed stunning arrow rune of boon & banes"
   },
   {
     "id": 674,
@@ -8571,9 +8571,9 @@
     "result": "Cursed Electric Cloud Arrow",
     "ingredients": [
       "Electric Cloud Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows cursed electric cloud arrow cursed oil barrel rune of boon banes"
+    "searchTerms": "arrows cursed electric cloud arrow cursed oil barrel rune of boon & banes"
   },
   {
     "id": 675,
@@ -8583,9 +8583,9 @@
     "result": "Cursed Bleeding Arrow",
     "ingredients": [
       "Bleeding Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows cursed bleeding arrow cursed oil barrel rune of boon banes"
+    "searchTerms": "arrows cursed bleeding arrow cursed oil barrel rune of boon & banes"
   },
   {
     "id": 676,
@@ -8594,10 +8594,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Silver Arrow",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Silver Arrow"
     ],
-    "searchTerms": "arrows cursed oil barrel cursed silver arrow rune of boon banes"
+    "searchTerms": "arrows cursed oil barrel cursed silver arrow rune of boon & banes"
   },
   {
     "id": 677,
@@ -8607,9 +8607,9 @@
     "result": "Cursed Debuff All Arrow",
     "ingredients": [
       "Debuff All Arrow",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "arrows cursed debuff all arrow cursed oil barrel rune of boon banes"
+    "searchTerms": "arrows cursed debuff all arrow cursed oil barrel rune of boon & banes"
   },
   {
     "id": 678,
@@ -8834,10 +8834,10 @@
     "tool": null,
     "result": "Holy Hand Grenade",
     "ingredients": [
-      "Pixie Dust Starfish",
+      "Pixie Dust / Starfish",
       "Sovereign's Orb"
     ],
-    "searchTerms": "grenades holy hand grenade pixie dust starfish sovereign's orb"
+    "searchTerms": "grenades holy hand grenade pixie dust / starfish sovereign's orb"
   },
   {
     "id": 697,
@@ -8847,9 +8847,9 @@
     "result": "Love Grenade",
     "ingredients": [
       "Empty Perfume Bottle",
-      "Honey Pixie Dust"
+      "Honey / Pixie Dust"
     ],
-    "searchTerms": "empty perfume bottle grenades honey pixie dust love grenade"
+    "searchTerms": "empty perfume bottle grenades honey / pixie dust love grenade"
   },
   {
     "id": 698,
@@ -8870,10 +8870,10 @@
     "tool": null,
     "result": "Nailbomb Grenade",
     "ingredients": [
-      "Broken Bottle Nails",
+      "Broken Bottle / Nails",
       "Empty Grenade"
     ],
-    "searchTerms": "broken bottle nails empty grenade grenades nailbomb grenade"
+    "searchTerms": "broken bottle / nails empty grenade grenades nailbomb grenade"
   },
   {
     "id": 700,
@@ -8919,9 +8919,9 @@
     "result": "Poison Cloud Grenade",
     "ingredients": [
       "Empty Canister",
-      "Poison Rotten Eggs"
+      "Poison / Rotten Eggs"
     ],
-    "searchTerms": "empty canister grenades poison cloud grenade poison rotten eggs"
+    "searchTerms": "empty canister grenades poison / rotten eggs poison cloud grenade"
   },
   {
     "id": 704,
@@ -8942,10 +8942,10 @@
     "tool": null,
     "result": "Razzle Dazzle Grenade",
     "ingredients": [
-      "Air Resistance Potion Jellyroom",
+      "Air Resistance Potion / Jellyroom",
       "Empty Canister"
     ],
-    "searchTerms": "air resistance potion jellyroom empty canister grenades razzle dazzle grenade"
+    "searchTerms": "air resistance potion / jellyroom empty canister grenades razzle dazzle grenade"
   },
   {
     "id": 706,
@@ -9031,7 +9031,7 @@
       "Rope",
       "Water Balloon"
     ],
-    "searchTerms": "grenades nailbomb grenade rope soggy nailbomb water balloon"
+    "searchTerms": "grenades rope soggy nailbomb water balloon"
   },
   {
     "id": 713,
@@ -9057,7 +9057,7 @@
       "Oil Flask",
       "Rope"
     ],
-    "searchTerms": "grenades nailbomb grenade oil flask oily nailbomb rope"
+    "searchTerms": "grenades oil flask oily nailbomb rope"
   },
   {
     "id": 715,
@@ -9321,9 +9321,9 @@
     "result": "Blessed Holy Grenade",
     "ingredients": [
       "Holy Grenade",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "blessed holy grenade blessed water barrel grenades rune of boon banes"
+    "searchTerms": "blessed holy grenade blessed water barrel grenades rune of boon & banes"
   },
   {
     "id": 736,
@@ -9333,9 +9333,9 @@
     "result": "Blessed Love Grenade",
     "ingredients": [
       "Love Grenade",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "blessed love grenade blessed water barrel grenades rune of boon banes"
+    "searchTerms": "blessed love grenade blessed water barrel grenades rune of boon & banes"
   },
   {
     "id": 737,
@@ -9345,9 +9345,9 @@
     "result": "Blessed Poison Flask",
     "ingredients": [
       "Poison Flask",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "blessed poison flask blessed water barrel grenades rune of boon banes"
+    "searchTerms": "blessed poison flask blessed water barrel grenades rune of boon & banes"
   },
   {
     "id": 738,
@@ -9356,22 +9356,22 @@
     "tool": "Blessed Water Barrel",
     "result": "Blessed Smoke Grenade",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Smoke Grenade"
     ],
-    "searchTerms": "blessed smoke grenade blessed water barrel grenades rune of boon banes"
+    "searchTerms": "blessed smoke grenade blessed water barrel grenades rune of boon & banes"
   },
   {
     "id": 739,
     "type": "Grenades",
     "subtype": null,
     "tool": "Cursed Oil Barrel",
-    "result": "Cursed Armour Piercing Grenade",
+    "result": "Cursed Armour-piercing Grenade",
     "ingredients": [
-      "Armour Piercing Grenade",
-      "Rune Of Boon Banes"
+      "Armour-piercing Grenade",
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "armour piercing grenade cursed armourpiercing grenade cursed oil barrel grenades rune of boon banes"
+    "searchTerms": "cursed armour-piercing grenade cursed oil barrel grenades rune of boon & banes"
   },
   {
     "id": 740,
@@ -9381,9 +9381,9 @@
     "result": "Cursed Chemical Warfare Grenade",
     "ingredients": [
       "Chemical Warfare Grenade",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "cursed chemical warfare grenade cursed oil barrel grenades rune of boon banes"
+    "searchTerms": "cursed chemical warfare grenade cursed oil barrel grenades rune of boon & banes"
   },
   {
     "id": 741,
@@ -9393,9 +9393,9 @@
     "result": "Cursed Flashbang Grenade",
     "ingredients": [
       "Flashbang Grenade",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "cursed flashbang grenade cursed oil barrel grenades rune of boon banes"
+    "searchTerms": "cursed flashbang grenade cursed oil barrel grenades rune of boon & banes"
   },
   {
     "id": 742,
@@ -9405,9 +9405,9 @@
     "result": "Cursed Frost Grenade",
     "ingredients": [
       "Cursed Frost Grenade",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "cursed frost grenade cursed oil barrel grenades rune of boon banes"
+    "searchTerms": "cursed frost grenade cursed oil barrel grenades rune of boon & banes"
   },
   {
     "id": 743,
@@ -9417,9 +9417,9 @@
     "result": "Cursed Poison Cloud Grenade",
     "ingredients": [
       "Poison Cloud Grenade",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "cursed oil barrel cursed poison cloud grenade grenades rune of boon banes"
+    "searchTerms": "cursed oil barrel cursed poison cloud grenade grenades rune of boon & banes"
   },
   {
     "id": 744,
@@ -9429,9 +9429,9 @@
     "result": "Cursed Nailbomb Grenade",
     "ingredients": [
       "Nailbomb Grenade",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "cursed nailbomb grenade cursed oil barrel grenades rune of boon banes"
+    "searchTerms": "cursed nailbomb grenade cursed oil barrel grenades rune of boon & banes"
   },
   {
     "id": 745,
@@ -9441,9 +9441,9 @@
     "result": "Cursed Oil Flask",
     "ingredients": [
       "Oil Flask",
-      "Rune Of Boon Banes"
+      "Rune Of Boon & Banes"
     ],
-    "searchTerms": "cursed oil barrel cursed oil flask grenades rune of boon banes"
+    "searchTerms": "cursed oil barrel cursed oil flask grenades rune of boon & banes"
   },
   {
     "id": 746,
@@ -9452,10 +9452,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Taser Grenade",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Taser Grenade"
     ],
-    "searchTerms": "cursed oil barrel cursed taser grenade grenades rune of boon banes"
+    "searchTerms": "cursed oil barrel cursed taser grenade grenades rune of boon & banes"
   },
   {
     "id": 747,
@@ -9464,10 +9464,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Terror Grenade",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Terror Grenade"
     ],
-    "searchTerms": "cursed oil barrel cursed terror grenade grenades rune of boon banes"
+    "searchTerms": "cursed oil barrel cursed terror grenade grenades rune of boon & banes"
   },
   {
     "id": 748,
@@ -9476,10 +9476,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Tremor Grenade",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Tremor Grenade"
     ],
-    "searchTerms": "cursed oil barrel cursed tremor grenade grenades rune of boon banes"
+    "searchTerms": "cursed oil barrel cursed tremor grenade grenades rune of boon & banes"
   },
   {
     "id": 749,
@@ -9488,10 +9488,10 @@
     "tool": "Cursed Oil Barrel",
     "result": "Cursed Water Balloon",
     "ingredients": [
-      "Rune Of Boon Banes",
+      "Rune Of Boon & Banes",
       "Water Balloon"
     ],
-    "searchTerms": "cursed oil barrel cursed water balloon grenades rune of boon banes"
+    "searchTerms": "cursed oil barrel cursed water balloon grenades rune of boon & banes"
   },
   {
     "id": 750,
@@ -9991,12 +9991,12 @@
     "type": "Potions",
     "subtype": "poison",
     "tool": null,
-    "result": "Void Enhanced Poison",
+    "result": "Void-enhanced Poison",
     "ingredients": [
       "Small Poison Bottle",
-      "Void Touched Livewood Fragments"
+      "Void-touched Livewood Fragments"
     ],
-    "searchTerms": "potions small poison bottle void touched livewood fragments voidenhanced poison"
+    "searchTerms": "potions small poison bottle void-enhanced poison void-touched livewood fragments"
   },
   {
     "id": 793,
@@ -10435,12 +10435,12 @@
     "type": "Potions",
     "subtype": "resistance",
     "tool": null,
-    "result": "Giant Magic Armour Potion",
+    "result": "*giant Magic Armour Potion",
     "ingredients": [
       "Large Magic Armour Potion",
       "Large Magic Armour Potion"
     ],
-    "searchTerms": "giant magic armour potion large magic armour potion potions"
+    "searchTerms": "*giant magic armour potion large magic armour potion potions"
   },
   {
     "id": 830,
@@ -10531,12 +10531,12 @@
     "type": "Potions",
     "subtype": "resistance",
     "tool": null,
-    "result": "Giant Physical Armour Potion",
+    "result": "*giant Physical Armour Potion",
     "ingredients": [
       "Large Physical Armour Potion",
       "Large Physical Armour Potion"
     ],
-    "searchTerms": "giant physical armour potion large physical armour potion potions"
+    "searchTerms": "*giant physical armour potion large physical armour potion potions"
   },
   {
     "id": 838,
@@ -11499,22 +11499,22 @@
     "type": "Potions",
     "subtype": "halloween",
     "tool": "Halloween Craft Station",
-    "result": "Health Poison Potion",
+    "result": "Health/poison Potion",
     "ingredients": [
       "Large Health Potion"
     ],
-    "searchTerms": "halloween craft station healthpoison potion large health potion potions"
+    "searchTerms": "halloween craft station health/poison potion large health potion potions"
   },
   {
     "id": 915,
     "type": "Potions",
     "subtype": "halloween",
     "tool": "Halloween Craft Station",
-    "result": "Poison Health Potion",
+    "result": "Poison/health Potion",
     "ingredients": [
       "Large Posion Bottle"
     ],
-    "searchTerms": "halloween craft station large posion bottle poisonhealth potion potions"
+    "searchTerms": "halloween craft station large posion bottle poison/health potion potions"
   },
   {
     "id": 916,
@@ -14500,7 +14500,7 @@
       "Beard Of The Divine",
       "Sheet Paper"
     ],
-    "searchTerms": "beard of the divine skillbook demon altar sheet paper skillbooks"
+    "searchTerms": "demon altar sheet paper skillbooks"
   },
   {
     "id": 1163,
@@ -14512,7 +14512,7 @@
       "Eye Of The Divine",
       "Sheet Paper"
     ],
-    "searchTerms": "demon altar eye of the divine skillbook sheet paper skillbooks"
+    "searchTerms": "demon altar sheet paper skillbooks"
   },
   {
     "id": 1164,
@@ -14536,7 +14536,7 @@
       "Sheet Paper",
       "Tongue Of The Divine"
     ],
-    "searchTerms": "demon altar sheet paper skillbooks tongue of the divine skillbook"
+    "searchTerms": "demon altar sheet paper skillbooks"
   },
   {
     "id": 1166,
@@ -14545,11 +14545,11 @@
     "tool": null,
     "result": "Fire Whip Scroll",
     "ingredients": [
-      "Alien Fire Essence High Quality Fire Essence",
-      "Sheet Of Paper Parchment",
+      "Alien Fire Essence / High Quality Fire Essence",
+      "Sheet Of Paper / Parchment",
       "Voidwoken Spike"
     ],
-    "searchTerms": "alien fire essence high quality fire essence fire whip scroll scrolls sheet of paper parchment voidwoken spike"
+    "searchTerms": "alien fire essence / high quality fire essence fire whip scroll scrolls sheet of paper / parchment voidwoken spike"
   },
   {
     "id": 1167,
@@ -14560,9 +14560,9 @@
     "ingredients": [
       "Any Fire Essence",
       "Sharp Claw",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any fire essence fireball scroll scrolls sharp claw sheet of paper parchment"
+    "searchTerms": "any fire essence fireball scroll scrolls sharp claw sheet of paper / parchment"
   },
   {
     "id": 1168,
@@ -14573,9 +14573,9 @@
     "ingredients": [
       "Alien Fire Essence",
       "Fang",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien fire essence fang firebrand scroll scrolls sheet of paper parchment"
+    "searchTerms": "alien fire essence fang firebrand scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1169,
@@ -14586,9 +14586,9 @@
     "ingredients": [
       "Alien Fire Essence",
       "Needle",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien fire essence flaming crescendo scroll needle scrolls sheet of paper parchment"
+    "searchTerms": "alien fire essence flaming crescendo scroll needle scrolls sheet of paper / parchment"
   },
   {
     "id": 1170,
@@ -14598,10 +14598,10 @@
     "result": "Flaming Tongues Scroll",
     "ingredients": [
       "Adult Antler",
-      "Alien Fire Essence High Quality Fire Essence",
-      "Sheet Of Paper Parchment"
+      "Alien Fire Essence / High Quality Fire Essence",
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "adult antler alien fire essence high quality fire essence flaming tongues scroll scrolls sheet of paper parchment"
+    "searchTerms": "adult antler alien fire essence / high quality fire essence flaming tongues scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1171,
@@ -14610,11 +14610,11 @@
     "tool": null,
     "result": "Haste Scroll",
     "ingredients": [
-      "Antler Claw",
+      "Antler / Claw",
       "Any Fire Essence",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "antler claw any fire essence haste scroll scrolls sheet of paper parchment"
+    "searchTerms": "antler / claw any fire essence haste scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1172,
@@ -14624,10 +14624,10 @@
     "result": "Ignition Scroll",
     "ingredients": [
       "Any Fire Essence",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Tusk"
     ],
-    "searchTerms": "any fire essence ignition scroll scrolls sheet of paper parchment tusk"
+    "searchTerms": "any fire essence ignition scroll scrolls sheet of paper / parchment tusk"
   },
   {
     "id": 1173,
@@ -14636,11 +14636,11 @@
     "tool": null,
     "result": "Laser Ray Scroll",
     "ingredients": [
-      "Alien Fire Essence High Quality Fire Essence",
+      "Alien Fire Essence / High Quality Fire Essence",
       "Nails",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien fire essence high quality fire essence laser ray scroll nails scrolls sheet of paper parchment"
+    "searchTerms": "alien fire essence / high quality fire essence laser ray scroll nails scrolls sheet of paper / parchment"
   },
   {
     "id": 1174,
@@ -14651,9 +14651,9 @@
     "ingredients": [
       "Any Fire Essence",
       "Crab's Claw",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any fire essence crab's claw peace of mind scroll scrolls sheet of paper parchment"
+    "searchTerms": "any fire essence crab's claw peace of mind scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1175,
@@ -14663,10 +14663,10 @@
     "result": "Searing Daggers Scroll",
     "ingredients": [
       "Any Fire Essence",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Tooth"
     ],
-    "searchTerms": "any fire essence scrolls searing daggers scroll sheet of paper parchment tooth"
+    "searchTerms": "any fire essence scrolls searing daggers scroll sheet of paper / parchment tooth"
   },
   {
     "id": 1176,
@@ -14675,11 +14675,11 @@
     "tool": null,
     "result": "Supernova Scroll",
     "ingredients": [
-      "Alien Fire Essence High Quality Fire Essence",
+      "Alien Fire Essence / High Quality Fire Essence",
       "Sharp Tooth",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien fire essence high quality fire essence scrolls sharp tooth sheet of paper parchment supernova scroll"
+    "searchTerms": "alien fire essence / high quality fire essence scrolls sharp tooth sheet of paper / parchment supernova scroll"
   },
   {
     "id": 1177,
@@ -14689,9 +14689,9 @@
     "result": "Random Pyrokinetic Scroll",
     "ingredients": [
       "Blank Pyrokinetic Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank pyrokinetic scroll demon altar magic inkpot quill random pyrokinetic scroll scrolls"
+    "searchTerms": "blank pyrokinetic scroll demon altar magic inkpot & quill random pyrokinetic scroll scrolls"
   },
   {
     "id": 1178,
@@ -14713,10 +14713,10 @@
     "result": "Epidemic Of Pyrokinetic Scroll",
     "ingredients": [
       "Large Tusk",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "epidemic of pyrokinetic scroll large tusk scrolls sheet of paper parchment source orb"
+    "searchTerms": "epidemic of pyrokinetic scroll large tusk scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1180,
@@ -14726,10 +14726,10 @@
     "result": "Pyroclastic Eruption Scroll",
     "ingredients": [
       "Eternal Tablet",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "eternal tablet pyroclastic eruption scroll scrolls sheet of paper parchment source orb"
+    "searchTerms": "eternal tablet pyroclastic eruption scroll scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1181,
@@ -14740,9 +14740,9 @@
     "ingredients": [
       "Any Water Essence",
       "Bluegill Mushroom",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any water essence armour of frost scroll bluegill mushroom scrolls sheet of paper parchment"
+    "searchTerms": "any water essence armour of frost scroll bluegill mushroom scrolls sheet of paper / parchment"
   },
   {
     "id": 1182,
@@ -14753,9 +14753,9 @@
     "ingredients": [
       "Alien Water Essence",
       "Mackerel",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien water essence deep freeze scroll mackerel scrolls sheet of paper parchment"
+    "searchTerms": "alien water essence deep freeze scroll mackerel scrolls sheet of paper / parchment"
   },
   {
     "id": 1183,
@@ -14764,11 +14764,11 @@
     "tool": null,
     "result": "Hail Strike Scroll",
     "ingredients": [
-      "Alien Water Essence High Quality Water Essence",
+      "Alien Water Essence / High Quality Water Essence",
       "Chub Fish",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien water essence high quality water essence chub fish hail strike scroll scrolls sheet of paper parchment"
+    "searchTerms": "alien water essence / high quality water essence chub fish hail strike scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1184,
@@ -14777,11 +14777,11 @@
     "tool": null,
     "result": "Healing Ritual Scroll",
     "ingredients": [
-      "Alien Water Essence High Quality Water Essence",
-      "Sheet Of Paper Parchment",
+      "Alien Water Essence / High Quality Water Essence",
+      "Sheet Of Paper / Parchment",
       "Starfish"
     ],
-    "searchTerms": "alien water essence high quality water essence healing ritual scroll scrolls sheet of paper parchment starfish"
+    "searchTerms": "alien water essence / high quality water essence healing ritual scroll scrolls sheet of paper / parchment starfish"
   },
   {
     "id": 1185,
@@ -14792,9 +14792,9 @@
     "ingredients": [
       "Any Water Essence",
       "Herring",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any water essence herring rain scroll scrolls sheet of paper parchment"
+    "searchTerms": "any water essence herring rain scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1186,
@@ -14805,9 +14805,9 @@
     "ingredients": [
       "Any Water Essence",
       "Penny Bun Mushroom",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any water essence penny bun mushroom restoration scroll scrolls sheet of paper parchment"
+    "searchTerms": "any water essence penny bun mushroom restoration scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1187,
@@ -14818,9 +14818,9 @@
     "ingredients": [
       "Any Life Essence",
       "Any Water Essence",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any life essence any water essence resurrection scroll scrolls sheet of paper parchment"
+    "searchTerms": "any life essence any water essence resurrection scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1188,
@@ -14831,9 +14831,9 @@
     "ingredients": [
       "Any Water Essence",
       "Red Snapper",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any water essence red snapper scrolls sheet of paper parchment soothing cold scroll"
+    "searchTerms": "any water essence red snapper scrolls sheet of paper / parchment soothing cold scroll"
   },
   {
     "id": 1189,
@@ -14844,9 +14844,9 @@
     "ingredients": [
       "Any Water Essence",
       "Plaice",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any water essence plaice scrolls sheet of paper parchment winter blast scroll"
+    "searchTerms": "any water essence plaice scrolls sheet of paper / parchment winter blast scroll"
   },
   {
     "id": 1190,
@@ -14856,9 +14856,9 @@
     "result": "Random Hydrosophist Scroll",
     "ingredients": [
       "Blank Hydrosophist Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank hydrosophist scroll demon altar magic inkpot quill random hydrosophist scroll scrolls"
+    "searchTerms": "blank hydrosophist scroll demon altar magic inkpot & quill random hydrosophist scroll scrolls"
   },
   {
     "id": 1191,
@@ -14880,10 +14880,10 @@
     "result": "Steam Lance Scroll",
     "ingredients": [
       "Chub Fish",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "chub fish scrolls sheet of paper parchment source orb steam lance scroll"
+    "searchTerms": "chub fish scrolls sheet of paper / parchment source orb steam lance scroll"
   },
   {
     "id": 1193,
@@ -14893,10 +14893,10 @@
     "result": "Artillery Plant Scroll",
     "ingredients": [
       "Earth Tongue Mushroom",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "artillery plant scroll earth tongue mushroom scrolls sheet of paper parchment source orb"
+    "searchTerms": "artillery plant scroll earth tongue mushroom scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1194,
@@ -14907,9 +14907,9 @@
     "ingredients": [
       "Any Earth Essence",
       "Intestines",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any earth essence contamination scroll intestines scrolls sheet of paper parchment"
+    "searchTerms": "any earth essence contamination scroll intestines scrolls sheet of paper / parchment"
   },
   {
     "id": 1195,
@@ -14918,11 +14918,11 @@
     "tool": null,
     "result": "Earthquake Scroll",
     "ingredients": [
-      "Alien Earth Essence High Quality Earth Essence",
+      "Alien Earth Essence / High Quality Earth Essence",
       "Clay",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien earth essence high quality earth essence clay earthquake scroll scrolls sheet of paper parchment"
+    "searchTerms": "alien earth essence / high quality earth essence clay earthquake scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1196,
@@ -14932,10 +14932,10 @@
     "result": "Fortify Scroll",
     "ingredients": [
       "Any Earth Essence",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Whisperwood"
     ],
-    "searchTerms": "any earth essence fortify scroll scrolls sheet of paper parchment whisperwood"
+    "searchTerms": "any earth essence fortify scroll scrolls sheet of paper / parchment whisperwood"
   },
   {
     "id": 1197,
@@ -14946,9 +14946,9 @@
     "ingredients": [
       "Any Earth Essence",
       "Sharp Rock",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any earth essence fossil strike scroll scrolls sharp rock sheet of paper parchment"
+    "searchTerms": "any earth essence fossil strike scroll scrolls sharp rock sheet of paper / parchment"
   },
   {
     "id": 1198,
@@ -14958,10 +14958,10 @@
     "result": "Hungry Flower Scroll",
     "ingredients": [
       "Earth Tongue Mushroom",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "earth tongue mushroom hungry flower scroll scrolls sheet of paper parchment source orb"
+    "searchTerms": "earth tongue mushroom hungry flower scroll scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1199,
@@ -14972,9 +14972,9 @@
     "ingredients": [
       "Any Earth Essence",
       "Sharp Piece Of Metal",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any earth essence impalement scroll scrolls sharp piece of metal sheet of paper parchment"
+    "searchTerms": "any earth essence impalement scroll scrolls sharp piece of metal sheet of paper / parchment"
   },
   {
     "id": 1200,
@@ -14985,9 +14985,9 @@
     "ingredients": [
       "Alien Earth Essence",
       "Augmentor",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien earth essence augmentor living wall scroll scrolls sheet of paper parchment"
+    "searchTerms": "alien earth essence augmentor living wall scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1201,
@@ -14997,10 +14997,10 @@
     "result": "Mend Metal Scroll",
     "ingredients": [
       "Any Earth Essence",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Stardust Herb"
     ],
-    "searchTerms": "any earth essence mend metal scroll scrolls sheet of paper parchment stardust herb"
+    "searchTerms": "any earth essence mend metal scroll scrolls sheet of paper / parchment stardust herb"
   },
   {
     "id": 1202,
@@ -15010,10 +15010,10 @@
     "result": "Mend Metal Scroll",
     "ingredients": [
       "Any Earth Essence",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Superior Stardust Herb"
     ],
-    "searchTerms": "any earth essence mend metal scroll scrolls sheet of paper parchment superior stardust herb"
+    "searchTerms": "any earth essence mend metal scroll scrolls sheet of paper / parchment superior stardust herb"
   },
   {
     "id": 1203,
@@ -15024,9 +15024,9 @@
     "ingredients": [
       "Any Earth Essence",
       "Fly Agaric Mushroom",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any earth essence fly agaric mushroom poison dart scroll scrolls sheet of paper parchment"
+    "searchTerms": "any earth essence fly agaric mushroom poison dart scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1204,
@@ -15035,11 +15035,11 @@
     "tool": null,
     "result": "Poison Wave Scroll",
     "ingredients": [
-      "Alien Earth Essence High Quality Earth Essence",
-      "Sheet Of Paper Parchment",
+      "Alien Earth Essence / High Quality Earth Essence",
+      "Sheet Of Paper / Parchment",
       "Slime"
     ],
-    "searchTerms": "alien earth essence high quality earth essence poison wave scroll scrolls sheet of paper parchment slime"
+    "searchTerms": "alien earth essence / high quality earth essence poison wave scroll scrolls sheet of paper / parchment slime"
   },
   {
     "id": 1205,
@@ -15048,11 +15048,11 @@
     "tool": null,
     "result": "Reactive Armour Scroll",
     "ingredients": [
-      "High Quality Earth Essence Alien Earth Essence",
-      "Sheet Of Paper Parchment",
+      "High Quality Earth Essence / Alien Earth Essence",
+      "Sheet Of Paper / Parchment",
       "Trumpet Of Death"
     ],
-    "searchTerms": "high quality earth essence alien earth essence reactive armour scroll scrolls sheet of paper parchment trumpet of death"
+    "searchTerms": "high quality earth essence / alien earth essence reactive armour scroll scrolls sheet of paper / parchment trumpet of death"
   },
   {
     "id": 1206,
@@ -15062,9 +15062,9 @@
     "result": "Random Geomancer Scroll",
     "ingredients": [
       "Blank Geomancer Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank geomancer scroll demon altar magic inkpot quill random geomancer scroll scrolls"
+    "searchTerms": "blank geomancer scroll demon altar magic inkpot & quill random geomancer scroll scrolls"
   },
   {
     "id": 1207,
@@ -15086,10 +15086,10 @@
     "result": "Acid Spores Scroll",
     "ingredients": [
       "Livewood",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "acid spores scroll livewood scrolls sheet of paper parchment source orb"
+    "searchTerms": "acid spores scroll livewood scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1209,
@@ -15098,11 +15098,11 @@
     "tool": null,
     "result": "Apportation Scroll",
     "ingredients": [
-      "Alien Air Essence High Quality Air Essence",
+      "Alien Air Essence / High Quality Air Essence",
       "Rope",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien air essence high quality air essence apportation scroll rope scrolls sheet of paper parchment"
+    "searchTerms": "alien air essence / high quality air essence apportation scroll rope scrolls sheet of paper / parchment"
   },
   {
     "id": 1210,
@@ -15113,9 +15113,9 @@
     "ingredients": [
       "Any Air Essence",
       "Gold",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any air essence blinding radiance scroll gold scrolls sheet of paper parchment"
+    "searchTerms": "any air essence blinding radiance scroll gold scrolls sheet of paper / parchment"
   },
   {
     "id": 1211,
@@ -15126,9 +15126,9 @@
     "ingredients": [
       "Any Air Essence",
       "Rabbit's Paw",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any air essence electric discharge scroll rabbit's paw scrolls sheet of paper parchment"
+    "searchTerms": "any air essence electric discharge scroll rabbit's paw scrolls sheet of paper / parchment"
   },
   {
     "id": 1212,
@@ -15139,9 +15139,9 @@
     "ingredients": [
       "Any Air Essence",
       "Panties",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any air essence favourable wind scroll panties scrolls sheet of paper parchment"
+    "searchTerms": "any air essence favourable wind scroll panties scrolls sheet of paper / parchment"
   },
   {
     "id": 1213,
@@ -15150,11 +15150,11 @@
     "tool": null,
     "result": "Nether Swap Scroll",
     "ingredients": [
-      "Alien Air Essence High Quality Air Essence",
+      "Alien Air Essence / High Quality Air Essence",
       "Chanterelle",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien air essence high quality air essence chanterelle nether swap scroll scrolls sheet of paper parchment"
+    "searchTerms": "alien air essence / high quality air essence chanterelle nether swap scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1214,
@@ -15163,11 +15163,11 @@
     "tool": null,
     "result": "Pressure Spike Scroll",
     "ingredients": [
-      "Alien Air Essence High Quality Air Essence",
+      "Alien Air Essence / High Quality Air Essence",
       "Handkerchief",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien air essence high quality air essence handkerchief pressure spike scroll scrolls sheet of paper parchment"
+    "searchTerms": "alien air essence / high quality air essence handkerchief pressure spike scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1215,
@@ -15178,9 +15178,9 @@
     "ingredients": [
       "Any Essence",
       "Flour",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any essence flour scrolls sheet of paper parchment shocking touch scroll"
+    "searchTerms": "any essence flour scrolls sheet of paper / parchment shocking touch scroll"
   },
   {
     "id": 1216,
@@ -15191,9 +15191,9 @@
     "ingredients": [
       "Alien Air Essence",
       "Jellyroom",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien air essence jellyroom scrolls sheet of paper parchment superconductor scroll"
+    "searchTerms": "alien air essence jellyroom scrolls sheet of paper / parchment superconductor scroll"
   },
   {
     "id": 1217,
@@ -15204,9 +15204,9 @@
     "ingredients": [
       "Any Air Essence",
       "Feather",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any air essence feather scrolls sheet of paper parchment teleportation scroll"
+    "searchTerms": "any air essence feather scrolls sheet of paper / parchment teleportation scroll"
   },
   {
     "id": 1218,
@@ -15217,9 +15217,9 @@
     "ingredients": [
       "Alien Air Essence",
       "Fancy Feather",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien air essence fancy feather scrolls sheet of paper parchment tornado scroll"
+    "searchTerms": "alien air essence fancy feather scrolls sheet of paper / parchment tornado scroll"
   },
   {
     "id": 1219,
@@ -15228,11 +15228,11 @@
     "tool": null,
     "result": "Tornado Scroll",
     "ingredients": [
-      "Alien Air Essence High Quality Air Essence",
+      "Alien Air Essence / High Quality Air Essence",
       "Hair",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien air essence high quality air essence hair scrolls sheet of paper parchment tornado scroll"
+    "searchTerms": "alien air essence / high quality air essence hair scrolls sheet of paper / parchment tornado scroll"
   },
   {
     "id": 1220,
@@ -15242,9 +15242,9 @@
     "result": "Random Aerotheurge Scroll",
     "ingredients": [
       "Blank Aerotheurge Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank aerotheurge scroll demon altar magic inkpot quill random aerotheurge scroll scrolls"
+    "searchTerms": "blank aerotheurge scroll demon altar magic inkpot & quill random aerotheurge scroll scrolls"
   },
   {
     "id": 1221,
@@ -15265,11 +15265,11 @@
     "tool": null,
     "result": "Chain Lightning Scroll",
     "ingredients": [
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb",
-      "Wool Yarn"
+      "Wool / Yarn"
     ],
-    "searchTerms": "chain lightning scroll scrolls sheet of paper parchment source orb wool yarn"
+    "searchTerms": "chain lightning scroll scrolls sheet of paper / parchment source orb wool / yarn"
   },
   {
     "id": 1223,
@@ -15279,10 +15279,10 @@
     "result": "Closed Circuit Scroll",
     "ingredients": [
       "Lucky Rabbit Paw",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "closed circuit scroll lucky rabbit paw scrolls sheet of paper parchment source orb"
+    "searchTerms": "closed circuit scroll lucky rabbit paw scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1224,
@@ -15293,9 +15293,9 @@
     "ingredients": [
       "Any Shadow Essence",
       "Penny Bun Mushroom",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any shadow essence blood sucker scroll penny bun mushroom scrolls sheet of paper parchment"
+    "searchTerms": "any shadow essence blood sucker scroll penny bun mushroom scrolls sheet of paper / parchment"
   },
   {
     "id": 1225,
@@ -15304,11 +15304,11 @@
     "tool": null,
     "result": "Bone Cage Scroll",
     "ingredients": [
-      "Alien Shadow Essence High Quality Shadow Essence",
+      "Alien Shadow Essence / High Quality Shadow Essence",
       "Fishbone",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien shadow essence high quality shadow essence bone cage scroll fishbone scrolls sheet of paper parchment"
+    "searchTerms": "alien shadow essence / high quality shadow essence bone cage scroll fishbone scrolls sheet of paper / parchment"
   },
   {
     "id": 1226,
@@ -15319,9 +15319,9 @@
     "ingredients": [
       "Any Shadow Essence",
       "Eye",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any shadow essence decaying touch scroll eye scrolls sheet of paper parchment"
+    "searchTerms": "any shadow essence decaying touch scroll eye scrolls sheet of paper / parchment"
   },
   {
     "id": 1227,
@@ -15332,9 +15332,9 @@
     "ingredients": [
       "Disembodied Hand",
       "High Quality Shadow Essence",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "disembodied hand grasp of the starved scroll high quality shadow essence scrolls sheet of paper parchment"
+    "searchTerms": "disembodied hand grasp of the starved scroll high quality shadow essence scrolls sheet of paper / parchment"
   },
   {
     "id": 1228,
@@ -15345,9 +15345,9 @@
     "ingredients": [
       "Any Shadow Essence",
       "Intestines",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any shadow essence infect scroll intestines scrolls sheet of paper parchment"
+    "searchTerms": "any shadow essence infect scroll intestines scrolls sheet of paper / parchment"
   },
   {
     "id": 1229,
@@ -15356,11 +15356,11 @@
     "tool": null,
     "result": "Living On The Edge Scroll",
     "ingredients": [
-      "Alien Shadow Essence High Quality Shadow Essence",
+      "Alien Shadow Essence / High Quality Shadow Essence",
       "Giblets",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien shadow essence high quality shadow essence giblets living on the edge scroll scrolls sheet of paper parchment"
+    "searchTerms": "alien shadow essence / high quality shadow essence giblets living on the edge scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1230,
@@ -15371,9 +15371,9 @@
     "ingredients": [
       "Dirty Socks",
       "High Quality Shadow Essence",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "dirty socks high quality shadow essence living on the edge scroll scrolls sheet of paper parchment"
+    "searchTerms": "dirty socks high quality shadow essence living on the edge scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1231,
@@ -15384,9 +15384,9 @@
     "ingredients": [
       "Any Shadow Essence",
       "Raw Red Meat",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any shadow essence raise bloated corpse scroll raw red meat scrolls sheet of paper parchment"
+    "searchTerms": "any shadow essence raise bloated corpse scroll raw red meat scrolls sheet of paper / parchment"
   },
   {
     "id": 1232,
@@ -15395,11 +15395,11 @@
     "tool": null,
     "result": "Raise Bone Widow Scroll",
     "ingredients": [
-      "Alien Shadow Essence High Quality Shadow Essence",
+      "Alien Shadow Essence / High Quality Shadow Essence",
       "Ancient Human Skull",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien shadow essence high quality shadow essence ancient human skull raise bone widow scroll scrolls sheet of paper parchment"
+    "searchTerms": "alien shadow essence / high quality shadow essence ancient human skull raise bone widow scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1233,
@@ -15409,10 +15409,10 @@
     "result": "Shackles Of Pain Scroll",
     "ingredients": [
       "Any Shadow Essence",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Skull"
     ],
-    "searchTerms": "any shadow essence scrolls shackles of pain scroll sheet of paper parchment skull"
+    "searchTerms": "any shadow essence scrolls shackles of pain scroll sheet of paper / parchment skull"
   },
   {
     "id": 1234,
@@ -15423,9 +15423,9 @@
     "ingredients": [
       "Alien Shadow Essence",
       "Goo",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien shadow essence goo scrolls sheet of paper parchment silencing stare scroll"
+    "searchTerms": "alien shadow essence goo scrolls sheet of paper / parchment silencing stare scroll"
   },
   {
     "id": 1235,
@@ -15435,10 +15435,10 @@
     "result": "Black Shroud Scroll",
     "ingredients": [
       "Creepy Eye",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "black shroud scroll creepy eye scrolls sheet of paper parchment source orb"
+    "searchTerms": "black shroud scroll creepy eye scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1236,
@@ -15448,10 +15448,10 @@
     "result": "Grasp Of The Starved Scroll",
     "ingredients": [
       "Disembodied Hand",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "disembodied hand grasp of the starved scroll scrolls sheet of paper parchment source orb"
+    "searchTerms": "disembodied hand grasp of the starved scroll scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1237,
@@ -15462,9 +15462,9 @@
     "ingredients": [
       "Alien Tormented Soul",
       "Honey",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien tormented soul charm scroll honey scrolls sheet of paper parchment"
+    "searchTerms": "alien tormented soul charm scroll honey scrolls sheet of paper / parchment"
   },
   {
     "id": 1238,
@@ -15473,11 +15473,11 @@
     "tool": null,
     "result": "Curse Scroll",
     "ingredients": [
-      "Alien Tormented Soul High Quality Tormented Soul",
-      "Sheet Of Paper Parchment",
+      "Alien Tormented Soul / High Quality Tormented Soul",
+      "Sheet Of Paper / Parchment",
       "Voidwoken Fish"
     ],
-    "searchTerms": "alien tormented soul high quality tormented soul curse scroll scrolls sheet of paper parchment voidwoken fish"
+    "searchTerms": "alien tormented soul / high quality tormented soul curse scroll scrolls sheet of paper / parchment voidwoken fish"
   },
   {
     "id": 1239,
@@ -15488,9 +15488,9 @@
     "ingredients": [
       "Any Tormented Soul",
       "Pepper",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any tormented soul dimensional bolt scroll pepper scrolls sheet of paper parchment"
+    "searchTerms": "any tormented soul dimensional bolt scroll pepper scrolls sheet of paper / parchment"
   },
   {
     "id": 1240,
@@ -15500,10 +15500,10 @@
     "result": "Elemental Totem Scroll",
     "ingredients": [
       "Any Tormented Soul",
-      "Doll Wooden Figurine",
-      "Sheet Of Paper Parchment"
+      "Doll /wooden Figurine",
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any tormented soul doll wooden figurine elemental totem scroll scrolls sheet of paper parchment"
+    "searchTerms": "any tormented soul doll /wooden figurine elemental totem scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1241,
@@ -15514,9 +15514,9 @@
     "ingredients": [
       "Any Tormented Soul",
       "Garlic",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any tormented soul garlic rallying cry scroll scrolls sheet of paper parchment"
+    "searchTerms": "any tormented soul garlic rallying cry scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1242,
@@ -15525,11 +15525,11 @@
     "tool": null,
     "result": "Soul Mate Scroll",
     "ingredients": [
-      "Alien Tormented Soul High Quality Tormented Soul",
-      "Sheet Of Paper Parchment",
+      "Alien Tormented Soul / High Quality Tormented Soul",
+      "Sheet Of Paper / Parchment",
       "Wheat"
     ],
-    "searchTerms": "alien tormented soul high quality tormented soul scrolls sheet of paper parchment soul mate scroll wheat"
+    "searchTerms": "alien tormented soul / high quality tormented soul scrolls sheet of paper / parchment soul mate scroll wheat"
   },
   {
     "id": 1243,
@@ -15539,9 +15539,9 @@
     "result": "Random Summoning Scroll",
     "ingredients": [
       "Blank Summoning Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank summoning scroll demon altar magic inkpot quill random summoning scroll scrolls"
+    "searchTerms": "blank summoning scroll demon altar magic inkpot & quill random summoning scroll scrolls"
   },
   {
     "id": 1244,
@@ -15563,10 +15563,10 @@
     "result": "Ethereal Storm Scroll",
     "ingredients": [
       "Carrot",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "carrot ethereal storm scroll scrolls sheet of paper parchment source orb"
+    "searchTerms": "carrot ethereal storm scroll scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1246,
@@ -15576,10 +15576,10 @@
     "result": "Planar Gateway Scroll",
     "ingredients": [
       "Grapes",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "grapes planar gateway scroll scrolls sheet of paper parchment source orb"
+    "searchTerms": "grapes planar gateway scroll scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1247,
@@ -15588,11 +15588,11 @@
     "tool": null,
     "result": "Bull Horns Scroll",
     "ingredients": [
-      "Antler Adult Antler",
+      "Antler / Adult Antler",
       "Any Life Essence",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "antler adult antler any life essence bull horns scroll scrolls sheet of paper parchment"
+    "searchTerms": "antler / adult antler any life essence bull horns scroll scrolls sheet of paper / parchment"
   },
   {
     "id": 1248,
@@ -15603,9 +15603,9 @@
     "ingredients": [
       "Any Life Essence",
       "Long Rat Tail",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any life essence chameleon cloak scroll long rat tail scrolls sheet of paper parchment"
+    "searchTerms": "any life essence chameleon cloak scroll long rat tail scrolls sheet of paper / parchment"
   },
   {
     "id": 1249,
@@ -15615,10 +15615,10 @@
     "result": "Chicken Claw Scroll",
     "ingredients": [
       "Any Life Essence",
-      "Chicken Foot Big Chicken Foot",
-      "Sheet Of Paper Parchment"
+      "Chicken Foot / Big Chicken Foot",
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any life essence chicken claw scroll chicken foot big chicken foot scrolls sheet of paper parchment"
+    "searchTerms": "any life essence chicken claw scroll chicken foot / big chicken foot scrolls sheet of paper / parchment"
   },
   {
     "id": 1250,
@@ -15629,9 +15629,9 @@
     "ingredients": [
       "Alien Life Essence",
       "Pilgrim's Shell",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien life essence equalise scroll pilgrim's shell scrolls sheet of paper parchment"
+    "searchTerms": "alien life essence equalise scroll pilgrim's shell scrolls sheet of paper / parchment"
   },
   {
     "id": 1251,
@@ -15642,9 +15642,9 @@
     "ingredients": [
       "Any Life Essence",
       "Metal",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any life essence heart of steel scroll metal scrolls sheet of paper parchment"
+    "searchTerms": "any life essence heart of steel scroll metal scrolls sheet of paper / parchment"
   },
   {
     "id": 1252,
@@ -15653,11 +15653,11 @@
     "tool": null,
     "result": "Spider Legs Scroll",
     "ingredients": [
-      "Alien Life Essence High Quality Life Essence",
+      "Alien Life Essence / High Quality Life Essence",
       "Arthropod Leg",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien life essence high quality life essence arthropod leg scrolls sheet of paper parchment spider legs scroll"
+    "searchTerms": "alien life essence / high quality life essence arthropod leg scrolls sheet of paper / parchment spider legs scroll"
   },
   {
     "id": 1253,
@@ -15667,10 +15667,10 @@
     "result": "Spread Your Wings Scroll",
     "ingredients": [
       "Any Life Essence",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Sinew"
     ],
-    "searchTerms": "any life essence scrolls sheet of paper parchment sinew spread your wings scroll"
+    "searchTerms": "any life essence scrolls sheet of paper / parchment sinew spread your wings scroll"
   },
   {
     "id": 1254,
@@ -15679,11 +15679,11 @@
     "tool": null,
     "result": "Summon Oily Blob Scroll",
     "ingredients": [
-      "Alien Life Essence High Quality Life Essence",
+      "Alien Life Essence / High Quality Life Essence",
       "Oil",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "alien life essence high quality life essence scrolls sheet of paper parchment summon oily blob scroll"
+    "searchTerms": "alien life essence / high quality life essence scrolls sheet of paper / parchment summon oily blob scroll"
   },
   {
     "id": 1255,
@@ -15694,9 +15694,9 @@
     "ingredients": [
       "Any Life Essence",
       "Rat's Tail",
-      "Sheet Of Paper Parchment"
+      "Sheet Of Paper / Parchment"
     ],
-    "searchTerms": "any life essence rat's tail scrolls sheet of paper parchment tentacle lash scroll"
+    "searchTerms": "any life essence rat's tail scrolls sheet of paper / parchment tentacle lash scroll"
   },
   {
     "id": 1256,
@@ -15706,9 +15706,9 @@
     "result": "Random Polymorph Scroll",
     "ingredients": [
       "Blank Polymorph Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank polymorph scroll demon altar magic inkpot quill random polymorph scroll scrolls"
+    "searchTerms": "blank polymorph scroll demon altar magic inkpot & quill random polymorph scroll scrolls"
   },
   {
     "id": 1257,
@@ -15730,10 +15730,10 @@
     "result": "Apotheosis Scroll",
     "ingredients": [
       "Bead",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "apotheosis scroll bead scrolls sheet of paper parchment source orb"
+    "searchTerms": "apotheosis scroll bead scrolls sheet of paper / parchment source orb"
   },
   {
     "id": 1259,
@@ -15743,10 +15743,10 @@
     "result": "Skin Graft Scroll",
     "ingredients": [
       "Animal Scales",
-      "Sheet Of Paper Parchment",
+      "Sheet Of Paper / Parchment",
       "Source Orb"
     ],
-    "searchTerms": "animal scales scrolls sheet of paper parchment skin graft scroll source orb"
+    "searchTerms": "animal scales scrolls sheet of paper / parchment skin graft scroll source orb"
   },
   {
     "id": 1260,
@@ -15756,9 +15756,9 @@
     "result": "Random Witchcraft Scroll",
     "ingredients": [
       "Blank Witchcraft Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank witchcraft scroll demon altar magic inkpot quill random witchcraft scroll scrolls"
+    "searchTerms": "blank witchcraft scroll demon altar magic inkpot & quill random witchcraft scroll scrolls"
   },
   {
     "id": 1261,
@@ -15783,7 +15783,7 @@
       "Inert Voodoo Doll",
       "Pixie Dust"
     ],
-    "searchTerms": "blank witchcraft scroll demon altar inert voodoo doll pixie dust scrolls"
+    "searchTerms": "blank witchcraft scroll demon altar inert voodoo doll pixie dust scrolls voodoo doll scroll"
   },
   {
     "id": 1263,
@@ -15793,9 +15793,9 @@
     "result": "Random Warfare Scroll",
     "ingredients": [
       "Blank Warfare Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank warfare scroll demon altar magic inkpot quill random warfare scroll scrolls"
+    "searchTerms": "blank warfare scroll demon altar magic inkpot & quill random warfare scroll scrolls"
   },
   {
     "id": 1264,
@@ -15817,9 +15817,9 @@
     "result": "Random Huntsman Scroll",
     "ingredients": [
       "Blank Huntsman Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank huntsman scroll demon altar magic inkpot quill random huntsman scroll scrolls"
+    "searchTerms": "blank huntsman scroll demon altar magic inkpot & quill random huntsman scroll scrolls"
   },
   {
     "id": 1266,
@@ -15841,9 +15841,9 @@
     "result": "Random Scoundrel Scroll",
     "ingredients": [
       "Blank Scoundrel Scroll",
-      "Magic Inkpot Quill"
+      "Magic Inkpot & Quill"
     ],
-    "searchTerms": "blank scoundrel scroll demon altar magic inkpot quill random scoundrel scroll scrolls"
+    "searchTerms": "blank scoundrel scroll demon altar magic inkpot & quill random scoundrel scroll scrolls"
   },
   {
     "id": 1268,
@@ -16767,10 +16767,10 @@
     "tool": "Boiling Pot",
     "result": "Tainted Stew",
     "ingredients": [
-      "Any Void Tainted Fish",
+      "Any Void-tainted Fish",
       "Meaty Stew"
     ],
-    "searchTerms": "any void tainted fish boiling pot consumables meaty stew tainted stew"
+    "searchTerms": "any void-tainted fish boiling pot consumables meaty stew tainted stew"
   },
   {
     "id": 1348,
@@ -16787,45 +16787,45 @@
     "id": 1349,
     "type": "Consumables",
     "subtype": null,
-    "tool": "Mortar Pestle",
+    "tool": "Mortar & Pestle",
     "result": "Cinnamon",
     "ingredients": [
       "Drudanae"
     ],
-    "searchTerms": "cinnamon consumables drudanae mortar  pestle"
+    "searchTerms": "cinnamon consumables drudanae mortar & pestle"
   },
   {
     "id": 1350,
     "type": "Consumables",
     "subtype": null,
-    "tool": "Mortar Pestle",
+    "tool": "Mortar & Pestle",
     "result": "Thyme",
     "ingredients": [
       "Whisperwood"
     ],
-    "searchTerms": "consumables mortar  pestle thyme whisperwood"
+    "searchTerms": "consumables mortar & pestle thyme whisperwood"
   },
   {
     "id": 1351,
     "type": "Consumables",
     "subtype": null,
-    "tool": "Mortar Pestle",
+    "tool": "Mortar & Pestle",
     "result": "Basil",
     "ingredients": [
       "Ocmium Leaves"
     ],
-    "searchTerms": "basil consumables mortar  pestle ocmium leaves"
+    "searchTerms": "basil consumables mortar & pestle ocmium leaves"
   },
   {
     "id": 1352,
     "type": "Consumables",
     "subtype": null,
-    "tool": "Mortar Pestle",
+    "tool": "Mortar & Pestle",
     "result": "Safran",
     "ingredients": [
       "Yarrow Flower"
     ],
-    "searchTerms": "consumables mortar  pestle safran yarrow flower"
+    "searchTerms": "consumables mortar & pestle safran yarrow flower"
   },
   {
     "id": 1353,
@@ -17025,13 +17025,13 @@
     "type": "Consumables",
     "subtype": null,
     "tool": "Boiling Pot",
-    "result": "Pot Au Feu",
+    "result": "Pot-au-feu",
     "ingredients": [
       "Carrot",
       "Raw Ribs",
       "Thyme"
     ],
-    "searchTerms": "boiling pot carrot consumables potaufeu raw ribs thyme"
+    "searchTerms": "boiling pot carrot consumables pot-au-feu raw ribs thyme"
   },
   {
     "id": 1368,
@@ -17105,12 +17105,12 @@
     "id": 1373,
     "type": "Consumables",
     "subtype": null,
-    "tool": "Mortar Pestle",
+    "tool": "Mortar & Pestle",
     "result": "Strange Cinnamon",
     "ingredients": [
       "Griff's Drudanae"
     ],
-    "searchTerms": "consumables griff's drudanae mortar  pestle strange cinnamon"
+    "searchTerms": "consumables griff's drudanae mortar & pestle strange cinnamon"
   },
   {
     "id": 1374,
@@ -17167,10 +17167,10 @@
     "tool": "Halloween Craft Station",
     "result": "Edible Pumpkin",
     "ingredients": [
-      "Knife Dagger",
+      "Knife/dagger",
       "Pumpkin"
     ],
-    "searchTerms": "consumables edible pumpkin halloween craft station knife dagger"
+    "searchTerms": "consumables edible pumpkin halloween craft station knife/dagger"
   },
   {
     "id": 1379,
@@ -17194,7 +17194,7 @@
       "Amethyst Deceiver",
       "Empty Bucket"
     ],
-    "searchTerms": "empty bucket seedlings"
+    "searchTerms": "amethyst deceiver seedling empty bucket seedlings"
   },
   {
     "id": 1381,
@@ -17242,7 +17242,7 @@
       "Chanterelle",
       "Empty Bucket"
     ],
-    "searchTerms": "chanterelle seedling empty bucket seedlings"
+    "searchTerms": "empty bucket seedlings"
   },
   {
     "id": 1385,
@@ -17254,7 +17254,7 @@
       "Drudenae",
       "Empty Bucket"
     ],
-    "searchTerms": "empty bucket seedlings"
+    "searchTerms": "drudenae seedling empty bucket seedlings"
   },
   {
     "id": 1386,
@@ -17266,7 +17266,7 @@
       "Empty Bucket",
       "Farhangite"
     ],
-    "searchTerms": "empty bucket seedlings"
+    "searchTerms": "empty bucket farhangite seedling seedlings"
   },
   {
     "id": 1387,
@@ -17302,7 +17302,7 @@
       "Empty Bucket",
       "Trumpet Of Death Mushroom"
     ],
-    "searchTerms": "empty bucket seedlings"
+    "searchTerms": "empty bucket seedlings trumpet of death mushroom seedling"
   },
   {
     "id": 1390,
@@ -17314,7 +17314,7 @@
       "Empty Bucket",
       "Whisperwood"
     ],
-    "searchTerms": "empty bucket seedlings"
+    "searchTerms": "empty bucket seedlings whisperwood seedling"
   },
   {
     "id": 1391,
@@ -17326,7 +17326,7 @@
       "Empty Bucket",
       "Wizard Hat Agaric"
     ],
-    "searchTerms": "empty bucket seedlings wizard hat agaric seedling"
+    "searchTerms": "empty bucket seedlings"
   },
   {
     "id": 1392,
@@ -17344,155 +17344,155 @@
     "id": 1393,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Amadouvier Seedling",
     "ingredients": [
       "Amadouvier"
     ],
-    "searchTerms": "amadouvier seedling clayfilled bucket seedlings"
+    "searchTerms": "clay-filled bucket seedlings"
   },
   {
     "id": 1394,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Amethyst Deceiver Seedling",
     "ingredients": [
       "Amethyst Deceiver"
     ],
-    "searchTerms": "amethyst deceiver seedling clayfilled bucket seedlings"
+    "searchTerms": "amethyst deceiver seedling clay-filled bucket seedlings"
   },
   {
     "id": 1395,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Augmentor Seedling",
     "ingredients": [
       "Augmentor"
     ],
-    "searchTerms": "augmentor seedling clayfilled bucket seedlings"
+    "searchTerms": "clay-filled bucket seedlings"
   },
   {
     "id": 1396,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Boletus Seedling",
     "ingredients": [
       "Boletus"
     ],
-    "searchTerms": "boletus seedling clayfilled bucket seedlings"
+    "searchTerms": "clay-filled bucket seedlings"
   },
   {
     "id": 1397,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Calocera Seedling",
     "ingredients": [
       "Calocera"
     ],
-    "searchTerms": "calocera seedling clayfilled bucket seedlings"
+    "searchTerms": "clay-filled bucket seedlings"
   },
   {
     "id": 1398,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Chanterelle Seedling",
     "ingredients": [
       "Chanterelle"
     ],
-    "searchTerms": "chanterelle seedling clayfilled bucket seedlings"
+    "searchTerms": "clay-filled bucket seedlings"
   },
   {
     "id": 1399,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Drudenae Seedling",
     "ingredients": [
       "Drudenae"
     ],
-    "searchTerms": "clayfilled bucket drudenae seedling seedlings"
+    "searchTerms": "clay-filled bucket drudenae seedling seedlings"
   },
   {
     "id": 1400,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Farhangite Seedling",
     "ingredients": [
       "Farhangite"
     ],
-    "searchTerms": "clayfilled bucket farhangite seedling seedlings"
+    "searchTerms": "clay-filled bucket farhangite seedling seedlings"
   },
   {
     "id": 1401,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Puffball Seedling",
     "ingredients": [
       "Puffball"
     ],
-    "searchTerms": "clayfilled bucket puffball seedling seedlings"
+    "searchTerms": "clay-filled bucket puffball seedling seedlings"
   },
   {
     "id": 1402,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Tea Leaf Seedling",
     "ingredients": [
       "Tea Leaf"
     ],
-    "searchTerms": "clayfilled bucket seedlings tea leaf seedling"
+    "searchTerms": "clay-filled bucket seedlings tea leaf seedling"
   },
   {
     "id": 1403,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Trumpet Of Death Mushroom Seedling",
     "ingredients": [
       "Trumpet Of Death Mushroom"
     ],
-    "searchTerms": "clayfilled bucket seedlings trumpet of death mushroom seedling"
+    "searchTerms": "clay-filled bucket seedlings trumpet of death mushroom seedling"
   },
   {
     "id": 1404,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Whisperwood Seedling",
     "ingredients": [
       "Whisperwood"
     ],
-    "searchTerms": "clayfilled bucket seedlings whisperwood seedling"
+    "searchTerms": "clay-filled bucket seedlings whisperwood seedling"
   },
   {
     "id": 1405,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Wizard Hat Agaric Seedling",
     "ingredients": [
       "Wizard Hat Agaric"
     ],
-    "searchTerms": "clayfilled bucket seedlings"
+    "searchTerms": "clay-filled bucket seedlings wizard hat agaric seedling"
   },
   {
     "id": 1406,
     "type": "Seedlings",
     "subtype": null,
-    "tool": "Clay Filled Bucket",
+    "tool": "Clay-filled Bucket",
     "result": "Yarrow Seedling",
     "ingredients": [
       "Yarrow"
     ],
-    "searchTerms": "clayfilled bucket seedlings yarrow seedling"
+    "searchTerms": "clay-filled bucket seedlings"
   },
   {
     "id": 1407,
@@ -17891,22 +17891,22 @@
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "One Handed Sword",
-    "result": "Sharp Rock (Simple Recipe)",
+    "result": "Sharp Rock (simple Recipe)",
     "ingredients": [
       "Wooden Crate"
     ],
-    "searchTerms": "one handed sword scrap materials sharp rock simple recipe wooden crate"
+    "searchTerms": "one handed sword scrap materials sharp rock (simple recipe) wooden crate"
   },
   {
     "id": 1439,
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Tongs",
-    "result": "Sharp Piece Of Metal (Simple Recipe)",
+    "result": "Sharp Piece Of Metal (simple Recipe)",
     "ingredients": [
       "Sharp Rock"
     ],
-    "searchTerms": "scrap materials sharp piece of metal simple recipe sharp rock tongs"
+    "searchTerms": "scrap materials sharp piece of metal (simple recipe) sharp rock tongs"
   },
   {
     "id": 1440,
@@ -17926,9 +17926,9 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Scraps Leather",
     "ingredients": [
-      "Leather Upperbody Gloves Boots Helmet Pants"
+      "Leather Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "leather upperbody gloves boots helmet pants scrap materials scrapper's pickaxe scraps leather"
+    "searchTerms": "leather upperbody, gloves, boots, helmet, pants scrap materials scrapper's pickaxe scraps leather"
   },
   {
     "id": 1442,
@@ -17937,9 +17937,9 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Scraps Cloth",
     "ingredients": [
-      "Mage Upperbody Gloves Boots Helmet Pants"
+      "Mage Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "mage upperbody gloves boots helmet pants scrap materials scrapper's pickaxe scraps cloth"
+    "searchTerms": "mage upperbody, gloves, boots, helmet, pants scrap materials scrapper's pickaxe scraps cloth"
   },
   {
     "id": 1443,
@@ -17948,9 +17948,9 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Scraps Cloth",
     "ingredients": [
-      "Cloth Upperbody Gloves Boots Helmet Pants"
+      "Cloth Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "cloth upperbody gloves boots helmet pants scrap materials scrapper's pickaxe scraps cloth"
+    "searchTerms": "cloth upperbody, gloves, boots, helmet, pants scrap materials scrapper's pickaxe scraps cloth"
   },
   {
     "id": 1444,
@@ -17959,9 +17959,9 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Scraps Metal",
     "ingredients": [
-      "Warrior Upperbody Gloves Boots Helmet Pants"
+      "Warrior Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "scrap materials scrapper's pickaxe scraps metal warrior upperbody gloves boots helmet pants"
+    "searchTerms": "scrap materials scrapper's pickaxe scraps metal warrior upperbody, gloves, boots, helmet, pants"
   },
   {
     "id": 1445,
@@ -17970,9 +17970,9 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Scraps Scale",
     "ingredients": [
-      "Warrior Upperbody Gloves Boots Helmet Pants"
+      "Warrior Upperbody, Gloves, Boots, Helmet, Pants"
     ],
-    "searchTerms": "scrap materials scrapper's pickaxe scraps scale warrior upperbody gloves boots helmet pants"
+    "searchTerms": "scrap materials scrapper's pickaxe scraps scale warrior upperbody, gloves, boots, helmet, pants"
   },
   {
     "id": 1446,
@@ -17994,10 +17994,10 @@
     "tool": "Anvil",
     "result": "Gold Bar",
     "ingredients": [
-      "Any Gold Object (Plate Knife Cup Spoon)",
+      "Any Gold Object (plate, Knife, Cup, Spoon..)",
       "Crafter's Hammer"
     ],
-    "searchTerms": "anvil any gold object plate knife cup spoon crafter's hammer gold bar scrap materials"
+    "searchTerms": "anvil any gold object (plate, knife, cup, spoon..) crafter's hammer gold bar scrap materials"
   },
   {
     "id": 1448,
@@ -18006,9 +18006,9 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Short Stick",
     "ingredients": [
-      "Axe Mace Fishing Rod Wand"
+      "Axe, Mace, Fishing Rod, Wand"
     ],
-    "searchTerms": "axe mace fishing rod wand scrap materials scrapper's pickaxe short stick"
+    "searchTerms": "axe, mace, fishing rod, wand scrap materials scrapper's pickaxe short stick"
   },
   {
     "id": 1449,
@@ -18017,53 +18017,53 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Long Branch",
     "ingredients": [
-      "Spear Staff"
+      "Spear, Staff"
     ],
-    "searchTerms": "long branch scrap materials scrapper's pickaxe spear staff"
+    "searchTerms": "long branch scrap materials scrapper's pickaxe spear, staff"
   },
   {
     "id": 1450,
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Scrapper's Pickaxe",
-    "result": "Short Stick Metal Scraps",
+    "result": "Short Stick, Metal Scraps",
     "ingredients": [
       "Sword"
     ],
-    "searchTerms": "scrap materials scrapper's pickaxe short stick metal scraps sword"
+    "searchTerms": "scrap materials scrapper's pickaxe short stick, metal scraps sword"
   },
   {
     "id": 1451,
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Scrapper's Pickaxe",
-    "result": "Long Branch Metal Scraps",
+    "result": "Long Branch, Metal Scraps",
     "ingredients": [
       "Two Handed Sword"
     ],
-    "searchTerms": "long branch metal scraps scrap materials scrapper's pickaxe two handed sword"
+    "searchTerms": "long branch, metal scraps scrap materials scrapper's pickaxe two handed sword"
   },
   {
     "id": 1452,
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Scrapper's Pickaxe",
-    "result": "Short Stick Bowstring",
+    "result": "Short Stick, Bowstring",
     "ingredients": [
       "Bow"
     ],
-    "searchTerms": "scrap materials scrapper's pickaxe short stick bowstring"
+    "searchTerms": "scrap materials scrapper's pickaxe short stick, bowstring"
   },
   {
     "id": 1453,
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Scrapper's Pickaxe",
-    "result": "Crossbow Without String Bowstring",
+    "result": "Crossbow Without String, Bowstring",
     "ingredients": [
       "Crossbow"
     ],
-    "searchTerms": "crossbow without string bowstring scrap materials scrapper's pickaxe"
+    "searchTerms": "crossbow without string, bowstring scrap materials scrapper's pickaxe"
   },
   {
     "id": 1454,
@@ -18083,9 +18083,9 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Sharp Piece Of Metal",
     "ingredients": [
-      "Knife Dagger"
+      "Knife, Dagger"
     ],
-    "searchTerms": "knife dagger scrap materials scrapper's pickaxe sharp piece of metal"
+    "searchTerms": "knife, dagger scrap materials scrapper's pickaxe sharp piece of metal"
   },
   {
     "id": 1456,
@@ -18103,33 +18103,33 @@
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Scrapper's Pickaxe",
-    "result": "Wood Chips (Various Amount)",
+    "result": "Wood Chips (various Amount)",
     "ingredients": [
-      "Crates Basket Bucket Wooden Box"
+      "Crates, Basket, Bucket, Wooden Box"
     ],
-    "searchTerms": "crates basket bucket wooden box scrap materials scrapper's pickaxe wood chips various amount"
+    "searchTerms": "crates, basket, bucket, wooden box scrap materials scrapper's pickaxe wood chips (various amount)"
   },
   {
     "id": 1458,
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Scrapper's Pickaxe",
-    "result": "Wood Chips Sharp Rock",
+    "result": "Wood Chips, Sharp Rock",
     "ingredients": [
-      "Wooden Crate Barrel"
+      "Wooden Crate, Barrel"
     ],
-    "searchTerms": "scrap materials scrapper's pickaxe wood chips sharp rock wooden crate barrel"
+    "searchTerms": "scrap materials scrapper's pickaxe wood chips, sharp rock wooden crate, barrel"
   },
   {
     "id": 1459,
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Scrapper's Pickaxe",
-    "result": "Wood Chips Nails",
+    "result": "Wood Chips, Nails",
     "ingredients": [
       "Blacksmith Crate"
     ],
-    "searchTerms": "blacksmith crate scrap materials scrapper's pickaxe wood chips nails"
+    "searchTerms": "blacksmith crate scrap materials scrapper's pickaxe wood chips, nails"
   },
   {
     "id": 1460,
@@ -18161,20 +18161,20 @@
     "tool": "Scrapper's Pickaxe",
     "result": "Scraps Metal",
     "ingredients": [
-      "Cooking Pot Frying Pan"
+      "Cooking Pot, Frying Pan"
     ],
-    "searchTerms": "cooking pot frying pan scrap materials scrapper's pickaxe scraps metal"
+    "searchTerms": "cooking pot, frying pan scrap materials scrapper's pickaxe scraps metal"
   },
   {
     "id": 1463,
     "type": "Scrap Materials",
     "subtype": null,
     "tool": "Scrapper's Pickaxe",
-    "result": "Scraps Metal Wood Chips Nails",
+    "result": "Scraps Metal, Wood Chips, Nails",
     "ingredients": [
       "Metal Crate"
     ],
-    "searchTerms": "metal crate scrap materials scrapper's pickaxe scraps metal wood chips nails"
+    "searchTerms": "metal crate scrap materials scrapper's pickaxe scraps metal, wood chips, nails"
   },
   {
     "id": 1464,
@@ -18246,14 +18246,14 @@
     "id": 1470,
     "type": "Scrap Materials",
     "subtype": null,
-    "tool": "Mortar Pestle",
+    "tool": "Mortar & Pestle",
     "result": "Bone Dust",
     "ingredients": [
       "Fish Bone",
       "Fish Bone",
       "Fish Bone"
     ],
-    "searchTerms": "bone dust fish bone mortar  pestle scrap materials"
+    "searchTerms": "bone dust fish bone mortar & pestle scrap materials"
   },
   {
     "id": 1471,
@@ -18273,11 +18273,11 @@
     "tool": "Spinning Wheel",
     "result": "Thread X2",
     "ingredients": [
-      "Needle Thread",
+      "Needle&thread",
       "Wool",
       "Wool"
     ],
-    "searchTerms": "needle thread scrap materials spinning wheel thread x2 wool"
+    "searchTerms": "needle&thread scrap materials spinning wheel thread x2 wool"
   },
   {
     "id": 1473,
@@ -18286,11 +18286,11 @@
     "tool": "Spinning Wheel",
     "result": "Thread X8",
     "ingredients": [
-      "Needle Thread",
+      "Needle&thread",
       "Yarn",
       "Yarn"
     ],
-    "searchTerms": "needle thread scrap materials spinning wheel thread x8 yarn"
+    "searchTerms": "needle&thread scrap materials spinning wheel thread x8 yarn"
   },
   {
     "id": 1474,
@@ -18405,9 +18405,9 @@
     "tool": "Distillery Station",
     "result": "Empty Vial",
     "ingredients": [
-      "Lab Jar Glass Junks Plates"
+      "Lab Jar, Glass Junks, Plates"
     ],
-    "searchTerms": "distillery station dyes empty vial lab jar glass junks plates"
+    "searchTerms": "distillery station dyes empty vial lab jar, glass junks, plates"
   },
   {
     "id": 1484,
@@ -18573,7 +18573,7 @@
       "Empty Vial",
       "Orange"
     ],
-    "searchTerms": "distillery station dyes empty vial orange dye"
+    "searchTerms": "distillery station dyes empty vial"
   },
   {
     "id": 1498,
@@ -18681,7 +18681,7 @@
       "Empty Vial",
       "Lemon"
     ],
-    "searchTerms": "distillery station dyes empty vial lemon dye"
+    "searchTerms": "distillery station dyes empty vial"
   },
   {
     "id": 1507,
@@ -18855,324 +18855,324 @@
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Thievery 1)",
+    "result": "Boosted Amulet (thievery +1)",
     "ingredients": [
       "Accessory Kit",
       "Empty Amulet",
       "Malachite"
     ],
-    "searchTerms": "accessory kit boosted amulet thievery 1 empty amulet jewelry malachite workbench"
+    "searchTerms": "accessory kit boosted amulet (thievery +1) empty amulet jewelry malachite workbench"
   },
   {
     "id": 1522,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Loremaster 1)",
+    "result": "Boosted Amulet (loremaster +1)",
     "ingredients": [
       "Accessory Kit",
       "Empty Amulet",
       "Pearl"
     ],
-    "searchTerms": "accessory kit boosted amulet loremaster 1 empty amulet jewelry pearl workbench"
+    "searchTerms": "accessory kit boosted amulet (loremaster +1) empty amulet jewelry pearl workbench"
   },
   {
     "id": 1523,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Persuasion 1)",
+    "result": "Boosted Amulet (persuasion +1)",
     "ingredients": [
       "Accessory Kit",
       "Empty Amulet",
       "Ruby"
     ],
-    "searchTerms": "accessory kit boosted amulet persuasion 1 empty amulet jewelry ruby workbench"
+    "searchTerms": "accessory kit boosted amulet (persuasion +1) empty amulet jewelry ruby workbench"
   },
   {
     "id": 1524,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Reflection 1)",
+    "result": "Boosted Amulet (reflection +1)",
     "ingredients": [
       "Accessory Kit",
       "Crystal",
       "Empty Amulet"
     ],
-    "searchTerms": "accessory kit boosted amulet reflection 1 crystal empty amulet jewelry workbench"
+    "searchTerms": "accessory kit boosted amulet (reflection +1) crystal empty amulet jewelry workbench"
   },
   {
     "id": 1525,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Perseverance 1)",
+    "result": "Boosted Amulet (perseverance +1)",
     "ingredients": [
       "Accessory Kit",
       "Emerald",
       "Empty Amulet"
     ],
-    "searchTerms": "accessory kit boosted amulet perseverance 1 emerald empty amulet jewelry workbench"
+    "searchTerms": "accessory kit boosted amulet (perseverance +1) emerald empty amulet jewelry workbench"
   },
   {
     "id": 1526,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Leadership 1)",
+    "result": "Boosted Amulet (leadership +1)",
     "ingredients": [
       "Accessory Kit",
       "Empty Amulet",
       "Topaz"
     ],
-    "searchTerms": "accessory kit boosted amulet leadership 1 empty amulet jewelry topaz workbench"
+    "searchTerms": "accessory kit boosted amulet (leadership +1) empty amulet jewelry topaz workbench"
   },
   {
     "id": 1527,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Thievery 2)",
+    "result": "Boosted Amulet (thievery +2)",
     "ingredients": [
       "Accessory Kit",
       "Empty Amulet",
       "Malachite",
       "Malachite"
     ],
-    "searchTerms": "accessory kit boosted amulet thievery 2 empty amulet jewelry malachite workbench"
+    "searchTerms": "accessory kit boosted amulet (thievery +2) empty amulet jewelry malachite workbench"
   },
   {
     "id": 1528,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Loremaster 2)",
+    "result": "Boosted Amulet (loremaster +2)",
     "ingredients": [
       "Accessory Kit",
       "Empty Amulet",
       "Pearl",
       "Pearl"
     ],
-    "searchTerms": "accessory kit boosted amulet loremaster 2 empty amulet jewelry pearl workbench"
+    "searchTerms": "accessory kit boosted amulet (loremaster +2) empty amulet jewelry pearl workbench"
   },
   {
     "id": 1529,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Persuasion 2)",
+    "result": "Boosted Amulet (persuasion +2)",
     "ingredients": [
       "Accessory Kit",
       "Empty Amulet",
       "Ruby",
       "Ruby"
     ],
-    "searchTerms": "accessory kit boosted amulet persuasion 2 empty amulet jewelry ruby workbench"
+    "searchTerms": "accessory kit boosted amulet (persuasion +2) empty amulet jewelry ruby workbench"
   },
   {
     "id": 1530,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Reflection 2)",
+    "result": "Boosted Amulet (reflection +2)",
     "ingredients": [
       "Accessory Kit",
       "Crystal",
       "Crystal",
       "Empty Amulet"
     ],
-    "searchTerms": "accessory kit boosted amulet reflection 2 crystal empty amulet jewelry workbench"
+    "searchTerms": "accessory kit boosted amulet (reflection +2) crystal empty amulet jewelry workbench"
   },
   {
     "id": 1531,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Perseverance 2)",
+    "result": "Boosted Amulet (perseverance +2)",
     "ingredients": [
       "Accessory Kit",
       "Emerald",
       "Emerald",
       "Empty Amulet"
     ],
-    "searchTerms": "accessory kit boosted amulet perseverance 2 emerald empty amulet jewelry workbench"
+    "searchTerms": "accessory kit boosted amulet (perseverance +2) emerald empty amulet jewelry workbench"
   },
   {
     "id": 1532,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Amulet (Leadership 2)",
+    "result": "Boosted Amulet (leadership +2)",
     "ingredients": [
       "Accessory Kit",
       "Empty Amulet",
       "Topaz",
       "Topaz"
     ],
-    "searchTerms": "accessory kit boosted amulet leadership 2 empty amulet jewelry topaz workbench"
+    "searchTerms": "accessory kit boosted amulet (leadership +2) empty amulet jewelry topaz workbench"
   },
   {
     "id": 1533,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Sneaking 1)",
+    "result": "Boosted Ring (sneaking +1)",
     "ingredients": [
       "Accessory Kit",
       "Empty Ring",
       "Malachite"
     ],
-    "searchTerms": "accessory kit boosted ring sneaking 1 empty ring jewelry malachite workbench"
+    "searchTerms": "accessory kit boosted ring (sneaking +1) empty ring jewelry malachite workbench"
   },
   {
     "id": 1534,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Bartering 1)",
+    "result": "Boosted Ring (bartering +1)",
     "ingredients": [
       "Accessory Kit",
       "Empty Ring",
       "Pearl"
     ],
-    "searchTerms": "accessory kit boosted ring bartering 1 empty ring jewelry pearl workbench"
+    "searchTerms": "accessory kit boosted ring (bartering +1) empty ring jewelry pearl workbench"
   },
   {
     "id": 1535,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Telekinesis 1)",
+    "result": "Boosted Ring (telekinesis +1)",
     "ingredients": [
       "Accessory Kit",
       "Empty Ring",
       "Ruby"
     ],
-    "searchTerms": "accessory kit boosted ring telekinesis 1 empty ring jewelry ruby workbench"
+    "searchTerms": "accessory kit boosted ring (telekinesis +1) empty ring jewelry ruby workbench"
   },
   {
     "id": 1536,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Reflection 1)",
+    "result": "Boosted Ring (reflection +1)",
     "ingredients": [
       "Accessory Kit",
       "Crystal",
       "Empty Ring"
     ],
-    "searchTerms": "accessory kit boosted ring reflection 1 crystal empty ring jewelry workbench"
+    "searchTerms": "accessory kit boosted ring (reflection +1) crystal empty ring jewelry workbench"
   },
   {
     "id": 1537,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Luck 1)",
+    "result": "Boosted Ring (luck +1)",
     "ingredients": [
       "Accessory Kit",
       "Emerald",
       "Empty Ring"
     ],
-    "searchTerms": "accessory kit boosted ring luck 1 emerald empty ring jewelry workbench"
+    "searchTerms": "accessory kit boosted ring (luck +1) emerald empty ring jewelry workbench"
   },
   {
     "id": 1538,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Leadership 1)",
+    "result": "Boosted Ring (leadership +1)",
     "ingredients": [
       "Accessory Kit",
       "Empty Ring",
       "Topaz"
     ],
-    "searchTerms": "accessory kit boosted ring leadership 1 empty ring jewelry topaz workbench"
+    "searchTerms": "accessory kit boosted ring (leadership +1) empty ring jewelry topaz workbench"
   },
   {
     "id": 1539,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Sneaking 2)",
+    "result": "Boosted Ring (sneaking +2)",
     "ingredients": [
       "Accessory Kit",
       "Empty Ring",
       "Malachite",
       "Malachite"
     ],
-    "searchTerms": "accessory kit boosted ring sneaking 2 empty ring jewelry malachite workbench"
+    "searchTerms": "accessory kit boosted ring (sneaking +2) empty ring jewelry malachite workbench"
   },
   {
     "id": 1540,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Bartering 2)",
+    "result": "Boosted Ring (bartering +2)",
     "ingredients": [
       "Accessory Kit",
       "Empty Ring",
       "Pearl",
       "Pearl"
     ],
-    "searchTerms": "accessory kit boosted ring bartering 2 empty ring jewelry pearl workbench"
+    "searchTerms": "accessory kit boosted ring (bartering +2) empty ring jewelry pearl workbench"
   },
   {
     "id": 1541,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Telekinesis 2)",
+    "result": "Boosted Ring (telekinesis +2)",
     "ingredients": [
       "Accessory Kit",
       "Empty Ring",
       "Ruby",
       "Ruby"
     ],
-    "searchTerms": "accessory kit boosted ring telekinesis 2 empty ring jewelry ruby workbench"
+    "searchTerms": "accessory kit boosted ring (telekinesis +2) empty ring jewelry ruby workbench"
   },
   {
     "id": 1542,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Reflection 2)",
+    "result": "Boosted Ring (reflection +2)",
     "ingredients": [
       "Accessory Kit",
       "Crystal",
       "Crystal",
       "Empty Ring"
     ],
-    "searchTerms": "accessory kit boosted ring reflection 2 crystal empty ring jewelry workbench"
+    "searchTerms": "accessory kit boosted ring (reflection +2) crystal empty ring jewelry workbench"
   },
   {
     "id": 1543,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Luck 2)",
+    "result": "Boosted Ring (luck +2)",
     "ingredients": [
       "Accessory Kit",
       "Emerald",
       "Emerald",
       "Empty Ring"
     ],
-    "searchTerms": "accessory kit boosted ring luck 2 emerald empty ring jewelry workbench"
+    "searchTerms": "accessory kit boosted ring (luck +2) emerald empty ring jewelry workbench"
   },
   {
     "id": 1544,
     "type": "Jewelry",
     "subtype": null,
     "tool": "Workbench",
-    "result": "Boosted Ring (Leadership 2)",
+    "result": "Boosted Ring (leadership +2)",
     "ingredients": [
       "Accessory Kit",
       "Empty Ring",
       "Topaz",
       "Topaz"
     ],
-    "searchTerms": "accessory kit boosted ring leadership 2 empty ring jewelry topaz workbench"
+    "searchTerms": "accessory kit boosted ring (leadership +2) empty ring jewelry topaz workbench"
   },
   {
     "id": 1545,
@@ -19666,72 +19666,72 @@
     "type": "Magical Items",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Fire Essence (X2 Or X3)",
+    "result": "Fire Essence (x2 Or X3)",
     "ingredients": [
       "Bigger Fire Essence",
       "Blessed Cleanser"
     ],
-    "searchTerms": "bigger fire essence blessed cleanser fire essence x2 or x3 magic altar magical items"
+    "searchTerms": "bigger fire essence blessed cleanser fire essence (x2 or x3) magic altar magical items"
   },
   {
     "id": 1585,
     "type": "Magical Items",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Water Essence (X2 Or X3)",
+    "result": "Water Essence (x2 Or X3)",
     "ingredients": [
       "Bigger Water Essence",
       "Blessed Cleanser"
     ],
-    "searchTerms": "bigger water essence blessed cleanser magic altar magical items water essence x2 or x3"
+    "searchTerms": "bigger water essence blessed cleanser magic altar magical items water essence (x2 or x3)"
   },
   {
     "id": 1586,
     "type": "Magical Items",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Air Essence (X2 Or X3)",
+    "result": "Air Essence (x2 Or X3)",
     "ingredients": [
       "Bigger Air Essence",
       "Blessed Cleanser"
     ],
-    "searchTerms": "air essence x2 or x3 bigger air essence blessed cleanser magic altar magical items"
+    "searchTerms": "air essence (x2 or x3) bigger air essence blessed cleanser magic altar magical items"
   },
   {
     "id": 1587,
     "type": "Magical Items",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Earth Essence (X2 Or X3)",
+    "result": "Earth Essence (x2 Or X3)",
     "ingredients": [
       "Bigger Earth Essence",
       "Blessed Cleanser"
     ],
-    "searchTerms": "bigger earth essence blessed cleanser earth essence x2 or x3 magic altar magical items"
+    "searchTerms": "bigger earth essence blessed cleanser earth essence (x2 or x3) magic altar magical items"
   },
   {
     "id": 1588,
     "type": "Magical Items",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Life Essence (X2 Or X3)",
+    "result": "Life Essence (x2 Or X3)",
     "ingredients": [
       "Bigger Life Essence",
       "Blessed Cleanser"
     ],
-    "searchTerms": "bigger life essence blessed cleanser life essence x2 or x3 magic altar magical items"
+    "searchTerms": "bigger life essence blessed cleanser life essence (x2 or x3) magic altar magical items"
   },
   {
     "id": 1589,
     "type": "Magical Items",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Shadow Essence (X2 Or X3)",
+    "result": "Shadow Essence (x2 Or X3)",
     "ingredients": [
       "Bigger Shadow Essence",
       "Blessed Cleanser"
     ],
-    "searchTerms": "bigger shadow essence blessed cleanser magic altar magical items shadow essence x2 or x3"
+    "searchTerms": "bigger shadow essence blessed cleanser magic altar magical items shadow essence (x2 or x3)"
   },
   {
     "id": 1590,
@@ -19762,12 +19762,12 @@
     "type": "Magical Items",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Tormented Soul (X2 Or X3)",
+    "result": "Tormented Soul (x2 Or X3)",
     "ingredients": [
       "Bigger Tormented Soul",
       "Blessed Cleanser"
     ],
-    "searchTerms": "bigger tormented soul blessed cleanser magic altar magical items tormented soul x2 or x3"
+    "searchTerms": "bigger tormented soul blessed cleanser magic altar magical items tormented soul (x2 or x3)"
   },
   {
     "id": 1593,
