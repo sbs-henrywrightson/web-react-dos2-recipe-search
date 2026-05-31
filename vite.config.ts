@@ -5,6 +5,8 @@ import { defineConfig } from 'vite';
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/web-react-dos2-recipe-search/',
+
   plugins: [react(), tailwindcss()],
 
   resolve: {
