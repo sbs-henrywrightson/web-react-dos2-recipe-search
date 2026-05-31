@@ -101,7 +101,9 @@ export default function SearchPage() {
   return (
     <main className='mx-auto max-w-7xl px-4 py-8'>
       <header className='mb-8'>
-        <h1 className='mb-4 text-3xl font-bold'>Divinity: Original Sin 2 Crafting Recipes</h1>
+        <h1 className='mb-4 text-center rounded-lg p-2 bg-[hsl(31,65%,26%)] dark:bg-[hsl(28,100%,10%)] text-[hsl(25,100%,50%)] dark:text-amber-700'>
+          Divinity: Original Sin 2 Crafting Recipes
+        </h1>
 
         <input
           id='search'
@@ -109,7 +111,7 @@ export default function SearchPage() {
           value={query}
           onChange={(e) => setQuery(e.target.value.toLowerCase())}
           placeholder={`Search ${recipes.length} recipes...`}
-          className='w-full rounded-lg border bg-form-field-background px-4 py-3'
+          className='w-full rounded-lg border bg-form-field-background border-form-field-border px-4 py-3'
         />
       </header>
 
@@ -119,7 +121,14 @@ export default function SearchPage() {
           const collapsed = collapsedGroups[group.type] ?? !hasRecipes;
 
           return (
-            <section key={group.type} className={hasRecipes ? 'my-6 rounded-lg border bg-recipe-type-background' : ''}>
+            <section
+              key={group.type}
+              className={
+                hasRecipes
+                  ? 'my-6 rounded-lg border border-[hsl(0,0%,60%)] dark:border-[hsl(116,50%,20%)] bg-recipe-type-background'
+                  : ''
+              }
+            >
               <div
                 className={[
                   hasRecipes
@@ -131,7 +140,7 @@ export default function SearchPage() {
               >
                 <AppButton
                   buttonType='plain'
-                  className='text-xl font-semibold px-1 rounded hover:bg-recipe-type-hover'
+                  className={`text-xl font-semibold ${!hasRecipes ? 'text-recipe-type-muted' : ''} px-1 rounded hover:bg-recipe-type-hover`}
                   onClick={(e: React.MouseEvent) => handleGroupClick(e, group.type)}
                 >
                   {group.type}

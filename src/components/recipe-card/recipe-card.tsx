@@ -9,7 +9,7 @@ type RecipeCardProps = {
 
 export default function RecipeCard({ recipe, query, onIngredientClick }: RecipeCardProps) {
   return (
-    <div className='rounded-md border border-gray-500 bg-surface p-1.5 hover:shadow-md transition'>
+    <div className='rounded-md border border-[hsl(0,0%,70%)] dark:border-[hsl(116,50%,15%)] bg-surface p-1.5 hover:shadow-md transition'>
       <div className='flex items-center justify-between'>
         <AppButton
           buttonType='plain'

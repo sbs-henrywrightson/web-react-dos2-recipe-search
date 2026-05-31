@@ -15,7 +15,7 @@ export default function IngredientsList({ recipe, query, onPillClick }: Props) {
           key={`${recipe.id}tool`}
           onPillClick={onPillClick}
           value={recipe.tool}
-          className='bg-button-tool-background border-button-tool-border hover:bg-button-tool-hover'
+          className='bg-button-tool-background text-button-tool-foreground border-button-tool-border hover:bg-button-tool-hover'
           highlight={recipe.tool.toLowerCase().includes(query)}
         ></Pill>
       )}

@@ -26,6 +26,7 @@
   --color-button-plain-active: var(--color-button-plain-active);
 
   --color-button-tool-background: var(--color-button-tool-background);
+  --color-button-tool-foreground: var(--color-button-tool-foreground);
   --color-button-tool-border: var(--color-button-tool-border);
   --color-button-tool-hover: var(--color-button-tool-hover);
 
@@ -38,7 +39,7 @@
   --color-recipe-type-hover: var(--color-recipe-type-hover);
   --color-recipe-type-muted: var(--color-recipe-type-muted);
 
-  --font-size-lg: var(--font-size-lg);
+  --button-font-size: var(--button-font-size);
 }
 
 :root {
@@ -47,41 +48,38 @@
 
   --color-button-disabled: hsl(0, 0%, 45%);
 
-  /* FILLED BUTTON */
-  --color-button-filled-background: hsl(34, 78%, 20%);
+  --color-button-filled-background: hsl(34, 62%, 50%);
+  --color-button-filled-foreground: hsl(0, 0%, 0%);
   --color-button-filled-border: hsl(34, 78%, 20%);
-  --color-button-filled-foreground: hsl(0, 0%, 100%);
-  --color-button-filled-hover: hsl(0, 0%, 39%);
+  --color-button-filled-hover: hsl(34, 62%, 30%);
   --color-button-filled-active: hsl(0, 0%, 29%);
 
-  /* OUTLINE BUTTON */
-  --color-button-outline-background: hsl(34, 78%, 20%);
+  --color-button-outline-background: hsl(34, 78%, 0%);
   --color-button-outline-foreground: hsl(0, 0%, 100%);
   --color-button-outline-border: hsl(0, 0%, 0%);
   --color-button-outline-hover: hsl(0, 0%, 39%);
   --color-button-outline-active: hsl(0, 0%, 29%);
 
-  /* PLAIN BUTTON */
   --color-button-plain-foreground: hsl(0, 0%, 0%);
-  --color-button-plain-hover: hsl(0, 0%, 39%);
+  --color-button-plain-hover: hsl(0, 0%, 80%);
   --color-button-plain-active: hsl(0, 0%, 29%);
 
-  /* TOOL BUTTON */
-  --color-button-tool-background: hsl(34, 62%, 30%);
-  --color-button-tool-border: hsl(34, 78%, 20%);
-  --color-button-tool-hover: hsl(34, 91%, 39%);
+  --color-button-tool-background: hsl(242, 100%, 20%);
+  --color-button-tool-foreground: hsl(0, 0%, 100%);
+  --color-button-tool-border: hsl(242, 100%, 50%);
+  --color-button-tool-hover: hsl(242, 100%, 40%);
   --color-button-tool-active: hsl(0, 0%, 29%);
 
-  --color-form-field-background: hsl(0, 0%, 21%);
+  --color-form-field-background: hsl(0, 0%, 90%);
   --color-form-field-text-disabled: hsl(0, 0%, 65%);
-  --color-form-field-border: hsl(0, 0%, 84%);
+  --color-form-field-border: hsl(0, 0%, 50%);
 
-  --color-recipe-type-background: hsl(0, 0%, 91%);
-  --color-recipe-type: hsl(104, 100%, 38%);
-  --color-recipe-type-hover: hsl(116, 100%, 10%);
-  --color-recipe-type-muted: hsl(0, 0%, 78%);
+  --color-recipe-type-background: hsl(120, 33%, 92%);
+  --color-recipe-type: hsl(0, 0%, 0%);
+  --color-recipe-type-hover: hsl(0, 0%, 65%);
+  --color-recipe-type-muted: hsl(0, 0%, 80%);
 
-  --font-size-lg: 12pt;
+  --button-font-size: 12pt;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -89,27 +87,40 @@
     --color-background: hsl(0, 0%, 2%);
     --color-foreground: hsl(0, 0%, 100%);
 
+    --color-button-disabled: hsl(0, 0%, 45%);
+
     --color-button-filled-background: hsl(34, 62%, 20%);
+    --color-button-filled-foreground: hsl(0, 0%, 100%);
     --color-button-filled-border: hsl(34, 62%, 50%);
     --color-button-filled-hover: hsl(34, 62%, 40%);
     --color-button-filled-active: hsl(0, 0%, 29%);
+
+    --color-button-outline-background: hsl(34, 78%, 20%);
+    --color-button-outline-foreground: hsl(0, 0%, 100%);
+    --color-button-outline-border: hsl(0, 0%, 100%);
+    --color-button-outline-hover: hsl(0, 0%, 39%);
+    --color-button-outline-active: hsl(0, 0%, 29%);
 
     --color-button-plain-foreground: hsl(0, 0%, 100%);
     --color-button-plain-hover: hsl(0, 0%, 25%);
     --color-button-plain-active: hsl(0, 0%, 90%);
 
     --color-button-tool-background: hsl(242, 100%, 20%);
+    --color-button-tool-foreground: hsl(0, 0%, 100%);
     --color-button-tool-border: hsl(242, 100%, 50%);
     --color-button-tool-hover: hsl(242, 100%, 40%);
+    --color-button-tool-active: hsl(0, 0%, 29%);
+
+    --color-form-field-background: hsl(0, 0%, 0%);
+    --color-form-field-text-disabled: hsl(0, 0%, 65%);
+    --color-form-field-border: hsl(0, 0%, 20%);
 
     --color-recipe-type-background: hsl(116, 100%, 3%);
     --color-recipe-type: hsl(105, 100%, 34%);
     --color-recipe-type-hover: hsl(116, 100%, 10%);
     --color-recipe-type-muted: hsl(0, 0%, 30%);
 
-    --color-form-field-background: hsl(0, 0%, 0%);
-
-    --color-button-outline-border: hsl(0, 0%, 100%);
+    --test: hsl(33, 71%, 22%);
   }
 }
 

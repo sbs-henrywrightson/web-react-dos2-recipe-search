@@ -4,7 +4,7 @@
   display: inline-grid;
   font-weight: 600;
   text-align: center;
-  font-size: theme(--font-size-lg);
+  font-size: theme(--button-font-size);
   line-height: 1;
   align-items: center;
   justify-content: center;
