@@ -7,7 +7,7 @@ import './styles/index.css';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename='/web-react-dos2-recipe-search'>
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </StrictMode>,
