@@ -848,10 +848,10 @@
     "tool": null,
     "result": "Poison Gas Trap",
     "ingredients": [
-      "Poison Cloud Grenade",
+      "Poisoncloud Grenade",
       "Trap Mechanism"
     ],
-    "searchTerms": "item poison cloud grenade poison gas trap trap mechanism"
+    "searchTerms": "item poison gas trap poisoncloud grenade trap mechanism"
   },
   {
     "id": 73,
@@ -2817,13 +2817,13 @@
     "tool": "Anvil",
     "result": "Unique Summoning Armour Upperbody",
     "ingredients": [
-      "Anthropod Leg",
+      "Arthropod Leg",
       "Crafter's Hammer",
       "Rune Of Uniqueness",
       "Scraps Cloth",
       "Scraps Plate"
     ],
-    "searchTerms": "anthropod leg anvil crafter's hammer rune of uniqueness scraps cloth scraps plate unique summoning armour upperbody"
+    "searchTerms": "anvil arthropod leg crafter's hammer rune of uniqueness scraps cloth scraps plate unique summoning armour upperbody"
   },
   {
     "id": 222,
@@ -2832,13 +2832,13 @@
     "tool": "Anvil",
     "result": "Unique Summoning Armour Lowerbody",
     "ingredients": [
-      "Anthropod Leg",
+      "Arthropod Leg",
       "Crafter's Hammer",
       "Rune Of Uniqueness",
       "Scraps Cloth",
       "Thread"
     ],
-    "searchTerms": "anthropod leg anvil crafter's hammer rune of uniqueness scraps cloth thread unique summoning armour lowerbody"
+    "searchTerms": "anvil arthropod leg crafter's hammer rune of uniqueness scraps cloth thread unique summoning armour lowerbody"
   },
   {
     "id": 223,
@@ -2847,13 +2847,13 @@
     "tool": "Anvil",
     "result": "Unique Summoning Armour Helmet",
     "ingredients": [
-      "Anthropod Leg",
+      "Arthropod Leg",
       "Ascraps Cloth",
       "Crafter's Hammer",
       "Rune Of Uniqueness",
       "Wood Chips"
     ],
-    "searchTerms": "anthropod leg anvil ascraps cloth crafter's hammer rune of uniqueness unique summoning armour helmet wood chips"
+    "searchTerms": "anvil arthropod leg ascraps cloth crafter's hammer rune of uniqueness unique summoning armour helmet wood chips"
   },
   {
     "id": 224,
@@ -2862,13 +2862,13 @@
     "tool": "Anvil",
     "result": "Unique Summoning Armour Gloves",
     "ingredients": [
-      "Anthropod Leg",
+      "Arthropod Leg",
       "Crafter's Hammer",
       "Rune Of Uniqueness",
       "Scraps Cloth",
       "Scraps Scale"
     ],
-    "searchTerms": "anthropod leg anvil crafter's hammer rune of uniqueness scraps cloth scraps scale unique summoning armour gloves"
+    "searchTerms": "anvil arthropod leg crafter's hammer rune of uniqueness scraps cloth scraps scale unique summoning armour gloves"
   },
   {
     "id": 225,
@@ -2877,13 +2877,13 @@
     "tool": "Anvil",
     "result": "Unique Summoning Armour Boots",
     "ingredients": [
-      "Anthropod Leg",
+      "Arthropod Leg",
       "Crafter's Hammer",
       "Rope",
       "Rune Of Uniqueness",
       "Scraps Cloth"
     ],
-    "searchTerms": "anthropod leg anvil crafter's hammer rope rune of uniqueness scraps cloth unique summoning armour boots"
+    "searchTerms": "anvil arthropod leg crafter's hammer rope rune of uniqueness scraps cloth unique summoning armour boots"
   },
   {
     "id": 226,
@@ -3170,12 +3170,12 @@
     "tool": "Workbench",
     "result": "Unique Summoner Cape",
     "ingredients": [
-      "Anthropod Leg",
+      "Arthropod Leg",
       "Cloth Scraps",
       "Rope",
       "Rune Of Uniqueness"
     ],
-    "searchTerms": "anthropod leg armour cloth scraps rope rune of uniqueness unique summoner cape workbench"
+    "searchTerms": "armour arthropod leg cloth scraps rope rune of uniqueness unique summoner cape workbench"
   },
   {
     "id": 248,
@@ -3300,13 +3300,13 @@
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Shield (+1) Preseverance",
+    "result": "Boosted Shield (+1) Perseverance",
     "ingredients": [
       "Gold Bar",
       "Rat Tail",
       "Shield"
     ],
-    "searchTerms": "armour boosted shield (+1) preseverance gold bar magic altar rat tail"
+    "searchTerms": "armour boosted shield (+1) perseverance gold bar magic altar rat tail"
   },
   {
     "id": 258,
@@ -3429,13 +3429,13 @@
     "type": "Armour",
     "subtype": null,
     "tool": "Magic Altar",
-    "result": "Boosted Pants (+1) Initative",
+    "result": "Boosted Pants (+1) Initiative",
     "ingredients": [
       "Any Lowerbody Armour",
       "Clay",
       "Gold Bar"
     ],
-    "searchTerms": "any lowerbody armour boosted pants (+1) initative clay gold bar magic altar"
+    "searchTerms": "any lowerbody armour boosted pants (+1) initiative clay gold bar magic altar"
   },
   {
     "id": 268,
@@ -4291,11 +4291,11 @@
     "tool": null,
     "result": "Sinew",
     "ingredients": [
-      "Cuttingtool",
+      "Cutting Tool",
       "Rat's Tail",
       "Rat's Tail"
     ],
-    "searchTerms": "cuttingtool rat's tail sinew weapon"
+    "searchTerms": "cutting tool rat's tail sinew weapon"
   },
   {
     "id": 337,
@@ -7532,9 +7532,9 @@
     "result": "Arrowhead And Arrowhead",
     "ingredients": [
       "Bone",
-      "Cuttingtool"
+      "Cutting Tool"
     ],
-    "searchTerms": "arrowhead and arrowhead bone cuttingtool"
+    "searchTerms": "arrowhead and arrowhead bone cutting tool"
   },
   {
     "id": 587,
@@ -7543,10 +7543,10 @@
     "tool": null,
     "result": "Arrowhead And Arrowhead",
     "ingredients": [
-      "Cuttingtool",
+      "Cutting Tool",
       "Sharp Piece Of Metal"
     ],
-    "searchTerms": "arrowhead and arrowhead cuttingtool sharp piece of metal"
+    "searchTerms": "arrowhead and arrowhead cutting tool sharp piece of metal"
   },
   {
     "id": 588,
@@ -7555,10 +7555,10 @@
     "tool": null,
     "result": "Arrowhead And Arrowhead",
     "ingredients": [
-      "Cuttingtool",
+      "Cutting Tool",
       "Sharp Rock"
     ],
-    "searchTerms": "arrowhead and arrowhead cuttingtool sharp rock"
+    "searchTerms": "arrowhead and arrowhead cutting tool sharp rock"
   },
   {
     "id": 589,
@@ -7717,10 +7717,10 @@
     "tool": null,
     "result": "Shocking Arrowhead",
     "ingredients": [
-      "Cuttingtool",
+      "Cutting Tool",
       "Tooth"
     ],
-    "searchTerms": "cuttingtool shocking arrowhead tooth"
+    "searchTerms": "cutting tool shocking arrowhead tooth"
   },
   {
     "id": 603,
@@ -7729,10 +7729,10 @@
     "tool": null,
     "result": "Short Stick And Wood Chips",
     "ingredients": [
-      "Cuttingtool",
+      "Cutting Tool",
       "Long Branch"
     ],
-    "searchTerms": "arrowhead cuttingtool long branch short stick and wood chips"
+    "searchTerms": "arrowhead cutting tool long branch short stick and wood chips"
   },
   {
     "id": 604,
@@ -8048,7 +8048,7 @@
       "Arrow",
       "Poison"
     ],
-    "searchTerms": ""
+    "searchTerms": "poison arrow"
   },
   {
     "id": 631,
@@ -8215,7 +8215,7 @@
       "Arrow",
       "Water"
     ],
-    "searchTerms": ""
+    "searchTerms": "water arrow"
   },
   {
     "id": 645,
@@ -8306,24 +8306,24 @@
     "type": "Arrow",
     "subtype": null,
     "tool": null,
-    "result": "Poison Cloud Arrowhead",
+    "result": "Poisoncloud Arrowhead",
     "ingredients": [
       "Poison Arrowhead",
       "Water Source"
     ],
-    "searchTerms": "poison arrowhead poison cloud arrowhead water source"
+    "searchTerms": "poison arrowhead poisoncloud arrowhead water source"
   },
   {
     "id": 653,
     "type": "Arrow",
     "subtype": null,
     "tool": null,
-    "result": "Poison Cloud Arrowhead X2",
+    "result": "Poisoncloud Arrowhead X2",
     "ingredients": [
       "Poison Arrowhead",
       "Steam Arrowhead"
     ],
-    "searchTerms": "poison arrowhead poison cloud arrowhead x2 steam arrowhead"
+    "searchTerms": "poison arrowhead poisoncloud arrowhead x2 steam arrowhead"
   },
   {
     "id": 654,
@@ -8484,12 +8484,12 @@
     "type": "Arrow",
     "subtype": null,
     "tool": "Cursed Oil Barrel",
-    "result": "Cursed Steam Cloud Arrow",
+    "result": "Cursed Steamcloud Arrow",
     "ingredients": [
       "Rune Of Boon & Banes",
-      "Steam Cloud Arrow"
+      "Steamcloud Arrow"
     ],
-    "searchTerms": "cursed oil barrel cursed steam cloud arrow rune of boon & banes"
+    "searchTerms": "cursed oil barrel cursed steamcloud arrow rune of boon & banes"
   },
   {
     "id": 668,
@@ -8532,12 +8532,12 @@
     "type": "Arrow",
     "subtype": null,
     "tool": "Cursed Oil Barrel",
-    "result": "Cursed Poison Cloud Arrow",
+    "result": "Cursed Poisoncloud Arrow",
     "ingredients": [
-      "Poison Cloud Arrow",
+      "Poisoncloud Arrow",
       "Rune Of Boon & Banes"
     ],
-    "searchTerms": "cursed oil barrel cursed poison cloud arrow rune of boon & banes"
+    "searchTerms": "cursed oil barrel cursed poisoncloud arrow rune of boon & banes"
   },
   {
     "id": 672,
@@ -8916,12 +8916,12 @@
     "type": "Grenade",
     "subtype": null,
     "tool": null,
-    "result": "Poison Cloud Grenade",
+    "result": "Poisoncloud Grenade",
     "ingredients": [
       "Empty Canister",
       "Poison / Rotten Eggs"
     ],
-    "searchTerms": "empty canister poison / rotten eggs poison cloud grenade"
+    "searchTerms": "empty canister poison / rotten eggs poisoncloud grenade"
   },
   {
     "id": 704,
@@ -9031,7 +9031,7 @@
       "Rope",
       "Water Balloon"
     ],
-    "searchTerms": "rope soggy nailbomb water balloon"
+    "searchTerms": "nailbomb grenade rope soggy nailbomb water balloon"
   },
   {
     "id": 713,
@@ -9057,7 +9057,7 @@
       "Oil Flask",
       "Rope"
     ],
-    "searchTerms": "nailbomb grenade oil flask oily nailbomb rope"
+    "searchTerms": "oil flask oily nailbomb rope"
   },
   {
     "id": 715,
@@ -9070,7 +9070,7 @@
       "Nailbomb Grenade",
       "Rope"
     ],
-    "searchTerms": "firestorm grenade flaming nailbomb nailbomb rope"
+    "searchTerms": "firestorm grenade flaming nailbomb nailbomb nailbomb grenade rope"
   },
   {
     "id": 716,
@@ -9414,12 +9414,12 @@
     "type": "Grenade",
     "subtype": null,
     "tool": "Cursed Oil Barrel",
-    "result": "Cursed Poison Cloud Grenade",
+    "result": "Cursed Poisoncloud Grenade",
     "ingredients": [
-      "Poison Cloud Grenade",
+      "Poisoncloud Grenade",
       "Rune Of Boon & Banes"
     ],
-    "searchTerms": "cursed oil barrel cursed poison cloud grenade rune of boon & banes"
+    "searchTerms": "cursed oil barrel cursed poisoncloud grenade rune of boon & banes"
   },
   {
     "id": 744,
@@ -11512,9 +11512,9 @@
     "tool": "Halloween Craft Station",
     "result": "Poison/health Potion",
     "ingredients": [
-      "Large Posion Bottle"
+      "Large Potion Bottle"
     ],
-    "searchTerms": "halloween craft station large posion bottle poison/health potion"
+    "searchTerms": "halloween craft station large potion bottle poison/health potion"
   },
   {
     "id": 916,
@@ -14524,7 +14524,7 @@
       "Heart Of The Divine",
       "Sheet Paper"
     ],
-    "searchTerms": "demon altar sheet paper"
+    "searchTerms": "demon altar heart of the divine skillbook sheet paper"
   },
   {
     "id": 1165,
@@ -14536,7 +14536,7 @@
       "Sheet Paper",
       "Tongue Of The Divine"
     ],
-    "searchTerms": "demon altar sheet paper"
+    "searchTerms": "demon altar sheet paper tongue of the divine skillbook"
   },
   {
     "id": 1166,
@@ -15903,9 +15903,9 @@
     "result": "Apple Juice",
     "ingredients": [
       "Apple",
-      "Cupempty"
+      "Empty Cup"
     ],
-    "searchTerms": "apple juice consumable cupempty"
+    "searchTerms": "apple juice consumable empty cup"
   },
   {
     "id": 1273,
@@ -16598,10 +16598,10 @@
     "tool": null,
     "result": "Orange Juice",
     "ingredients": [
-      "Cupempty",
+      "Empty Cup",
       "Orange"
     ],
-    "searchTerms": "consumable cupempty orange juice"
+    "searchTerms": "consumable empty cup orange juice"
   },
   {
     "id": 1333,
@@ -17182,7 +17182,7 @@
       "Amadouvier",
       "Empty Bucket"
     ],
-    "searchTerms": "amadouvier seedling empty bucket"
+    "searchTerms": "empty bucket"
   },
   {
     "id": 1380,
@@ -17194,7 +17194,7 @@
       "Amethyst Deceiver",
       "Empty Bucket"
     ],
-    "searchTerms": "amethyst deceiver seedling empty bucket"
+    "searchTerms": "empty bucket"
   },
   {
     "id": 1381,
@@ -17218,7 +17218,7 @@
       "Boletus",
       "Empty Bucket"
     ],
-    "searchTerms": "empty bucket"
+    "searchTerms": "boletus seedling empty bucket"
   },
   {
     "id": 1383,
@@ -17230,7 +17230,7 @@
       "Calocera",
       "Empty Bucket"
     ],
-    "searchTerms": "calocera seedling empty bucket"
+    "searchTerms": "empty bucket"
   },
   {
     "id": 1384,
@@ -17242,7 +17242,7 @@
       "Chanterelle",
       "Empty Bucket"
     ],
-    "searchTerms": "empty bucket"
+    "searchTerms": "chanterelle seedling empty bucket"
   },
   {
     "id": 1385,
@@ -17254,7 +17254,7 @@
       "Drudenae",
       "Empty Bucket"
     ],
-    "searchTerms": "empty bucket"
+    "searchTerms": "drudenae seedling empty bucket"
   },
   {
     "id": 1386,
@@ -17278,7 +17278,7 @@
       "Empty Bucket",
       "Puffball"
     ],
-    "searchTerms": "empty bucket"
+    "searchTerms": "empty bucket puffball seedling"
   },
   {
     "id": 1388,
@@ -17302,7 +17302,7 @@
       "Empty Bucket",
       "Trumpet Of Death Mushroom"
     ],
-    "searchTerms": "empty bucket trumpet of death mushroom seedling"
+    "searchTerms": "empty bucket"
   },
   {
     "id": 1390,
@@ -17314,7 +17314,7 @@
       "Empty Bucket",
       "Whisperwood"
     ],
-    "searchTerms": "empty bucket"
+    "searchTerms": "empty bucket whisperwood seedling"
   },
   {
     "id": 1391,
@@ -17349,7 +17349,7 @@
     "ingredients": [
       "Amadouvier"
     ],
-    "searchTerms": "amadouvier seedling clay-filled bucket"
+    "searchTerms": "clay-filled bucket"
   },
   {
     "id": 1394,
@@ -17360,7 +17360,7 @@
     "ingredients": [
       "Amethyst Deceiver"
     ],
-    "searchTerms": "amethyst deceiver seedling clay-filled bucket"
+    "searchTerms": "clay-filled bucket"
   },
   {
     "id": 1395,
@@ -17371,7 +17371,7 @@
     "ingredients": [
       "Augmentor"
     ],
-    "searchTerms": "clay-filled bucket"
+    "searchTerms": "augmentor seedling clay-filled bucket"
   },
   {
     "id": 1396,
@@ -17382,7 +17382,7 @@
     "ingredients": [
       "Boletus"
     ],
-    "searchTerms": "clay-filled bucket"
+    "searchTerms": "boletus seedling clay-filled bucket"
   },
   {
     "id": 1397,
@@ -17404,7 +17404,7 @@
     "ingredients": [
       "Chanterelle"
     ],
-    "searchTerms": "clay-filled bucket"
+    "searchTerms": "chanterelle seedling clay-filled bucket"
   },
   {
     "id": 1399,
@@ -17415,7 +17415,7 @@
     "ingredients": [
       "Drudenae"
     ],
-    "searchTerms": "clay-filled bucket"
+    "searchTerms": "clay-filled bucket drudenae seedling"
   },
   {
     "id": 1400,
@@ -17437,7 +17437,7 @@
     "ingredients": [
       "Puffball"
     ],
-    "searchTerms": "clay-filled bucket"
+    "searchTerms": "clay-filled bucket puffball seedling"
   },
   {
     "id": 1402,
@@ -17459,7 +17459,7 @@
     "ingredients": [
       "Trumpet Of Death Mushroom"
     ],
-    "searchTerms": "clay-filled bucket trumpet of death mushroom seedling"
+    "searchTerms": "clay-filled bucket"
   },
   {
     "id": 1404,
@@ -17470,7 +17470,7 @@
     "ingredients": [
       "Whisperwood"
     ],
-    "searchTerms": "clay-filled bucket"
+    "searchTerms": "clay-filled bucket whisperwood seedling"
   },
   {
     "id": 1405,
@@ -17481,7 +17481,7 @@
     "ingredients": [
       "Wizard Hat Agaric"
     ],
-    "searchTerms": "clay-filled bucket"
+    "searchTerms": "clay-filled bucket wizard hat agaric seedling"
   },
   {
     "id": 1406,
@@ -18573,7 +18573,7 @@
       "Empty Vial",
       "Orange"
     ],
-    "searchTerms": "distillery station empty vial orange dye"
+    "searchTerms": "distillery station empty vial"
   },
   {
     "id": 1498,
@@ -19293,12 +19293,12 @@
     "tool": "Workbench",
     "result": "Unique Ring Of Summoning",
     "ingredients": [
-      "Anthropod Leg",
+      "Arthropod Leg",
       "Black Diamond",
       "Empty Ring",
       "Topaz"
     ],
-    "searchTerms": "anthropod leg black diamond empty ring jewelry topaz unique ring of summoning workbench"
+    "searchTerms": "arthropod leg black diamond empty ring jewelry topaz unique ring of summoning workbench"
   },
   {
     "id": 1554,

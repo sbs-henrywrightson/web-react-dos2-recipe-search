@@ -13,17 +13,14 @@
   --color-button-filled-foreground: var(--color-button-filled-foreground);
   --color-button-filled-border: var(--color-button-filled-border);
   --color-button-filled-hover: var(--color-button-filled-hover);
-  --color-button-filled-active: var(--color-button-filled-active);
 
   --color-button-outline-background: var(--color-button-outline-background);
   --color-button-outline-foreground: var(--color-button-outline-foreground);
   --color-button-outline-border: var(--color-button-outline-border);
   --color-button-outline-hover: var(--color-button-outline-hover);
-  --color-button-outline-active: var(--color-button-outline-active);
 
   --color-button-plain-foreground: var(--color-button-plain-foreground);
   --color-button-plain-hover: var(--color-button-plain-hover);
-  --color-button-plain-active: var(--color-button-plain-active);
 
   --color-button-tool-background: var(--color-button-tool-background);
   --color-button-tool-foreground: var(--color-button-tool-foreground);
@@ -52,23 +49,19 @@
   --color-button-filled-foreground: hsl(0, 0%, 0%);
   --color-button-filled-border: hsl(34, 78%, 20%);
   --color-button-filled-hover: hsl(34, 62%, 30%);
-  --color-button-filled-active: hsl(0, 0%, 29%);
 
   --color-button-outline-background: hsl(34, 78%, 0%);
   --color-button-outline-foreground: hsl(0, 0%, 100%);
   --color-button-outline-border: hsl(0, 0%, 0%);
   --color-button-outline-hover: hsl(0, 0%, 39%);
-  --color-button-outline-active: hsl(0, 0%, 29%);
 
   --color-button-plain-foreground: hsl(0, 0%, 0%);
   --color-button-plain-hover: hsl(0, 0%, 80%);
-  --color-button-plain-active: hsl(0, 0%, 29%);
 
   --color-button-tool-background: hsl(242, 100%, 20%);
   --color-button-tool-foreground: hsl(0, 0%, 100%);
   --color-button-tool-border: hsl(242, 100%, 50%);
   --color-button-tool-hover: hsl(242, 100%, 40%);
-  --color-button-tool-active: hsl(0, 0%, 29%);
 
   --color-form-field-background: hsl(0, 0%, 90%);
   --color-form-field-text-disabled: hsl(0, 0%, 65%);
@@ -93,23 +86,19 @@
     --color-button-filled-foreground: hsl(0, 0%, 100%);
     --color-button-filled-border: hsl(34, 62%, 50%);
     --color-button-filled-hover: hsl(34, 62%, 40%);
-    --color-button-filled-active: hsl(0, 0%, 29%);
 
     --color-button-outline-background: hsl(34, 78%, 20%);
     --color-button-outline-foreground: hsl(0, 0%, 100%);
     --color-button-outline-border: hsl(0, 0%, 100%);
     --color-button-outline-hover: hsl(0, 0%, 39%);
-    --color-button-outline-active: hsl(0, 0%, 29%);
 
     --color-button-plain-foreground: hsl(0, 0%, 100%);
     --color-button-plain-hover: hsl(0, 0%, 25%);
-    --color-button-plain-active: hsl(0, 0%, 90%);
 
     --color-button-tool-background: hsl(242, 100%, 20%);
     --color-button-tool-foreground: hsl(0, 0%, 100%);
     --color-button-tool-border: hsl(242, 100%, 50%);
     --color-button-tool-hover: hsl(242, 100%, 40%);
-    --color-button-tool-active: hsl(0, 0%, 29%);
 
     --color-form-field-background: hsl(0, 0%, 0%);
     --color-form-field-text-disabled: hsl(0, 0%, 65%);
@@ -121,6 +110,17 @@
     --color-recipe-type-muted: hsl(0, 0%, 30%);
 
     --test: hsl(33, 71%, 22%);
+  }
+}
+
+@media (hover: none) {
+  * {
+    -webkit-tap-highlight-color: transparent;
+    --color-button-filled-hover: transparent;
+    --color-button-outline-hover: transparent;
+    --color-button-plain-hover: transparent;
+    --color-button-tool-hover: transparent;
+    --color-recipe-type-hover: transparent;
   }
 }
 
