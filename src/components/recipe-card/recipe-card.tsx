@@ -13,7 +13,7 @@ export default function RecipeCard({ recipe, query, onIngredientClick }: RecipeC
       <div className='flex items-center justify-between'>
         <AppButton
           buttonType='plain'
-          className='text-xl font-semibold px-1 rounded hover:bg-recipe-type-hover'
+          className='text-left text-xl font-semibold px-1 rounded hover:bg-recipe-type-hover'
           onClick={() => onIngredientClick(recipe.result.toLowerCase())}
         >
           {recipe.result}
@@ -21,7 +21,6 @@ export default function RecipeCard({ recipe, query, onIngredientClick }: RecipeC
         {recipe.subtype && <p className='text-xs'>({recipe.subtype})</p>}
       </div>
 
-      {/* <p className='text-sm text-muted-foreground text-amber-600'>{recipe.ingredients.join(', ')}</p> */}
       <IngredientsList key={recipe.id} recipe={recipe} query={query} onPillClick={onIngredientClick}></IngredientsList>
     </div>
   );
